@@ -1,35 +1,37 @@
 import pandas as pd
+import os
+import csv
+
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 
 def load_questions(filepath):
-    """
-    Load questions from a CSV file that contains a 'question' column.
-    """
-    df = pd.read_csv(filepath)
+    abs_filepath = os.path.join(project_root, filepath)
+    df = pd.read_csv(abs_filepath)
     if 'question' not in df.columns:
         raise ValueError("CSV file must contain a 'question' column.")
     return df
 
 
 def load_misspellings(filepath):
-    """
-    Load misspellings from a CSV file.
+    print(f"DEBUG - Entering load_misspellings with filepath: {filepath}")
+    abs_filepath = os.path.join(project_root, filepath)
+    print(f"DEBUG - Loading CSV from: {abs_filepath}")
 
-    Expected CSV format:
-      correct_word,misspellings
-      What,"wath,wtah"
-
-    Returns a dictionary mapping each correct word (in lowercase)
-    to a list of candidate misspellings.
-    """
-    df = pd.read_csv(filepath, dtype=str)
     misspellings = {}
-    for index, row in df.iterrows():
-        key = row["correct_word"].strip().lower()
-        # Split the comma-separated string into a list of candidates.
-        cell_value = row["misspellings"]
-        candidates = [s.strip() for s in cell_value.split(",") if s.strip()]
-        misspellings[key] = candidates
-    # Debug print to verify the dictionary contents.
-    print("DEBUG - Loaded misspellings dictionary:", misspellings)
+    with open(abs_filepath, 'r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        header = next(reader)  # Skip header
+        print(f"DEBUG - CSV header: {header}")
+        for row in reader:
+            print(f"DEBUG - Raw row: {row}")
+            if len(row) != 2:
+                print(f"DEBUG - Skipping invalid row (expected 2 fields, got {len(row)}): {row}")
+                continue
+            key = row[0].strip().lower()
+            candidates = [s.strip() for s in row[1].split(",") if s.strip()]
+            misspellings[key] = candidates
+            print(f"DEBUG - Loaded: {key} -> {candidates}")
+
+    print(f"Loaded misspellings dictionary with {len(misspellings)} entries.")
     return misspellings
