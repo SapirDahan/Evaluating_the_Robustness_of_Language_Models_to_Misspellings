@@ -1,5 +1,9 @@
-from transformers import pipeline
+import sys
 import torch
+from transformers import pipeline
+
+# Prevent transformers from importing pandas
+sys.modules['pandas'] = None
 
 def load_model_pipeline(model_name):
     """

@@ -14,24 +14,18 @@ def load_questions(filepath):
 
 
 def load_misspellings(filepath):
-    print(f"DEBUG - Entering load_misspellings with filepath: {filepath}")
     abs_filepath = os.path.join(project_root, filepath)
-    print(f"DEBUG - Loading CSV from: {abs_filepath}")
 
     misspellings = {}
     with open(abs_filepath, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         header = next(reader)  # Skip header
-        print(f"DEBUG - CSV header: {header}")
         for row in reader:
-            print(f"DEBUG - Raw row: {row}")
             if len(row) != 2:
-                print(f"DEBUG - Skipping invalid row (expected 2 fields, got {len(row)}): {row}")
                 continue
             key = row[0].strip().lower()
             candidates = [s.strip() for s in row[1].split(",") if s.strip()]
             misspellings[key] = candidates
-            print(f"DEBUG - Loaded: {key} -> {candidates}")
 
     print(f"Loaded misspellings dictionary with {len(misspellings)} entries.")
     return misspellings

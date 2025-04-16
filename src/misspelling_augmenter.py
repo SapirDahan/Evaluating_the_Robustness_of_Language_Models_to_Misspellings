@@ -11,16 +11,12 @@ def load_questions(filepath):
     return df
 
 def load_misspellings(filepath):
-    print(f"DEBUG - Entering load_misspellings with filepath: {filepath}")
     abs_filepath = os.path.join(project_root, filepath)
-    print(f"DEBUG - Loading CSV from: {abs_filepath}")
     df = pd.read_csv(abs_filepath, dtype=str, keep_default_na=False)
-    print(f"DEBUG - Raw CSV data:\n{df.to_string()}")
     misspellings = {}
     for _, row in df.iterrows():
         key = row["correct_word"].strip().lower()
         candidates = [s.strip() for s in row["misspellings"].split(",") if s.strip()]
         misspellings[key] = candidates
-        print(f"DEBUG - Loaded: {key} -> {candidates}")
     print(f"Loaded misspellings dictionary with {len(misspellings)} entries.")
     return misspellings
