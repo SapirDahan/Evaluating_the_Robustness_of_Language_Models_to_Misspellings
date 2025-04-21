@@ -1,21 +1,43 @@
-import sys
-import os
-
-# Set base_dir based on script location, going up one level from the script's directory
-base_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
-# Ensure the base directory exists
-if not os.path.exists(base_dir):
-    raise FileNotFoundError(f"Base directory not found: {base_dir}. Please ensure the project is located at this path.")
-
+import torch
 import pandas as pd
-import importlib
-import src.data_io
-importlib.reload(src.data_io)
-from src.data_io import load_questions, load_misspellings
-
+import os
 import itertools
+from collections import defaultdict
+from tqdm import tqdm
 
-# Function to adjust the case of a word based on the original text
+# ───── Configuration ───── #
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+# ───── Paths ───── #
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+questions_path = os.path.join(base_dir, 'data', 'questions.csv')
+misspellings_path = os.path.join(base_dir, 'data', 'misspellings.csv')
+output_path = os.path.join(base_dir, 'data', 'augmented_questions.csv')
+
+# ───── Load CSVs ───── #
+questions_df = pd.read_csv(questions_path)
+misspellings_df = pd.read_csv(misspellings_path)
+
+# ───── Parse misspellings into a dictionary ───── #
+misspellings_dict = {}
+for _, row in misspellings_df.iterrows():
+    word = row['correct_word'].lower()
+    misspells = row['misspellings'].strip().split(',')
+    misspellings_dict[word] = [w.strip() for w in misspells]
+
+# ───── Build Vocabulary ───── #
+vocab = set()
+for q in questions_df['question']:
+    vocab.update(q.lower().split())
+for w, ms in misspellings_dict.items():
+    vocab.add(w)
+    vocab.update(ms)
+
+# Word <-> index mappings
+word2idx = {word: idx for idx, word in enumerate(sorted(vocab))}
+idx2word = {idx: word for word, idx in word2idx.items()}
+
+# ───── Utilities ───── #
 def adjust_case(original, new):
     if original.istitle():
         return new.capitalize()
@@ -25,99 +47,65 @@ def adjust_case(original, new):
         return new.lower()
     return new
 
-# Function to generate augmented variants of a sentence with misspellings
-def generate_augmented_variants(sentence, misspellings_dict, max_errors=10):
-    words = sentence.split()
-    candidate_indices = [i for i, word in enumerate(words) if word.lower() in misspellings_dict]
-    variants = [(sentence, 0)]
-    max_errors = min(max_errors, len(candidate_indices))
+def tokenize(sentence):
+    return [word2idx[word.lower()] for word in sentence.split()]
+
+def detokenize(indexes, original_sentence):
+    original_words = original_sentence.split()
+    words = [adjust_case(original_words[i], idx2word[idx]) for i, idx in enumerate(indexes)]
+    return " ".join(words)
+
+# ───── Generate Variants on GPU ───── #
+def generate_variants_gpu(sentence, max_errors=2, max_variants=1000):
+    original_words = sentence.split()
+    indices = torch.tensor(tokenize(sentence), device=device)
+
+    replaceable = []
+    for i, word in enumerate(original_words):
+        lw = word.lower()
+        if lw in misspellings_dict:
+            replacements = [word2idx[mw] for mw in misspellings_dict[lw] if mw in word2idx]
+            if replacements:
+                replaceable.append((i, torch.tensor(replacements, device=device)))
+
+    if len(replaceable) == 0:
+        return [(sentence, 0)]
+
+    variants = [(indices.clone(), 0)]
+    total = 1
+
+    max_errors = min(max_errors, len(replaceable))
 
     for error_count in range(1, max_errors + 1):
-        for indices in itertools.combinations(candidate_indices, error_count):
-            replacement_options = []
-            for i in indices:
-                word = words[i]
-                candidates = misspellings_dict[word.lower()]
-                adjusted_candidates = [adjust_case(word, cand) for cand in candidates]
-                replacement_options.append(adjusted_candidates)
+        for combo in itertools.combinations(replaceable, error_count):
+            positions, choices = zip(*combo)
+            for new_words in itertools.product(*choices):
+                new_indices = indices.clone()
+                for pos, new_word in zip(positions, new_words):
+                    new_indices[pos] = new_word
+                variants.append((new_indices, error_count))
+                total += 1
+                if total >= max_variants:
+                    break
+            if total >= max_variants:
+                break
+        if total >= max_variants:
+            break
 
-            for replacements in itertools.product(*replacement_options):
-                new_words = words.copy()
-                for idx, i in enumerate(indices):
-                    new_words[i] = replacements[idx]
-                variant = " ".join(new_words)
-                variants.append((variant, error_count))
+    return [(detokenize(v.tolist(), sentence), e) for v, e in variants]
 
-    return variants
-
-# Function to check the version of the generate_augmented_variants function
-def check_function_version():
-    test_sentence = "Test"
-    test_dict = {"test": ["tset", "tets"]}
-    result = generate_augmented_variants(test_sentence, test_dict, max_errors=1)
-    if len(result) > 1:
-        print("Function version check: Updated version detected (multiple variants generated)")
-    else:
-        print("Function version check: Issue detected (expected multiple variants)")
-
-check_function_version()
-
-# Define data directory
-data_dir = os.path.join(base_dir, 'data')
-
-# Create data directory if it doesn't exist
-if not os.path.exists(data_dir):
-    os.makedirs(data_dir)
-
-# Try to list directory contents and handle potential errors
-try:
-    files_in_data = os.listdir(data_dir)
-except OSError as e:
-    print(f"Error listing directory {data_dir}: {e}")
-    raise
-
-questions_path = os.path.join(base_dir, 'data', 'questions.csv')
-misspellings_path = os.path.join(base_dir, 'data', 'misspellings.csv')
-output_path = os.path.join(base_dir, 'data', 'augmented_questions.csv')
-
-# Create default files if they don't exist
-if not os.path.exists(questions_path):
-    with open(questions_path, 'w') as f:
-        f.write("question\nWhat is the capital of France?")
-    print(f"Created default questions.csv at {questions_path}")
-
-if not os.path.exists(misspellings_path):
-    with open(misspellings_path, 'w') as f:
-        f.write("word,misspellings\nwhat,\"wath,wtah\"\nis,iss")
-    print(f"Created default misspellings.csv at {misspellings_path}")
-
-# Load the questions and misspellings datasets
-questions_df = load_questions(questions_path)
-print(f"Loaded questions: {questions_df.shape}")
-
-misspellings_dict = load_misspellings(misspellings_path)
-
-questions_full = questions_df.copy()
-
-# Generate augmented variants by combining the two datasets
+# ───── Generate Full Dataset ───── #
 augmented_variants = []
-for idx, row in questions_full.iterrows():
-    original_text = row['question']
-    variants = generate_augmented_variants(original_text, misspellings_dict, max_errors=10)
-    for variant_text, error_count in variants:
+for sentence in tqdm(questions_df['question'], desc="Generating variants"):
+    variants = generate_variants_gpu(sentence, max_errors=10)
+    for variant, err in variants:
         augmented_variants.append({
-            'original_question': original_text,
-            'variant_question': variant_text,
-            'error_count': error_count
+            'original_question': sentence,
+            'variant_question': variant,
+            'error_count': err
         })
 
+# ───── Save Output ───── #
 augmented_df = pd.DataFrame(augmented_variants)
-print(f"Augmented dataset shape: {augmented_df.shape}")
-
-# Save the augmented dataset to a new CSV file
-try:
-    augmented_df.to_csv(output_path, index=False)
-    print(f"Augmented questions saved at {output_path}")
-except Exception as e:
-    print(f"Error saving augmented_questions.csv: {e}")
-    raise
+augmented_df.to_csv(output_path, index=False)
+print(f"✓ Saved augmented dataset to: {output_path}")
