@@ -56,7 +56,7 @@ def detokenize(indexes, original_sentence):
     return " ".join(words)
 
 # ───── Generate Variants on GPU ───── #
-def generate_variants_gpu(sentence, max_errors=2, max_variants=1000):
+def generate_variants_gpu(sentence, max_errors=10, max_variants=100):
     original_words = sentence.split()
     indices = torch.tensor(tokenize(sentence), device=device)
 
