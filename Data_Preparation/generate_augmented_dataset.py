@@ -1,31 +1,32 @@
 import torch
 import pandas as pd
 import os
-import itertools
-from collections import defaultdict
+import random
 from tqdm import tqdm
 
 # ───── Configuration ───── #
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Using device: {device}")
 
 # ───── Paths ───── #
 base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-questions_path = os.path.join(base_dir, 'data', 'questions.csv')
+questions_path    = os.path.join(base_dir, 'data', 'questions.csv')
 misspellings_path = os.path.join(base_dir, 'data', 'misspellings.csv')
-output_path = os.path.join(base_dir, 'data', 'augmented_questions.csv')
+output_path       = os.path.join(base_dir, 'data', 'augmented_questions.csv')
 
 # ───── Load CSVs ───── #
-questions_df = pd.read_csv(questions_path)
-misspellings_df = pd.read_csv(misspellings_path)
+questions_df     = pd.read_csv(questions_path)
+misspellings_df  = pd.read_csv(misspellings_path)
 
-# ───── Parse misspellings into a dictionary ───── #
+# ───── Parse misspellings into a dict ───── #
 misspellings_dict = {}
 for _, row in misspellings_df.iterrows():
     word = row['correct_word'].lower()
-    misspells = row['misspellings'].strip().split(',')
-    misspellings_dict[word] = [w.strip() for w in misspells]
+    miss = [m.strip() for m in row['misspellings'].split(',') if m.strip()]
+    if miss:
+        misspellings_dict[word] = miss
 
-# ───── Build Vocabulary ───── #
+# ───── Build vocab and mappings ───── #
 vocab = set()
 for q in questions_df['question']:
     vocab.update(q.lower().split())
@@ -33,79 +34,87 @@ for w, ms in misspellings_dict.items():
     vocab.add(w)
     vocab.update(ms)
 
-# Word <-> index mappings
-word2idx = {word: idx for idx, word in enumerate(sorted(vocab))}
-idx2word = {idx: word for word, idx in word2idx.items()}
+word2idx = {w: i for i, w in enumerate(sorted(vocab))}
+idx2word = {i: w for w, i in word2idx.items()}
 
-# ───── Utilities ───── #
-def adjust_case(original, new):
-    if original.istitle():
-        return new.capitalize()
-    elif original.isupper():
-        return new.upper()
-    elif original.islower():
-        return new.lower()
+# ───── Case-aware replacer ───── #
+def adjust_case(orig: str, new: str) -> str:
+    if orig.istitle():   return new.capitalize()
+    if orig.isupper():   return new.upper()
+    if orig.islower():   return new.lower()
     return new
 
-def tokenize(sentence):
-    return [word2idx[word.lower()] for word in sentence.split()]
+# ───── Tokenize / Detokenize ───── #
+def tokenize(sent: str) -> list[int]:
+    return [word2idx[w.lower()] for w in sent.split()]
 
-def detokenize(indexes, original_sentence):
-    original_words = original_sentence.split()
-    words = [adjust_case(original_words[i], idx2word[idx]) for i, idx in enumerate(indexes)]
-    return " ".join(words)
+def detokenize(idxs: list[int], orig_sent: str) -> str:
+    orig_words = orig_sent.split()
+    out_words = []
+    for i, idx in enumerate(idxs):
+        w_new = idx2word[idx]
+        out_words.append(adjust_case(orig_words[i], w_new))
+    return " ".join(out_words)
 
-# ───── Generate Variants on GPU ───── #
-def generate_variants_gpu(sentence, max_errors=10, max_variants=100):
-    original_words = sentence.split()
-    indices = torch.tensor(tokenize(sentence), device=device)
-
-    replaceable = []
-    for i, word in enumerate(original_words):
-        lw = word.lower()
-        if lw in misspellings_dict:
-            replacements = [word2idx[mw] for mw in misspellings_dict[lw] if mw in word2idx]
-            if replacements:
-                replaceable.append((i, torch.tensor(replacements, device=device)))
-
-    if len(replaceable) == 0:
+# ───── Generate variants, leveraging GPU for token ops ───── #
+def generate_variants_gpu(sentence: str, max_errors: int = 10, variants_per_error: int = 10):
+    orig_words  = sentence.split()
+    lower_words = [w.lower() for w in orig_words]
+    valid_pos   = [i for i, w in enumerate(lower_words) if w in misspellings_dict]
+    if not valid_pos:
         return [(sentence, 0)]
 
-    variants = [(indices.clone(), 0)]
-    total = 1
+    # push token IDs to device once
+    orig_ids = torch.tensor(tokenize(sentence), device=device)
+    valid_pos_t = torch.tensor(valid_pos, device=device)
 
-    max_errors = min(max_errors, len(replaceable))
+    variants = [(sentence, 0)]
 
-    for error_count in range(1, max_errors + 1):
-        for combo in itertools.combinations(replaceable, error_count):
-            positions, choices = zip(*combo)
-            for new_words in itertools.product(*choices):
-                new_indices = indices.clone()
-                for pos, new_word in zip(positions, new_words):
-                    new_indices[pos] = new_word
-                variants.append((new_indices, error_count))
-                total += 1
-                if total >= max_variants:
-                    break
-            if total >= max_variants:
-                break
-        if total >= max_variants:
+    for err_cnt in range(1, max_errors + 1):
+        generated = 0
+        attempts  = 0
+        max_attempts = variants_per_error * 10
+
+        if len(valid_pos) < err_cnt:
             break
 
-    return [(detokenize(v.tolist(), sentence), e) for v, e in variants]
+        while generated < variants_per_error and attempts < max_attempts:
+            attempts += 1
 
-# ───── Generate Full Dataset ───── #
-augmented_variants = []
-for sentence in tqdm(questions_df['question'], desc="Generating variants"):
-    variants = generate_variants_gpu(sentence, max_errors=10)
-    for variant, err in variants:
-        augmented_variants.append({
-            'original_question': sentence,
-            'variant_question': variant,
-            'error_count': err
+            # pick err_cnt distinct positions on GPU
+            perm = torch.randperm(len(valid_pos_t), device=device)
+            chosen = valid_pos_t[perm[:err_cnt]].tolist()
+
+            new_ids = orig_ids.clone()  # still on GPU
+
+            # for each chosen position, pick a random misspelling
+            for pos in chosen:
+                correct = lower_words[pos]
+                miss_list = misspellings_dict.get(correct, [])
+                if not miss_list:
+                    continue
+                m = random.choice(miss_list)
+                new_ids[pos] = word2idx[m]
+
+            # pull back to CPU for detokenization
+            new_ids_cpu = new_ids.cpu().tolist()
+            new_sent   = detokenize(new_ids_cpu, sentence)
+            variants.append((new_sent, err_cnt))
+            generated += 1
+
+    return variants
+
+# ───── Main augmentation loop ───── #
+augmented = []
+for q in tqdm(questions_df['question'], desc="Augmenting"):
+    for var, errs in generate_variants_gpu(q, max_errors=10, variants_per_error=10):
+        augmented.append({
+            'original_question': q,
+            'variant_question':  var,
+            'error_count':       errs
         })
 
-# ───── Save Output ───── #
-augmented_df = pd.DataFrame(augmented_variants)
-augmented_df.to_csv(output_path, index=False)
+# ───── Save ───── #
+aug_df = pd.DataFrame(augmented)
+aug_df.to_csv(output_path, index=False)
 print(f"✓ Saved augmented dataset to: {output_path}")
