@@ -1,0 +1,573 @@
+{
+  "model_size": 1000000000,
+  "0": [
+    {
+      "id": "0_orig",
+      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var1",
+      "input": "Can defence attorneys 'throw' a case it they know their clients are guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var2",
+      "input": "Can defense aturneys 'throw' the case if they know their clients are guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var3",
+      "input": "Can defense attorneys 'throw' a cace if they know their clients rir guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var4",
+      "input": "Can defence attorneys 'throw' the case if they know their clients are guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var5",
+      "input": "Can defence attorneys 'throw' a case if ther know their clients are guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var6",
+      "input": "Can defense attorneys 'throw' a case is they know their clients or guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var7",
+      "input": "Can defense attorneys 'throw' a cace if thir know their clients are guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var8",
+      "input": "Can defense attorneys 'throw' a case if they know theri clients re guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var9",
+      "input": "Can defense attorneys 'throw' a case if they ha their clients run guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var10",
+      "input": "Can defence attoronies 'throw' a case if they know their clients are guilty?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "1": [
+    {
+      "id": "1_orig",
+      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var1",
+      "input": "How do movies not get uploaded online in HD from movei theater employees befrou their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var2",
+      "input": "How do movies nol git uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var3",
+      "input": "How do movies nat get uploaded online in HD from movei theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var4",
+      "input": "How dou movies nat get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var5",
+      "input": "Hou do movies not get uploaded online in HD from movie theater employees before they DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var6",
+      "input": "How doo movies non get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var7",
+      "input": "How do movies not geat uploaded online i HD from movie theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var8",
+      "input": "How do movies out get uploaded online in HD ofomt movie theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var9",
+      "input": "Haw dooe movies not get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var10",
+      "input": "Hou do movies not go uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "2": [
+    {
+      "id": "2_orig",
+      "input": "How do muscles grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var1",
+      "input": "How bo musirls grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var2",
+      "input": "Hou do musirls grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var3",
+      "input": "Hou dom muscles grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var4",
+      "input": "How bow musirls grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var5",
+      "input": "How dow muscels grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var6",
+      "input": "How bood musirls grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var7",
+      "input": "Hou do muscels grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var8",
+      "input": "Haw do musirls grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var9",
+      "input": "How olethl musirls grow?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "2_var10",
+      "input": "Hou bow muscles grow?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "3": [
+    {
+      "id": "3_orig",
+      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var1",
+      "input": "How do wey know all the money the government is getting from bank settlements is gonig back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var2",
+      "input": "How do we know all the mooey the government is gitting from bank settlements is going back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var3",
+      "input": "How do we know all the money the government si getting from bank settlements is going dack to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var4",
+      "input": "How do we mo all the mony the government is getting from bank settlements is going back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var5",
+      "input": "How do we know all the money the gobernment is getting frrom bank settlements is going back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var6",
+      "input": "How do we know all the money the government is getting from bank settlements is goning back of the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var7",
+      "input": "Hou do we know all the money the government in getting from bank settlements is going back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var8",
+      "input": "How do we know all the money the government us getting from bank settlements is going bak to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var9",
+      "input": "How do we know all the money he government is getting from bank settlements in going back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var10",
+      "input": "How do we know all the money the gomment is getting from bank settlements is going back to tehe people?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "4": [
+    {
+      "id": "4_orig",
+      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var1",
+      "input": "Is dark colours absorb more heat, why does light scin burn easier than dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var2",
+      "input": "If dark colours absorb mooe heat, why dose light skin burn easier than dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var3",
+      "input": "If darch colours absorb more heat, why does light scin burn easier than dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var4",
+      "input": "If dark colours absorb more heat, why does lit skin birn easier than dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var5",
+      "input": "Is dark calers absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var6",
+      "input": "If dark calers absorb more heat, why does light skin burn easier tahn dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var7",
+      "input": "If dark colours absorb more heat, why does lite skin burn ease than dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var8",
+      "input": "If dark colours absorb more heat, wiy does light skin burn easier thna dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var9",
+      "input": "If dark calers absorb more heat, why does light skin burn easier then dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var10",
+      "input": "If dark calers absorb more heat, why does light skin brun easier than dark skin?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "5": [
+    {
+      "id": "5_orig",
+      "input": "What are good and bad sides of manual and automatic drive gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var1",
+      "input": "What are good and bad sides on manual and automatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var2",
+      "input": "What are good and bad sides ovoe manual anbd automatic drive gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var3",
+      "input": "What are god and bad sides of manuel and automatic drive gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var4",
+      "input": "Who are good and bad sides of manuel and automatic drive gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var5",
+      "input": "Wat are good and bad sides of manual and automatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var6",
+      "input": "What are good and bad sides ofr manual and autumatic drive gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var7",
+      "input": "Wath are good and bad sides of manual and automatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var8",
+      "input": "What rea good and bad sides of manual and automatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var9",
+      "input": "What re good and bad sides of manual a automatic drive gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var10",
+      "input": "What are good so bad sides of manual anf automatic drive gear?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "6": [
+    {
+      "id": "6_orig",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var1",
+      "input": "What si they role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var2",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson play Aslan it Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var3",
+      "input": "What is ge role of actuall real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var4",
+      "input": "Wete is the role of actural real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var5",
+      "input": "What is i role of actual real-life actors in making animated characters? Like Liam Neeson palving Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var6",
+      "input": "What is an role of actual real-life actors is making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var7",
+      "input": "What is the role of actual real-life actors is making animated characters? Lichr Liam Neeson playing Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var8",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson plaing Aslan is Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var9",
+      "input": "Wot is the role of actual real-life actors in amking animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var10",
+      "input": "What is the role of actuall real-life actors in macking animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "7": [
+    {
+      "id": "7_orig",
+      "input": "Why are different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var1",
+      "input": "Why aree different tiers (regular < mid < premium) cift gas' prices almost always 10 cents different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var2",
+      "input": "Why ra different tiers (regular < mid < premium) of gas' prices almsot always 10 cents different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var3",
+      "input": "Why rae different tiers (regular < mid < premium) of gas' prices all_most always 10 cents different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var4",
+      "input": "Why are different tiers (regular < mid < premium) ofr gas' prices almost alwasy 10 cents different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var5",
+      "input": "Why aer different tiers (regular < mid < premium) of gas' prices almost always 10 cens different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var6",
+      "input": "Why ar different tiers (regular < mid < premium) of gas' prices almost always 10 cens different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var7",
+      "input": "Why are diffent tiers (regular < mid < premium) of gas' prices almost alway's 10 cents different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var8",
+      "input": "Wy aer different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var9",
+      "input": "Wy are different tiers (regular < mid < premium) of gas' prices almost always 10 cens different?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "7_var10",
+      "input": "Why are berth tiers (regular < mid < premium) off gas' prices almost always 10 cents different?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "8": [
+    {
+      "id": "8_orig",
+      "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? Doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var1",
+      "input": "Why does the water from my kitchen faucet taste different thna the water for my bathroom faucet? doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var2",
+      "input": "Why does the water from my kitchen faucet taste different than the water from me bathroom faucet? dosent it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var3",
+      "input": "Why does the water from my kitchen faucet taste different than an wather from my bathroom faucet? doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var4",
+      "input": "Why does to water from my kitchen faucet taste different than the water from may bathroom faucet? doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var5",
+      "input": "Why does the water fomr my kitchen faucet taste different than the water from my bathroom faucet? doesn't it cam from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var6",
+      "input": "Why does the water from miy kitchen faucet taste different than the water fere my bathroom faucet? doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var7",
+      "input": "Why does the water fam my kichen faucet taste different than the water from my bathroom faucet? doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var8",
+      "input": "Why does the water from my kitchen faucet tast different than the water foint my bathroom faucet? doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var9",
+      "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? doesnet it come from the soen place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var10",
+      "input": "Why dose the water from my kitchen faucet taste deifrnt than the water from my bathroom faucet? doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "9": [
+    {
+      "id": "9_orig",
+      "input": "Why is chickenpox worse as an adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var1",
+      "input": "Wiy is chickenpox worse as and adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var2",
+      "input": "Way is chickenpox wosre as an adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var3",
+      "input": "Yoy is chickenpox worse as on adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var4",
+      "input": "Why is chickenpox wosre have an adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var5",
+      "input": "Wy is chickenpox worse as on adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var6",
+      "input": "Wiy is chickenpox worse a an adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var7",
+      "input": "Why us chickenpox worst as an adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var8",
+      "input": "Why si chickenpox wosre as an adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var9",
+      "input": "Why as chickenpox worse as on adult?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "9_var10",
+      "input": "Way is chickenpox wosre as an adult?",
+      "output": "PLACEHOLDER"
+    }
+  ]
+}

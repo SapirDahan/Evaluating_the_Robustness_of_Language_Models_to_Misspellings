@@ -1,0 +1,402 @@
+{
+  "model_size": 350000000,
+  "0": [
+    {
+      "id": "0_orig",
+      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var1",
+      "input": "Con defence attorneys 'throw' and case is thy knowe these clients anr guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var2",
+      "input": "Came defence attorneys 'throw' ah cace it they kown thrir clients rea guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var3",
+      "input": "Came defence attorneys 'throw' ah cace is they naw ther clients ra guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var4",
+      "input": "Came defence attournies 'throw' an case is thror ha these clients are guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var5",
+      "input": "Came defence atterinies 'throw' a cace is they naw thire clients rea guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var6",
+      "input": "Came defence atternys 'throw' are case if thrar knowe they clients run guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var7",
+      "input": "Cane defence attournys 'throw' a cace it thaire nowe their clients run guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var8",
+      "input": "Con defense attourny 'throw' i case it thar on thire clients rir guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var9",
+      "input": "Con defense attorniies 'throw' are cace it the nkwo thire clients are guilty?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "0_var10",
+      "input": "Cane defence atturney- 'throw' as cace is they kwno their clients arre guilty?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "1": [
+    {
+      "id": "1_orig",
+      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var1",
+      "input": "Haw do movies hot cet uploaded online i HD form movie theather emplaryes be_for their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var2",
+      "input": "Hou dou movies hot ge uploaded online with HD form movie theater employese before there DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var3",
+      "input": "Hou do movies nol get uploaded online in HD fraom movei theather employes bef_for they DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var4",
+      "input": "Haw do movies onot gat uploaded online i HD from movei theather employ berfore their DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var5",
+      "input": "Haw do movies non get uploaded online with HD torme movie theather employes berofe thier DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var6",
+      "input": "How to movies not cet uploaded online im HD forme movei theater emploies berfore they DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var7",
+      "input": "Hou to movies no ge uploaded online in HD from movei theather employees b_for the DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var8",
+      "input": "Hou bow movies not gett uploaded online in HD ofomt movei theather imployees before these DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var9",
+      "input": "Haw dou movies ont git uploaded online in HD fome movei theater employees befrou thrir DVD release?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "1_var10",
+      "input": "Hou do movies ont get uploaded online i HD from movei theather inployee pefore they DVD release?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "3": [
+    {
+      "id": "3_orig",
+      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var1",
+      "input": "Hou bow we knwo all the munny i government as geting from bank settlements is going bakc to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var2",
+      "input": "Hou du we noi at tehe money thi government is getting from bank settlements is gomeing daxck to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var3",
+      "input": "Haw do were know all thee munny the gobernement is getting fomr bank settlements is going bek the the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var4",
+      "input": "Hou to were know at t money tu government si gitting from bank settlements is going back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var5",
+      "input": "How drow you on all the money the government is getting torme bank settlements us goning bach to tghe people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var6",
+      "input": "Hou du were know all the money the government is getting from bank settlements it gomeing dak too hte people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var7",
+      "input": "How do we know all thee moeny to govorment us getting from bank settlements it going fut to to people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var8",
+      "input": "Haw dowe were know all thee moeny the government is getting fome bank settlements as goign back to the people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var9",
+      "input": "How do were know all tje money they government si gitting from bank settlements is gowing lact to thw people?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "3_var10",
+      "input": "How bow we noi a an moeny the government as getting from bank settlements is go dark to the people?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "4": [
+    {
+      "id": "4_orig",
+      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var1",
+      "input": "If back calers absorb more heat, way doens light scin burn easer that drck skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var2",
+      "input": "If duc colours absorb mort heat, why dose ight scin burn easyer tahn duc skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var3",
+      "input": "It dake calers absorb mooe heat, why does lite scin burn eassier than ding skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var4",
+      "input": "If duc calers absorb mroe heat, way does light skin birn easyer thna dank skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var5",
+      "input": "If ding calers absorb more heat, why doens ight skin brun easery thna dia skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var6",
+      "input": "If dark colours absorb moor heat, way dose lite scin burn eassier thna down skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var7",
+      "input": "Is dark calers absorb moor heat, wy dose ight skin birn easier than dir skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var8",
+      "input": "Is dark calers absorb more heat, wiy does lite skin birn easy that dining skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var9",
+      "input": "It darw calers absorb more heat, wiy does ight skin brun easer tahn dark skin?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "4_var10",
+      "input": "It down calers absorb omre heat, wiy does light scin burn ease than dare skin?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "5": [
+    {
+      "id": "5_orig",
+      "input": "What are good and bad sides of manual and automatic drive gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var1",
+      "input": "Whaaat ah god a bed sides fo manual an automatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var2",
+      "input": "Whats are goad an bed sides ovot manual hand autumatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var3",
+      "input": "Waht ah good ane bed sides on manuel ane automatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var4",
+      "input": "Wath rae good an bed sides af manuel and autumatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var5",
+      "input": "Whot arte good anbd bad sides ov manuel hand autumatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var6",
+      "input": "What are go aud bed sides ov manuel aand autumatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var7",
+      "input": "Want ah good aand bed sides fo manuel anbd autumatic drive gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var8",
+      "input": "Who rae gowed and bad sides ove manuel aud autumatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var9",
+      "input": "Whats r go anf bed sides av manual an automatic driv gear?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "5_var10",
+      "input": "Waht er goad i bad sides onet manuel and autumatic driv gear?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "6": [
+    {
+      "id": "6_orig",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var1",
+      "input": "Whia si thoy role gf actual real-life actors if macking animated characters? Like Liam Neeson plaing Aslan if Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var2",
+      "input": "What si ther role off actuall real-life actors im amking animated characters? Liek Liam Neeson palving Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var3",
+      "input": "Wot us the role on actural real-life actors it makeing animated characters? Lekt Liam Neeson play Aslan in Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var4",
+      "input": "Waht si the role ovoe actural real-life actors is making animated characters? Took Liam Neeson plaing Aslan is Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var5",
+      "input": "Whot in a role ovot actuall real-life actors in making animated characters? Lekt Liam Neeson play Aslan im Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var6",
+      "input": "Woot is the role afoh actural real-life actors is macking animated characters? Lekt Liam Neeson palving Aslan if Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var7",
+      "input": "Whaaat us tjhe role ov actural real-life actors i mkaing animated characters? Like Liam Neeson playing Aslan it Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var8",
+      "input": "Wate is thoy role ov actual real-life actors i makeing animated characters? Lekt Liam Neeson plaing Aslan is Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var9",
+      "input": "Whaaat si thee role or actural real-life actors in making animated characters? Liek Liam Neeson plaing Aslan im Narnia?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "6_var10",
+      "input": "Woht us tie role on actual real-life actors in mkaing animated characters? Took Liam Neeson palving Aslan with Narnia?",
+      "output": "PLACEHOLDER"
+    }
+  ],
+  "8": [
+    {
+      "id": "8_orig",
+      "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? Doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var1",
+      "input": "Yoy dus the water from my kitchin faucet taste diffunt tahn thoy water from my both_rom faucet? doesn't it come from my same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var2",
+      "input": "Why does the weter from my kitchen faucet tast differt than tu watter forom my both_rom faucet? doesn't it come fere the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var3",
+      "input": "Wiy dus the water torme my kitchen faucet taste differed that the watter from my both_rom faucet? doesn't it come from the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var4",
+      "input": "Why does the water from mi kitchen faucet taste diffi that tu wather from ny bathroom faucet? doesn't it comr from tjhe same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var5",
+      "input": "Why does the weter fro my kitchen faucet tayste different than the water fere my bathroom faucet? does_on i come for tu same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var6",
+      "input": "Why dose the water from my kitchen faucet tayste different than they water frrom my both_rom faucet? doesn't it kumh forma the sam place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var7",
+      "input": "Why dus tjhe wather from me kitchen faucet taste different than the water from my both_rom faucet? doesn't et com fome the same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var8",
+      "input": "Wy does the water from me kitchen faucet taste difort than they water from my both_rom faucet? doesn't it come fram to smae place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var9",
+      "input": "Wiy does the water fou my kichen faucet tast different than thge water from mi bathroom faucet? doesn't i come from i same place?",
+      "output": "PLACEHOLDER"
+    },
+    {
+      "id": "8_var10",
+      "input": "Wiy dose the water from my kitchen faucet tayste different that my water from my bathroom faucet? donsent et come from the sam place?",
+      "output": "PLACEHOLDER"
+    }
+  ]
+}
