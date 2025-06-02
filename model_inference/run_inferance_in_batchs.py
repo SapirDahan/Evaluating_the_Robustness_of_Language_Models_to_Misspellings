@@ -7,72 +7,84 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from accelerate import dispatch_model
 
 # Hugging Face token (optional: only needed for gated models)
-token = None  # replace with your token if needed
+token = "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"
 
 # Inference config
-BATCH_SIZE = 8
-MAX_NEW_TOKENS = 64
+BATCH_SIZE = 16
+MAX_NEW_TOKENS = 32
 
 tokenizer_cache = {}
 model_cache = {}
 
-# Define per-model quantization preference
+# Define small models (no quantization)
+SMALL_MODELS = [
+    "Salesforce/codegen-350M-mono",
+    "EleutherAI/gpt-neo-125M",
+    "openai-community/gpt2",
+    "EleutherAI/pythia-70m",
+    "EleutherAI/pythia-160m",
+    #"mosaicml/mpt-1b-redpajama-200b",
+    "EleutherAI/pythia-1.4b"
+]
+
+# Define per-model quantization preference for large models
 QUANTIZATION_MODELS = {
-    "Salesforce/codegen-350M-mono": "8bit",
-    "mistralai/Mixtral-8x7B-Instruct-v0.1": "4bit",
-    "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO": "4bit",
-    "mistralai/Mistral-7B-v0.1": "4bit",
-    "HuggingFaceH4/zephyr-7b-beta": "4bit",
-    "openchat/openchat-3.5-0106": "4bit",
-    "CohereForAI/c4ai-command-r-v01": "4bit",
-    "tiiuae/falcon-7b-instruct": "4bit",
-    "EleutherAI/gpt-j-6B": "4bit",
-    "mosaicml/mpt-7b-instruct": "4bit",
-    "mosaicml/mpt-7b-chat": "4bit",
     "mosaicml/mpt-1b-redpajama-200b": "8bit",
-    "mosaicml/mpt-1b-chat": "8bit",
+    # "mosaicml/mpt-1b-chat": "8bit",  # Commented - invalid model
     "EleutherAI/pythia-1.4b": "8bit",
-    "EleutherAI/pythia-2.8b": "8bit",
-    "EleutherAI/gpt-neo-2.7B": "4bit",
-    "EleutherAI/gpt-neo-125M": "8bit",
-    "openai-community/gpt2": "8bit",
-    "EleutherAI/pythia-70m": "8bit",
-    "EleutherAI/pythia-160m": "8bit"
+    "HuggingFaceH4/zephyr-7b-beta": "8bit",
 }
 
 def load_model_and_tokenizer(model_name):
+    SPECIAL_MODELS = [
+        "mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
+        "HuggingFaceH4/zephyr-7b-beta",
+        "openchat/openchat-3.5-0106"
+    ]
+
+    FALCON_MODELS = [
+        "tiiuae/falcon-7b-instruct"
+    ]
+
+    GPTJ_MODELS = [
+        "EleutherAI/gpt-j-6B"
+    ]
+
+    MPT_MODELS = [
+        "mosaicml/mpt-7b-instruct",
+        "mosaicml/mpt-7b-chat"
+    ]
+
     if model_name not in tokenizer_cache:
         print(f"\n🔄 Loading model: {model_name}")
         try:
             tokenizer_args = {
-                "trust_remote_code": True,
-                "use_safetensors": True
-            }
-            model_args = {
-                "trust_remote_code": True,
                 "use_safetensors": True,
-                "device_map": "auto",
+                "token": token  # Always pass the token
             }
-            if token is not None:
-                tokenizer_args["token"] = token
-                model_args["token"] = token
 
-            # Select quantization based on model
-            quant_mode = QUANTIZATION_MODELS.get(model_name, "8bit")  # Default to 8bit if not listed
-            if quant_mode == "4bit":
+            if model_name in SMALL_MODELS:
+                model_args = {
+                    "use_safetensors": True,
+                    "token": token
+                }
+            else:
                 bnb_config = BitsAndBytesConfig(
-                    load_in_4bit=True,
-                    bnb_4bit_compute_dtype=torch.bfloat16,
-                    bnb_4bit_use_double_quant=True,
-                    bnb_4bit_quant_type="nf4",
+                    load_in_8bit=True,
                     llm_int8_enable_fp32_cpu_offload=True
                 )
-                model_args["quantization_config"] = bnb_config
-            else:
-                model_args["quantization_config"] = BitsAndBytesConfig(
-                    load_in_8bit=True
-                )
+                model_args = {
+                    "use_safetensors": True,
+                    "device_map": "auto",
+                    "quantization_config": bnb_config,
+                    "token": token
+                }
+                # Only add trust_remote_code if needed
+                if (model_name not in FALCON_MODELS and model_name not in MPT_MODELS) or model_name == "mosaicml/mpt-1b-redpajama-200b":
+                    model_args["trust_remote_code"] = True
 
+            # Load tokenizer
             tokenizer = AutoTokenizer.from_pretrained(
                 model_name,
                 **tokenizer_args
@@ -81,13 +93,46 @@ def load_model_and_tokenizer(model_name):
             if tokenizer.pad_token is None:
                 tokenizer.pad_token = tokenizer.eos_token
 
-            model = AutoModelForCausalLM.from_pretrained(
-                model_name,
-                **model_args
-            )
+            # Load model according to type
+            if model_name in SPECIAL_MODELS:
+                if "openchat" in model_name.lower():
+                    from transformers import LlamaForCausalLM
+                    model = LlamaForCausalLM.from_pretrained(
+                        model_name,
+                        **model_args
+                    )
+                else:
+                    model = AutoModelForCausalLM.from_pretrained(
+                        model_name,
+                        **model_args
+                    )
+            elif model_name in FALCON_MODELS:
+                model = AutoModelForCausalLM.from_pretrained(
+                    model_name,
+                    **model_args
+                )
+            elif model_name in GPTJ_MODELS:
+                from transformers import GPTJForCausalLM
+                model = GPTJForCausalLM.from_pretrained(
+                    model_name,
+                    **model_args
+                )
+            elif model_name in MPT_MODELS:
+                model = AutoModelForCausalLM.from_pretrained(
+                    model_name,
+                    **model_args
+                )
+            else:
+                model = AutoModelForCausalLM.from_pretrained(
+                    model_name,
+                    **model_args
+                )
 
-            # Dispatch model properly
-            model = dispatch_model(model, device_map="auto")
+            if model_name in SMALL_MODELS:
+                pass  # No dispatch needed
+            else:
+                pass  # Already auto-dispatched
+
             model.eval()
 
             if model.config.is_encoder_decoder:
@@ -127,26 +172,21 @@ def remove_prompt(prompt, output):
     return output.strip()
 
 model_names = [
-    "mistralai/Mixtral-8x7B-Instruct-v0.1",
-    "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
-    "mistralai/Mistral-7B-v0.1",
-    "HuggingFaceH4/zephyr-7b-beta",
-    "openchat/openchat-3.5-0106",
-    "CohereForAI/c4ai-command-r-v01",
-    "tiiuae/falcon-7b-instruct",
-    "EleutherAI/gpt-j-6B",
+    # "mistralai/Mistral-7B-v0.1",
+    # "HuggingFaceH4/zephyr-7b-beta",
+    # "openchat/openchat-3.5-0106", # done until here
     "mosaicml/mpt-7b-instruct",
     "mosaicml/mpt-7b-chat",
-    "mosaicml/mpt-1b-redpajama-200b",
-    "mosaicml/mpt-1b-chat",
-    "EleutherAI/pythia-1.4b",
-    "EleutherAI/pythia-2.8b",
-    "EleutherAI/gpt-neo-2.7B",
-    "Salesforce/codegen-350M-mono",
-    "EleutherAI/gpt-neo-125M",
-    "openai-community/gpt2",
-    "EleutherAI/pythia-70m",
-    "EleutherAI/pythia-160m"
+    "tiiuae/falcon-7b-instruct", #slow
+    # "mosaicml/mpt-1b-redpajama-200b", # done
+    # "EleutherAI/pythia-1.4b", # done
+    # "EleutherAI/pythia-2.8b", # done from here until down
+    # "EleutherAI/gpt-neo-2.7B",
+    # "Salesforce/codegen-350M-mono",
+    # "EleutherAI/gpt-neo-125M",
+    # "openai-community/gpt2",
+    # "EleutherAI/pythia-70m",
+    # "EleutherAI/pythia-160m"
 ]
 
 device = 0 if torch.cuda.is_available() else -1

@@ -7,18 +7,14 @@ csv_path = os.path.join("..", "data", "augmented_questions.csv")
 output_root = "model_outputs"
 
 model_names = [
-    "mistralai/Mixtral-8x7B-Instruct-v0.1",
-    "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
     "mistralai/Mistral-7B-v0.1",
     "HuggingFaceH4/zephyr-7b-beta",
     "openchat/openchat-3.5-0106",
-    "CohereForAI/c4ai-command-r-v01",
     "tiiuae/falcon-7b-instruct",
     "EleutherAI/gpt-j-6B",
     "mosaicml/mpt-7b-instruct",
     "mosaicml/mpt-7b-chat",
     "mosaicml/mpt-1b-redpajama-200b",
-    "mosaicml/mpt-1b-chat",
     "EleutherAI/pythia-1.4b",
     "EleutherAI/pythia-2.8b",
     "EleutherAI/gpt-neo-2.7B",
@@ -30,24 +26,19 @@ model_names = [
 ]
 
 parameter_counts = {
-    "mistralai/Mixtral-8x7B-Instruct-v0.1": 12.9e9,
-    "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO": 12.9e9,
-    "mistralai/Mistral-7B-v0.1": 7e9,
+    "mistralai/Mistral-7B-v0.1": 7.3e9,
     "HuggingFaceH4/zephyr-7b-beta": 7e9,
     "openchat/openchat-3.5-0106": 7e9,
-    "CohereForAI/c4ai-command-r-v01": 9e9,
     "tiiuae/falcon-7b-instruct": 7e9,
-    "EleutherAI/gpt-j-6B": 6e9,
-    "mosaicml/mpt-7b-instruct": 7e9,
-    "mosaicml/mpt-7b-chat": 7e9,
-    "mosaicml/mpt-1b-redpajama-200b": 1e9,
-    "mosaicml/mpt-1b-chat": 1e9,
+    "mosaicml/mpt-7b-instruct": 6.7e9,
+    "mosaicml/mpt-7b-chat": 6.7e9,
+    "mosaicml/mpt-1b-redpajama-200b": 1.3e9,
     "EleutherAI/pythia-1.4b": 1.4e9,
     "EleutherAI/pythia-2.8b": 2.8e9,
     "EleutherAI/gpt-neo-2.7B": 2.7e9,
     "Salesforce/codegen-350M-mono": 0.35e9,
     "EleutherAI/gpt-neo-125M": 0.125e9,
-    "openai-community/gpt2": 0.125e9,
+    "openai-community/gpt2": 0.124e9,
     "EleutherAI/pythia-70m": 0.07e9,
     "EleutherAI/pythia-160m": 0.16e9
 }

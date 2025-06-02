@@ -1,516 +1,2682 @@
 {
-  "model_size": 7000000000,
+  "model_size": 6700000000,
   "0": [
     {
       "id": "0_orig",
-      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Why do phones not require cooling vents but other small appliances do?",
+      "output": "- Why do phones not require cooling vents but other small appliances do?\nWhy do phones not require cooling vents but other small appliances do?"
     },
     {
       "id": "0_var1",
-      "input": "Con defense attorneys 'throw' an cace if they know their clients our guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Why do phones hot requier cooling vents dut oathe small appliances do?",
+      "output": "- What is the purpose of the cooling vents on phones?\n- Why do phones require cooling vents?\n- What is the function of cooling"
     },
     {
       "id": "0_var2",
-      "input": "Came defense attorneys 'throw' ah case is thea know their clients are guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Way do phones knot requier cooling vents but hiver small appliances do?",
+      "output": "- Why do phones knot requier cooling vents but hiver small appliances do?\n- What is the difference between the way phones require cooling vents"
     },
     {
       "id": "0_var3",
-      "input": "Can defence attorniies 'throw' the case if they now their clients are guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Way do phones not require cooling vents buts otehr smal appliances do?",
+      "output": "- Why do phones not require cooling vents but other small appliances do?\n- Why do phones not require cooling vents but other small appliances do?"
     },
     {
       "id": "0_var4",
-      "input": "Con defence attorny's 'throw' a case if thaire know their clients are guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Way do phones onot require cooling vents put othere small appliances do?",
+      "output": "- Why do phones not require cooling vents like other small appliances do?\n- Why do phones require cooling vents?\n- Why do phones require"
     },
     {
       "id": "0_var5",
-      "input": "Came defense aturnyes 'throw' a case if thea noi their clients are guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Why do phones not requare cooling vents by have smal appliances do?",
+      "output": "- Why do phones not require cooling vents by having small appliances do?\n- Why do phones not require cooling vents by having small appliances do?"
     },
     {
       "id": "0_var6",
-      "input": "Can defence attoneys 'throw' a cace if theire know their clients are guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Way do phones mot require cooling vents but otehr smal appliances do?",
+      "output": "- Why do phones require cooling vents but other small appliances do not?\n- Is it possible to make a phone without cooling vents?\n-"
     },
     {
       "id": "0_var7",
-      "input": "Can defense atternys 'throw' as cace if thea know their clients are guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Yoy do phones non require cooling vents dut other smal appliances do?",
+      "output": "- Why do phones non require cooling vents dut other smal appliances do?\n- What is the purpose of cooling vents on phones?\n-"
     },
     {
       "id": "0_var8",
-      "input": "Came defence attorneys 'throw' a case is they know their clients or guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Why boo phones nto requare cooling vents dut other small appliances do?",
+      "output": "- Why do phones nto require cooling vents while other small appliances do?\nWhy do phones not require cooling vents while other small appliances do?"
     },
     {
       "id": "0_var9",
-      "input": "Can defence attorneys 'throw' are case if they nowe their clients thet guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Way do phones non require cooling vents but hiver smal appliances do?",
+      "output": "- Why do phones require cooling vents but small appliances do not?\n- Why do phones require cooling vents but small appliances do not?\n-"
     },
     {
       "id": "0_var10",
-      "input": "Con defence attorneys 'throw' a case is they know ther clients are guilty?",
-      "output": "PLACEHOLDER"
+      "input": "- Yoy do phones nto requier cooling vents bat other small appliances do?",
+      "output": "- Why do phones not require cooling vents but other small appliances do?\n- Why do phones require cooling vents?\n- Why do phones require"
     }
   ],
   "1": [
     {
       "id": "1_orig",
-      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
+      "output": "Can defense attorneys 'throw' a case if they know their clients are guilty?\nI am a defense attorney and I want to make sure I am doing"
     },
     {
       "id": "1_var1",
-      "input": "How drow movies on get uploaded online in HD from movie theater employes be_for their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Cane defense attorneys 'throw' a case it ther know thier clients are guilty?",
+      "output": "Thread: Cane defense attorneys 'throw' a case it ther know thier clients are guilty?\nPosts 1,975\tCane defense"
     },
     {
       "id": "1_var2",
-      "input": "Haw do movies hot ge uploaded online in HD fro movie theater employees before their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Can defense atturnies 'throw' a case it they naw their clients rer guilty?",
+      "output": "Can defense atturnies 'throw' a case it they naw their clients rer guilty?\nYes, defense attorneys can choose to \"throw\""
     },
     {
       "id": "1_var3",
-      "input": "Haw do movies not go uploaded online i HD from movie theater employees be_fore their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Con defense attorney's 'throw' a case if they know thire clients ra guilty?",
+      "output": "Absolutely not. A defense attorney's job is to defend their client to the best of their ability, regardless of whether they believe their client is guilty or not"
     },
     {
       "id": "1_var4",
-      "input": "Haw do movies nol get uploaded online in HD from movie theather employees beefore their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Came defence attorneys 'throw' a cace if they on their clients are guilty?",
+      "output": "No, they do not. Defence attorneys are required to provide a vigorous defence for their clients, regardless of whether they believe their client is guilty or not."
     },
     {
       "id": "1_var5",
-      "input": "How do movies not get uploaded online in HD forme movie theather imployes b_for their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Cane defence attorneys 'throw' a case if they now their clients ar guilty?",
+      "output": "Thread: Cane defence attorneys 'throw' a case if they now their clients ar guilty?\n01-Aug-2019, 12:15 PM #"
     },
     {
       "id": "1_var6",
-      "input": "Haw do movies mot go uploaded online in HD from movie theater employees berofe their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Came defense attorneys 'throw' a case is they knowe theri clients are guilty?",
+      "output": "No, defense attorneys are paid to represent their clients to the best of their ability, regardless of whether they believe their client is guilty or not. In fact"
     },
     {
       "id": "1_var7",
-      "input": "Haw do movies nol get uploaded online in HD from movie theater imployes before thire DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Can defense attorneys 'throw' the case if thar no their clients arre guilty?",
+      "output": "Can defense attorneys 'throw' the case if there is no evidence their clients are guilty?\nYes, defense attorneys can choose to 'throw' the case"
     },
     {
       "id": "1_var8",
-      "input": "Haw do movies not geter uploaded online if HD from movei theater employees before their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Can defence attorneys 'throw' a cace is they know ther clients are guilty?",
+      "output": "Can defence attorneys 'throw' a case is they know their clients are guilty?\nAbsolutely not. Defence attorneys are bound by their duty of confidentiality to their"
     },
     {
       "id": "1_var9",
-      "input": "How do movies not get uploaded online is HD from movie theather emploes before thrir DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Can defence aturneys 'throw' a cace if they know their clients oar guilty?",
+      "output": "Can defence aturneys ‘throw’ a cace if they know their clients oar guilty?\nCan defence aturneys 'throw' a c"
     },
     {
       "id": "1_var10",
-      "input": "How done movies not get uploaded online in HD from movei theather employee's before their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Came defense attorneys 'throw' a case if thir knwo there clients are guilty?",
+      "output": "No, defense attorneys are not supposed to \"throw\" a case. In fact, it is their job to represent their client to the best of their ability"
+    }
+  ],
+  "2": [
+    {
+      "id": "2_orig",
+      "input": "How did the American accent come about?",
+      "output": "The American accent is a result of the country’s history of immigration and colonization. The first wave of immigrants to the United States came from England, and"
+    },
+    {
+      "id": "2_var1",
+      "input": "Haw did tie Ameracan accent kumh about?",
+      "output": "I think it’s because he’s a character in a movie.\nI think it’s because he’s a character in a movie."
+    },
+    {
+      "id": "2_var2",
+      "input": "Hou do the Ameracan accent comr about?",
+      "output": "I’m not sure what you mean by “accent”?\nCan you be more specific about what you want to know?\nI’m sorry"
+    },
+    {
+      "id": "2_var3",
+      "input": "Hou do the Ameracan accent cam about?",
+      "output": "I think it’s a mix of different accents.\nI’m not sure I understand the question.\nCan you give me an example of"
+    },
+    {
+      "id": "2_var4",
+      "input": "Haw do t Ameracan accent come about?",
+      "output": "How do t Ameracan accent come about?\nThe American accent is a result of the English language being spoken by people from different parts of the world"
+    },
+    {
+      "id": "2_var5",
+      "input": "Hou ded the Ameracan accent coum about?",
+      "output": "I’m not sure what you mean by this question. Can you please clarify?\nI’m sorry, I’m not sure I understand your"
+    },
+    {
+      "id": "2_var6",
+      "input": "Haw ded hte American accent kumh about?",
+      "output": "I think it’s because of the way the English language is structured. The way words are put together in English makes it sound more “poetic”"
+    },
+    {
+      "id": "2_var7",
+      "input": "Hou did an Ameracan accent comr about?",
+      "output": "I think it’s a very interesting question, and I’m not sure.  I think it’s possible that the person was trying to im"
+    },
+    {
+      "id": "2_var8",
+      "input": "Haw do he Ameracan accent come about?",
+      "output": "How did the American accent come about?\nThe American accent is a result of the English language being spoken by many different people in many different places. The"
+    },
+    {
+      "id": "2_var9",
+      "input": "Hou ded the Ameracan accent comr about?",
+      "output": "I’m not sure what you mean.\nI’m sorry, I’m not sure I understand your question. Can you please rephrase it"
+    },
+    {
+      "id": "2_var10",
+      "input": "How ded ge Ameracan accent com about?",
+      "output": "How ded ge Ameracan accent com about?\nHow does the American accent sound?\nHow does the American accent sound?\nHow does the American"
     }
   ],
   "3": [
     {
       "id": "3_orig",
-      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
-      "output": "PLACEHOLDER"
+      "input": "How do devices know the amount of charge left in a battery?",
+      "output": "The device has a circuit that measures the voltage across the battery.  The voltage decreases as the battery discharges, so the device can monitor the voltage and"
     },
     {
       "id": "3_var1",
-      "input": "Hou do we know all the money the govermont is getting from bank settlements is oging back tow the people?",
-      "output": "PLACEHOLDER"
+      "input": "How do devices kino the amount of charge lifet if an battery?",
+      "output": "The amount of charge stored in a battery depends on the chemical reactions that occur within the battery. When a battery is charged, the chemical reactions cause electrons to"
     },
     {
       "id": "3_var2",
-      "input": "How dow we know all the money the government is getting from bank settlements is oging bach to a people?",
-      "output": "PLACEHOLDER"
+      "input": "How do devices know i amount ove charge lerft in and battery?",
+      "output": "How do devices know how much charge is left in the battery?\nHow do devices know how much charge is left in the battery?\nHow do devices"
     },
     {
       "id": "3_var3",
-      "input": "How to were know all the money the government si getting from bank settlements is going back to tje people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou do devices naw the amout of charge left im a battery?",
+      "output": "I think you can use the \"battery\" command in the terminal.\nI'm not sure what you mean by \"naw\" though."
     },
     {
       "id": "3_var4",
-      "input": "How dowe we know all the money the govment is geting from bank settlements is going back qu the people?",
-      "output": "PLACEHOLDER"
+      "input": "How olethl def knwo the amount of charge left if a battery?",
+      "output": "How can I determine the amount of charge left in a battery?\nThere are a few ways to determine the amount of charge left in a battery. One"
     },
     {
       "id": "3_var5",
-      "input": "How do we know all the money an government is geting from bank settlements it gying back to the people?",
-      "output": "PLACEHOLDER"
+      "input": "How do def know ge oment of charge left it a battery?",
+      "output": "I have a battery that is not charging. I want to know how to check the charge left in it. Can you help me?\nI have a"
     },
     {
       "id": "3_var6",
-      "input": "How done we kwno all the money the govemont is gitting from bank settlements is going back to the people?",
-      "output": "PLACEHOLDER"
+      "input": "How olethl devices ha the amount of charge lenght in i battery?",
+      "output": "How long does a typical battery last?\nHow long does a typical battery last? The answer depends on the type of battery and how it is used."
     },
     {
       "id": "3_var7",
-      "input": "How to we know all the mooey the government is getting from bank settlements is going dack to thge people?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do devices no the amount av charge let in a battery?",
+      "output": "How do devices know the amount of charge left in a battery?\nHow do devices know the amount of charge left in a battery?\nHow do devices"
     },
     {
       "id": "3_var8",
-      "input": "Hou do we know all the mony he government is getting from bank settlements is going back of the people?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do devices naw thge amount of charge lenght in a battery?",
+      "output": "How do devices know the amount of charge length in a battery?\nHow do devices know the amount of charge length in a battery?\nHow do devices"
     },
     {
       "id": "3_var9",
-      "input": "Haw dou we kino all the money the government is getting from bank settlements is going back ot the people?",
-      "output": "PLACEHOLDER"
+      "input": "How olethl devices know a amount of charge left with and battery?",
+      "output": "How do devices know how much charge is left in a battery?\nHow do devices know how much charge is left in a battery?\nHow do devices"
     },
     {
       "id": "3_var10",
-      "input": "Hou do we know all an money thee gomment is getting from bank settlements is going back to the people?",
-      "output": "PLACEHOLDER"
+      "input": "Haw dor def know i amount of charge left in a battery?",
+      "output": "I think you can use a multimeter to measure the voltage and current of the battery, and then use a formula to calculate the charge left.\nI"
     }
   ],
   "4": [
     {
       "id": "4_orig",
-      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "I know that movie theater employees have access to the movie files before the DVD release, but I don't know how they get the files from the movie theater"
     },
     {
       "id": "4_var1",
-      "input": "If dark calers absorb mooe heat, why does light scin brun easier than dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do movies not get uploaded online in HD fome movei theater employees berfore their DVD release?",
+      "output": "I think it’s because they want to make sure that people who go to the theater to watch the movie get the full experience. They want people to"
     },
     {
       "id": "4_var2",
-      "input": "It ding colours absorb more heat, wy does light skin burn easier then dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do movies not get uploaded online i HD fraom movie theater emploiees before their DVD release?",
+      "output": "I think it’s because they want to make more money by selling the DVDs.\nI think it’s because they want to make more money"
     },
     {
       "id": "4_var3",
-      "input": "If drk colours absorb more heat, why doens light skin burn easier then down skin?",
-      "output": "PLACEHOLDER"
+      "input": "How do movies not cet uploaded online in HD frome movei theater employees before these DVD release?",
+      "output": "I know that some movies are released on DVD before they are released in theaters, but I don’t know how they get the movies online in HD before"
     },
     {
       "id": "4_var4",
-      "input": "Is dark calers absorb more heat, why dose light skin brun easier than dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "How dou movies nto get uploaded online in HD fom movie theather employees before their DVD release?",
+      "output": "I am a movie buff and I love watching movies in theaters. But I am curious to know how movies get uploaded online in HD format from movie theater employees"
     },
     {
       "id": "4_var5",
-      "input": "If dark colours absorb more heat, why does ight skin birn easery than dir skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou do movies nat get uploaded online im HD from movie theater employees berfore their DVD release?",
+      "output": "I think it’s called “screeners”.\nI’m not sure, but I think it’s something like that.\nI’m"
     },
     {
       "id": "4_var6",
-      "input": "If barck calers absorb more heat, why does light skin burn easery than bar skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou do movies not get uploaded online in HD from movie theather employees befoure these DVD release?",
+      "output": "I think it’s because the studios want to make more money by selling the DVDs.\nI think it’s because the studios want to make"
     },
     {
       "id": "4_var7",
-      "input": "It dark calers absorb mooe heat, wiy does light skin burn easier than dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "How do movies not get uploaded online in HD form movei theater employ berofe their DVD release?",
+      "output": "I’m not sure I understand your question.  Can you clarify?\nI think you’re asking about the delay between when a movie is released"
     },
     {
       "id": "4_var8",
-      "input": "If dark calers absorb more heat, why does ight scin burn easier than darck skin?",
-      "output": "PLACEHOLDER"
+      "input": "How do movies not get uploaded online with HD foint movie theater imployes before ther DVD release?",
+      "output": "I am a huge movie buff and I love going to the movies. I was wondering how movie theaters manage to keep movies under wraps before the DVD release."
     },
     {
       "id": "4_var9",
-      "input": "If dark colours absorb more heat, why dus light scin burn easier tahn dreh skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou do movies not get uploaded online i HD from movie theather employees befour their DVD release?",
+      "output": "I think it’s because they want to make as much money as possible from the movie. They want to sell as many copies as possible, so they"
     },
     {
       "id": "4_var10",
-      "input": "If dark colours absorb more heat, wiy doens light skin birn easier than ding skin?",
-      "output": "PLACEHOLDER"
-    }
-  ],
-  "5": [
-    {
-      "id": "5_orig",
-      "input": "What are good and bad sides of manual and automatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var1",
-      "input": "Whate thet good and bed sides of manuel and automatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var2",
-      "input": "Wot are good and bad sides of manuel hand autumatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var3",
-      "input": "What are good anf bed sides of manual anf automatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var4",
-      "input": "What and good i bed sides of manual i automatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var5",
-      "input": "Wote are goad and bed sides of manual and autumatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var6",
-      "input": "What are good anbd bed sides ove manuel and automatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var7",
-      "input": "What are go than bad sides of manuel and automatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var8",
-      "input": "What aer good ane bad sides of manuel and autumatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var9",
-      "input": "Wich vea go and bad sides ofr manual and automatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var10",
-      "input": "What are good ane bed sides of manuel and autumatic drive gear?",
-      "output": "PLACEHOLDER"
+      "input": "Haw done movies not gat uploaded online in HD frm movie theater employees before their DVD release?",
+      "output": "I think it is a common practice.\nI have heard that some movie theaters do this.\nI have also heard that some movie theaters do this."
     }
   ],
   "6": [
     {
       "id": "6_orig",
-      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
+      "output": "The government has been getting billions of dollars in settlements from major banks for their role in the financial crisis. The question is, is all that money going back"
     },
     {
       "id": "6_var1",
-      "input": "What us the role of actual real-life actors in makeing animated characters? Like Liam Neeson palving Aslan i Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do wen know all tehe money the government is getting from bank settlements is oging back ro the people?",
+      "output": "The government has been getting money from bank settlements for years, and it’s not always clear where that money goes. But in recent years, the government"
     },
     {
       "id": "6_var2",
-      "input": "What us the role of actural real-life actors in making animated characters? Liek Liam Neeson playing Aslan i Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know at the money the gobernement is getting torme bank settlements is going bac to the people?",
+      "output": "How do we know at the money the gobernement is getting torme bank settlements is going bac to the people?\nI am not sure what"
     },
     {
       "id": "6_var3",
-      "input": "What it the role off actural real-life actors in macking animated characters? Like Liam Neeson playing Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do you know all the money the govemont is get from bank settlements is going bach to the people?",
+      "output": "The government has a responsibility to ensure that financial institutions are held accountable for their actions, and that they are not engaging in illegal or unethical behavior. When"
     },
     {
       "id": "6_var4",
-      "input": "What in the role cift actual real-life actors with makeing animated characters? Like Liam Neeson playing Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do we know all an money the government is getting from bank settlements in going back tow the people?",
+      "output": "The government has been getting billions of dollars in settlements from financial institutions in the wake of the financial crisis. The question is, how much of that money is"
     },
     {
       "id": "6_var5",
-      "input": "What is the role of actural real-life actors with macking animated characters? Look Liam Neeson playing Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know at the money tjhe government is get from bank settlements is going back to that people?",
+      "output": "The government has the power to seize money from financial institutions in order to compensate victims of financial crimes. This money is then distributed through various government programs, such"
     },
     {
       "id": "6_var6",
-      "input": "What si hte role of actual real-life actors with makeing animated characters? Like Liam Neeson playing Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know all th money the guvement is gitting from bank settlements is going back to a people?",
+      "output": "The government has a responsibility to ensure that all money recovered from financial settlements is used for the public good. The government has various mechanisms in place to ensure that"
     },
     {
       "id": "6_var7",
-      "input": "What is he role of actuall real-life actors in making animated characters? Lichr Liam Neeson plaving Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we konw all tghe money the government is getting from bank settlements is going bach to my people?",
+      "output": "The government has been getting money from bank settlements related to the financial crisis. The government has used this money to help people and stabilize the economy. The government"
     },
     {
       "id": "6_var8",
-      "input": "Woht is the role oaf actual real-life actors im macking animated characters? Like Liam Neeson playing Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know all the money the government in gitting from bank settlements it go back to the people?",
+      "output": "The government is required to return the money it receives from bank settlements to the public. This is done through a variety of programs, such as the Trou"
     },
     {
       "id": "6_var9",
-      "input": "What is tu role of actural real-life actors in making animated characters? Like Liam Neeson play Aslan it Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know at an money the government it getting ofomt bank settlements is going back to the people?",
+      "output": "The government has a responsibility to ensure that money from bank settlements is used for the public good. This is typically done through regulations that require the money to be"
     },
     {
       "id": "6_var10",
-      "input": "What his the role afoh actual real-life actors it making animated characters? Like Liam Neeson play Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know all he money the govermant is getting forme bank settlements is going back of the people?",
+      "output": "The government has a responsibility to ensure that the money it receives from settlements with banks is used for the public good. To ensure this, the government must be"
     }
   ],
   "7": [
     {
       "id": "7_orig",
-      "input": "Why are different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
-      "output": "PLACEHOLDER"
+      "input": "How does a water purifier jug work and could you put 3rd world ditch water through one and drink safely?",
+      "output": "I’m not sure exactly how a water purifier jug works, but I’m guessing it’s a combination of physical and chemical processes."
     },
     {
       "id": "7_var1",
-      "input": "Wy ur difort tiers (regular < mid < premium) of gas' prices almost always 10 cens different?",
-      "output": "PLACEHOLDER"
+      "input": "How does are water purifier jug work and cood you put 3rd world dich weter through one and drink safely?",
+      "output": "How does are water purifier jug work and cood you put 3rd world dich weter through one and drink safely?\nI’m not sure"
     },
     {
       "id": "7_var2",
-      "input": "Yoy are berth tiers (regular < mid < premium) ovot gas' prices almsot always 10 cents different?",
-      "output": "PLACEHOLDER"
+      "input": "Hou dose a water purifier jug work and sould you put 3rd world dicth water through one and drink safely?",
+      "output": "I am not a doctor, but I would think that if the water purifier jug is working properly, then it should be safe to drink the water that"
     },
     {
       "id": "7_var3",
-      "input": "Yoy oar different tiers (regular < mid < premium) ofr gas' prices alomst always 10 cents different?",
-      "output": "PLACEHOLDER"
+      "input": "Hou does a wather purifier jug work ane could yau put 3rd world ditch water through one and drink safely?",
+      "output": "The Water Purifier Jug is a portable water purification system that uses a combination of UV light and a chemical called activated charcoal to remove bacteria, viruses,"
     },
     {
       "id": "7_var4",
-      "input": "Why ore differnt tiers (regular < mid < premium) of gas' prices allmost allway 10 cents different?",
-      "output": "PLACEHOLDER"
+      "input": "Haw dose a wather purifier jug work and could you put 3rd worde ditch water through one and drink safely?",
+      "output": "I’m sorry, but I’m not sure what you’re asking. Could you please clarify your question?\nI’m sorry, but"
     },
     {
       "id": "7_var5",
-      "input": "Wiy are diferent tiers (regular < mid < premium) of gas' prices almost allway's 10 cens different?",
-      "output": "PLACEHOLDER"
+      "input": "How dose a water purifier jug work and could yau but 3rd world ditch water through one aand drink safely?",
+      "output": "A water purifier jug is a container that is used to remove impurities from water. It typically contains a filter that removes bacteria, viruses, and other contaminants"
     },
     {
       "id": "7_var6",
-      "input": "Wiy arte different tiers (regular < mid < premium) of gas' prices almost alwasy 10 cens different?",
-      "output": "PLACEHOLDER"
+      "input": "How does a water purifier jug work and cod you put 3rd wourld ditch water through wun are drink safely?",
+      "output": "How does a water purifier jug work and can you put third world ditch water through one and drink safely?\nCan you drink water from a river that"
     },
     {
       "id": "7_var7",
-      "input": "Why are different tiers (regular < mid < premium) from gas' prices allmost alwasy 10 cens different?",
-      "output": "PLACEHOLDER"
+      "input": "How does a water purifier jug wark than could you put 3rd world ditch wather through on and drink safely?",
+      "output": "How does a water purifier jug work than could you put 3rd world ditch water through on and drink safely?\nI’m not sure what you"
     },
     {
       "id": "7_var8",
-      "input": "Why ur deffer tiers (regular < mid < premium) op gas' prices almost lowas 10 cents different?",
-      "output": "PLACEHOLDER"
+      "input": "How does a wather purifier jug work and could you pht 3rd world ditch water through ond aand drink safely?",
+      "output": "I’m not sure what you mean by a “water purifier jug” but if it’s a container that you fill with water and then use"
     },
     {
       "id": "7_var9",
-      "input": "Wiy run different tiers (regular < mid < premium) ov gas' prices almost always 10 cens different?",
-      "output": "PLACEHOLDER"
+      "input": "How does a weter purifier jug work than could yow put 3rd world ditch water through one an drink safely?",
+      "output": "I’m not sure what you mean by “weter purifier jug” or how it works. Can you please explain more?\nI’m"
     },
     {
       "id": "7_var10",
-      "input": "Why ar different tiers (regular < mid < premium) gf gas' prices all_most allways 10 cents different?",
-      "output": "PLACEHOLDER"
-    }
-  ],
-  "8": [
-    {
-      "id": "8_orig",
-      "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? Doesn't it come from the same place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var1",
-      "input": "Why dus tie water from my kitchen faucet taste different than the water from my bathroom faucet? doesn't it cam from the sam place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var2",
-      "input": "Why does the water from may kitchen faucet taste different than the water from my both_rom faucet? dosent she come from the same place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var3",
-      "input": "Why does the water from my kitchen faucet taste different than thee water from my bathroom faucet? dosent it coum from the same place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var4",
-      "input": "Way does that water foint my kitchen faucet taste different than the water from my bathroom faucet? doesn't it comr from the same place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var5",
-      "input": "Why does the water from my kitchen faucet taste different than to water from my bathroom faucet? doesn't it cam fome the sam place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var6",
-      "input": "Why dose the watter from my kitchen faucet taste different than the water frrom yoy bathroom faucet? doesn't it come from the same place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var7",
-      "input": "Yoy does the wather foint my kitchen faucet taste different than tje water from my bathroom faucet? doesn't it come from the same place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var8",
-      "input": "Why does the water from me kitchen faucet taste different than the water foint my bathroom faucet? doesn't it come from thw sane place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var9",
-      "input": "Why does the water from my kitchen faucet taste different than the water from yoy both_rom faucet? does'nt it come from th same place?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "8_var10",
-      "input": "Why does the water from my kitchen faucet tast different then the water from my bathroom faucet? doesn't et come fou the same place?",
-      "output": "PLACEHOLDER"
+      "input": "How does a water purifier jug work and could you pht 3rd world dicth wather tho one and drink safely?",
+      "output": "I’m not sure what you mean by a “water purifier jug” but if it’s a container that you fill with water and then use"
     }
   ],
   "9": [
     {
       "id": "9_orig",
-      "input": "Why is chickenpox worse as an adult?",
-      "output": "PLACEHOLDER"
+      "input": "If a computer has a GPU, why would reducing GUI effects impact performance?",
+      "output": "I'm sorry, I'm not sure I understand your question. Can you please provide more context or clarify what you're asking?"
     },
     {
       "id": "9_var1",
-      "input": "Why in chickenpox wors tes on adult?",
-      "output": "PLACEHOLDER"
+      "input": "If as comupter hos i GPU, why would reducing GUI effects impact performance?",
+      "output": "I'm sorry, I'm not sure I understand your question. Could you please provide more context or clarify what you're asking?"
     },
     {
       "id": "9_var2",
-      "input": "Yoy in chickenpox wosre saw an adult?",
-      "output": "PLACEHOLDER"
+      "input": "Is a computer have a GPU, wiy wred reducing GUI effects impact performance?",
+      "output": "I'm sorry, I'm not sure I understand your question. Could you please provide more context or clarify what you're asking?\nI'm sorry,"
     },
     {
       "id": "9_var3",
-      "input": "Way it chickenpox wosre as un adult?",
-      "output": "PLACEHOLDER"
+      "input": "If and computer hase a GPU, yoy whort reducing GUI effects impact performance?",
+      "output": "I'm not sure what you mean by \"GUI effects\" here, but generally speaking, if you're experiencing performance issues on your computer, reducing the effects"
     },
     {
       "id": "9_var4",
-      "input": "Wy in chickenpox worse ass on adult?",
-      "output": "PLACEHOLDER"
+      "input": "It an comupter has a GPU, why wouls reducing GUI effects impact performance?",
+      "output": "I'm sorry, I'm not sure I understand your question. Can you please provide more context or clarify what you're asking?"
     },
     {
       "id": "9_var5",
-      "input": "Wy in chickenpox worse was on adult?",
-      "output": "PLACEHOLDER"
+      "input": "If are comupter hos a GPU, way would reducing GUI effects impact performance?",
+      "output": "I'm not sure what you mean by \"GUI effects\". Can you please clarify?\nGUI effects refer to the visual elements of a computer interface, such"
     },
     {
       "id": "9_var6",
-      "input": "Way in chickenpox wors as am adult?",
-      "output": "PLACEHOLDER"
+      "input": "It a comupter has a GPU, way wouls reducing GUI effects impact performance?",
+      "output": "I'm not sure what you mean by \"GUI effects\".  Can you explain more?\nI'm sorry, I was unclear.  I meant graphics"
     },
     {
       "id": "9_var7",
-      "input": "Yoy as chickenpox wosre aas an adult?",
-      "output": "PLACEHOLDER"
+      "input": "It a comupter hase a GPU, wy would reducing GUI effects impact performance?",
+      "output": "I am running a game on my computer and I have noticed that reducing GUI effects has improved game performance. Can you explain why this is the case?"
     },
     {
       "id": "9_var8",
-      "input": "Way us chickenpox worse tes am adult?",
-      "output": "PLACEHOLDER"
+      "input": "Is a comupter has are GPU, way would reducing GUI effects impact performance?",
+      "output": "I'm not sure what you mean by \"GUI effects\". Can you please clarify?\nI'm sorry, I meant graphics effects. For example, if"
     },
     {
       "id": "9_var9",
-      "input": "Way it chickenpox wors as a adult?",
-      "output": "PLACEHOLDER"
+      "input": "Is are comupter as a GPU, why would reducing GUI effects impact performance?",
+      "output": "I'm sorry, I'm not sure I understand your question. Could you please provide more context or clarify what you're asking?\nI'm not sure"
     },
     {
       "id": "9_var10",
-      "input": "Way is chickenpox worst was a adult?",
-      "output": "PLACEHOLDER"
+      "input": "It a comupter hos a GPU, wy would reducing GUI effects impact performance?",
+      "output": "I'm not sure what you mean by \"GUI effects\".  Can you clarify?\nGUI effects refer to the visual elements of a computer interface, such"
+    }
+  ],
+  "10": [
+    {
+      "id": "10_orig",
+      "input": "If a movie production has $5,000,000 (estimated) Budget, must some of that money go to the actors? or only movie's production quality?",
+      "output": "If a movie production has $5,000,000 (estimated) Budget, must some of that money go to the actors? or only movie's"
+    },
+    {
+      "id": "10_var1",
+      "input": "If a movie productions has $5,000,000 (estimated) Budget, must so of but money go to the actors? or only movie's productions quality?",
+      "output": "I think that the money will be distributed in different ways depending on the production. Some of the money will go to actors, some to the crew, some"
+    },
+    {
+      "id": "10_var2",
+      "input": "If a movei production have $5,000,000 (estimated) Budget, must some of that money gril qu the actors? or only movie's production quality?",
+      "output": "If a movie production have $5,000,000 (estimated) Budget, must some of that money go to the actors? or only to the"
+    },
+    {
+      "id": "10_var3",
+      "input": "If as movie production has $5,000,000 (estimated) Budget, must some of that money go to thi actors? are onlt movie's production quality?",
+      "output": "I think that the budget for a movie is used for many different things. It is not only used for the actors, but also for the sets, costumes"
+    },
+    {
+      "id": "10_var4",
+      "input": "If the movie production has $5,000,000 (estimated) Budget, must somes of that mony go to the actors? al only movie's production quality?",
+      "output": "If the movie production has $5,000,000 (estimated) Budget, must somes of that mony go to the actors?\nonly"
+    },
+    {
+      "id": "10_var5",
+      "input": "If a movie production has $5,000,000 (estimated) Budget, must smoe of vat money gril to the actors? are only movie's production quality?",
+      "output": "If a movie production has $5,000,000 (estimated) Budget, must smoe of vat money gril to the actors? are"
+    },
+    {
+      "id": "10_var6",
+      "input": "Is a movei production has $5,000,000 (estimated) Budget, must some from that money go to the actors? al only movie's production quality?",
+      "output": "Is a movei production has $5,000,000 (estimated) Budget, must some from that money go to the actors?\nonly movie"
+    },
+    {
+      "id": "10_var7",
+      "input": "If a movei productions has $5,000,000 (estimated) Budget, mast some of that money go th the actors? or only movie's production quality?",
+      "output": "I think the budget is split between the actors and the production quality. Actors are paid for their work, and the production quality is what makes the movie"
+    },
+    {
+      "id": "10_var8",
+      "input": "If a movei productions has $5,000,000 (estimated) Budget, must some of that mony go to the actors? or only movie's productions quality?",
+      "output": "If a movie production has a $5,000,000 budget, then that money is not only for the production quality, but also for the actors'"
+    },
+    {
+      "id": "10_var9",
+      "input": "If a movie productions hase $5,000,000 (estimated) Budget, must some of that money go ot the actors? or onlt movie's production quality?",
+      "output": "I think that the budget should be divided between the actors, the crew, the set, the special effects, and the rest of the movie's production quality"
+    },
+    {
+      "id": "10_var10",
+      "input": "If a movie production have $5,000,000 (estimated) Budget, must some or that money od to the actors? or only movie's productions quality?",
+      "output": "If a movie production have $5,000,000 (estimated) Budget, must some or that money od to the actors? or only movie's"
+    }
+  ],
+  "11": [
+    {
+      "id": "11_orig",
+      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "If dark-coloured clothing absorbs more heat than light-coloured clothing, why do people with light skin often burn more easily than those with dark"
+    },
+    {
+      "id": "11_var1",
+      "input": "If dark colours absorb more heat, why dus ight skin burn easery tahn dark skin?",
+      "output": "If dark colours absorb more heat, why does light skin burn easier than dark skin?\nThis is a great question! The answer is actually quite interesting."
+    },
+    {
+      "id": "11_var2",
+      "input": "If dake colours absorb more heat, why does lit skin birn eassier than dark skin?",
+      "output": "If dake colours absorb more heat, why does lit skin birn eassier than dark skin?\nThis is a great question! The answer is"
+    },
+    {
+      "id": "11_var3",
+      "input": "If bnack colours absorb more heat, why does light scin brun easier that dark skin?",
+      "output": "I'm not sure I understand the question. Can you clarify?\nI'm sorry, I was trying to be funny. I was thinking about the fact"
+    },
+    {
+      "id": "11_var4",
+      "input": "If dark calers absorb more heat, why dose ight skin birn easier than dark skin?",
+      "output": "I think the answer is that light skin is more reflective than dark skin, so it doesn’t absorb as much heat.  This is why light-"
+    },
+    {
+      "id": "11_var5",
+      "input": "If dark colours absorb mroe heat, yoy does light skin burn easy thna dark skin?",
+      "output": "If dark colours absorb more heat, does that mean that light skin burns easier than dark skin?\nYes, that is correct. Light-skinned people"
+    },
+    {
+      "id": "11_var6",
+      "input": "If dark calers absorb more heat, why doens light skin burn easer than drlak skin?",
+      "output": "If dark calers absorb more heat, why doens light skin burn easer than drlak skin?\nI think the answer is that light skin"
+    },
+    {
+      "id": "11_var7",
+      "input": "It dark colours absorb more heat, why does light skin burn easer that drak skin?",
+      "output": "It is true that dark-colored clothing absorbs more heat than light-colored clothing. However, the amount of heat absorbed is relatively small and is not"
+    },
+    {
+      "id": "11_var8",
+      "input": "If bar calers absorb more heat, why does lit skin burn easery than dark skin?",
+      "output": "I think the answer is that dark skin is more reflective than light skin, so it doesn’t absorb as much heat.\nI’m not sure"
+    },
+    {
+      "id": "11_var9",
+      "input": "If dark colours absorb more heat, why does lite skin birn eassier that dark skin?",
+      "output": "If dark colours absorb more heat, why does light skin burn easier than dark skin?\nThis is a great question! The answer is actually quite interesting."
+    },
+    {
+      "id": "11_var10",
+      "input": "If dark colours absorb more heat, wy dus light skin burn ease than darch skin?",
+      "output": "If dark colours absorb more heat, why does light skin burn easier than dark skin?\nThis is a great question! The answer is actually quite interesting."
+    }
+  ],
+  "12": [
+    {
+      "id": "12_orig",
+      "input": "If the inside of my microwave is made of metal, why is it bad to put metallic objects in it?",
+      "output": "I know that microwaves are electromagnetic waves, and that metal is a good conductor of electricity. So I’m guessing that the problem is that the"
+    },
+    {
+      "id": "12_var1",
+      "input": "If tu inside of yoy microwave is made of metal, why is it bad to but metallic ojects in it?",
+      "output": "I think the main concern is that microwaves can cause metal to become hot enough to ignite or explode.  So it’s generally a good"
+    },
+    {
+      "id": "12_var2",
+      "input": "If the inside of my microwave in mame of metal, why is it bad too put metallic ojects in it?",
+      "output": "I think the problem is that microwaves are a form of electromagnetic radiation, and metal objects tend to reflect and absorb this radiation. This can cause the"
+    },
+    {
+      "id": "12_var3",
+      "input": "If these inside of my microwave is mad onet metal, yoy is it bad to put metallic objects in it?",
+      "output": "I don’t know what you mean by “metal”, but I’m guessing you don’t mean the metal that’s inside your microwave."
+    },
+    {
+      "id": "12_var4",
+      "input": "If he inside of ma microwave is made on metal, wiy is it bad to put metallic objects in it?",
+      "output": "I think it is bad to put metallic objects in the microwave because they can cause sparks and damage the microwave.\nI think it is bad to put"
+    },
+    {
+      "id": "12_var5",
+      "input": "If the inside of my microwave is maked of metal, why is it bed qu put metallic objectsion in it?",
+      "output": "If the inside of my microwave is made of metal, why is it not safe to put metallic objects in it?\nIf the inside of my microwave is"
+    },
+    {
+      "id": "12_var6",
+      "input": "It the inside ov my microwave is made of metal, why as it bad to pht metallic objects in it?",
+      "output": "I think the concern is that the metal can interact with the microwaves in a way that could cause sparks or other issues. It’s not"
+    },
+    {
+      "id": "12_var7",
+      "input": "If the inside of by microwave is made or metal, why is et bad to put metalic objects in it?",
+      "output": "I think the problem is that microwaves are a form of electromagnetic radiation, and metal objects can reflect or absorb this radiation. This can cause the microwave"
+    },
+    {
+      "id": "12_var8",
+      "input": "If the inside of my microwave his maked of metal, why is it bad ro put metallic ojects in it?",
+      "output": "I think the problem is that microwaves are a form of electromagnetic radiation, and metal objects tend to reflect and absorb this radiation. This can cause the"
+    },
+    {
+      "id": "12_var9",
+      "input": "It the inside of my microwave is made af metal, why is is bed to put metallic objects in it?",
+      "output": "I think the metal is not a problem, but the microwave is a device that uses electromagnetic radiation to cook food. The metal can interfere with the electromagnetic field"
+    },
+    {
+      "id": "12_var10",
+      "input": "If the inside of my microwave is made of metal, wy as it bad to put metallic ojects i it?",
+      "output": "If the inside of my microwave is made of metal, why is it bad to put metallic objects in it?\nI think the concern is that the metal"
+    }
+  ],
+  "13": [
+    {
+      "id": "13_orig",
+      "input": "If the ozone layer is made up of O3, why are we not producing some of it ourselves and pumping more of them into the atmosphere to fix the problem faster?",
+      "output": "This is a good question, and the answer is that we can’t just produce more ozone in the atmosphere. The ozone layer is a complex system that"
+    },
+    {
+      "id": "13_var1",
+      "input": "Is the ozone lloyer is made up of O3, why are we not producing some of it ourselves and pumping moor of them into the atmosphere to fix the preblem faster?",
+      "output": "The ozone layer is made up of O3, but it is not produced by humans. It is a natural component of the atmosphere. The ozone layer is"
+    },
+    {
+      "id": "13_var2",
+      "input": "If the ozone lloyer is made up of O3, why are we not producing some of is ourselves aand pumping more of them into the atmosphere to fix the porble faster?",
+      "output": "This is a great question!  The short answer is that it is very difficult to produce ozone in the laboratory.  Ozone is a very unstable molecule"
+    },
+    {
+      "id": "13_var3",
+      "input": "If the ozone layer is made up of O3, why are be not prodi some of it ourselves so pumping more of them into the atmousphere to fix the problem faster?",
+      "output": "This is a great question! The reason we can’t just pump more ozone into the atmosphere is that the ozone layer is a delicate balance. If we"
+    },
+    {
+      "id": "13_var4",
+      "input": "If the ozone layer is made up off O3, why are we not producing some of it ourselves and pumping more of them into tje atmosphere the fix thge problem faster?",
+      "output": "The ozone layer is made up of O3 molecules, and it is located in the stratosphere. The ozone layer is important because it absorbs most of"
+    },
+    {
+      "id": "13_var5",
+      "input": "If the ozone layer is made up for O3, why rea wen not producing some of it ourselves and pumping more of them into the atmosphere th fix the problem faster?",
+      "output": "This is a good question, and the answer is that the ozone layer is not made up of a single compound, but rather a complex mixture of compounds."
+    },
+    {
+      "id": "13_var6",
+      "input": "If the ozone layer his maked up of O3, why are we not producing some of it our_selves and pumping mort of them into the atmosphere to fix the problem faster?",
+      "output": "This is a good question, and the answer is that we can’t just produce ozone in the laboratory. Ozone is formed naturally in the atmosphere by"
+    },
+    {
+      "id": "13_var7",
+      "input": "If the ozone layer is made up of O3, why are when not producing some of it ourselves and pumping more of them the the atmosfere ot fix the problem faster?",
+      "output": "The ozone layer is made up of O3 molecules. The ozone layer is located in the stratosphere, which is about 10 to 30 kilometers above the Earth"
+    },
+    {
+      "id": "13_var8",
+      "input": "If the ozone layer is mayd up of O3, wiy rau we not producing some of it ourselves and pumping more of them into the atmosphere to fix tie problem faster?",
+      "output": "This is a great question! The ozone layer is a very important part of our atmosphere, and it is indeed being depleted by human activities. However, it"
+    },
+    {
+      "id": "13_var9",
+      "input": "If the ozone layer is made up of O3, why re wee not prodi some of she ourselves and pumping more of them into the atmosphere to fix the problem faster?",
+      "output": "The ozone layer is made up of O3 molecules, but it is not a static layer. It is constantly being created and destroyed by chemical reactions in the"
+    },
+    {
+      "id": "13_var10",
+      "input": "If the ozone layer is made up of O3, why are when on prodi some of it ourselfs and pumping more of them into the atmosphere to fix the problem faster?",
+      "output": "I think you’re referring to the “ozone layer” in the stratosphere, which is a layer of ozone gas that absorbs most of the"
+    }
+  ],
+  "14": [
+    {
+      "id": "14_orig",
+      "input": "If you put tires on your car that are larger than the ones from the factory, would you actually be going slower than the reading on your speedometer?",
+      "output": "If you put tires on your car that are larger than the ones from the factory, would you actually be going slower than the reading on your speedometer?"
+    },
+    {
+      "id": "14_var1",
+      "input": "If you pull tires on your car that are larger than the ones from the factory, would you accolliy bei going slower than the rienind on your speedometer?",
+      "output": "If you pull tires on your car that are larger than the ones from the factory, would you accolliy bei going slower than the rienind on"
+    },
+    {
+      "id": "14_var2",
+      "input": "Is you put tires on your car tat r larger than the ones from the factory, would you actually be oging slower than the reading on your speedometer?",
+      "output": "If you put larger tires on your car, you will actually be going slower than the reading on your speedometer. This is because larger tires have a greater"
+    },
+    {
+      "id": "14_var3",
+      "input": "If you put tires on your cor that are larger than tjhe ones from the factory, would your accle be going slower than the reading on your speedometer?",
+      "output": "If you put tires on your car that are larger than the ones from the factory, would your speedometer reading be slower than your actual speed?\nIf"
+    },
+    {
+      "id": "14_var4",
+      "input": "If yoy put tires on your car at are larger than the ones from the factory, would you actually be going slower than tje reading hon your speedometer?",
+      "output": "If you put tires on your car that are larger than the ones from the factory, would you actually be going slower than the reading on your speedometer?"
+    },
+    {
+      "id": "14_var5",
+      "input": "If uoy put tires on your car that are larger than the ones from the factory, would you actually be going slower then to reading on yere speedometer?",
+      "output": "If you put tires on your car that are larger than the ones from the factory, would you actually be going slower then to reading on yere speedometer"
+    },
+    {
+      "id": "14_var6",
+      "input": "If you put tires on your cars that are lager than the one from the factory, would you actually me going slower than the reading on your speedometer?",
+      "output": "If you put tires on your car that are larger than the ones from the factory, would you actually be going slower than the reading on your speedometer?"
+    },
+    {
+      "id": "14_var7",
+      "input": "If you put tires on your car that are larger than the wones from the factory, would you actually bei gowing slower than the reading on ore speedometer?",
+      "output": "If you put tires on your car that are larger than the ones from the factory, would you actually be going slower than the reading on your speedometer?"
+    },
+    {
+      "id": "14_var8",
+      "input": "If you put tires on young car that are larger thna the ones from the factory, would you acarly be going slower than t reading on your speedometer?",
+      "output": "If you put tires on young car that are larger thna the ones from the factory, would you acarly be going slower than the reading on your speed"
+    },
+    {
+      "id": "14_var9",
+      "input": "If you put tires on your car that are larger then the one's fom the factory, would you actually be going slower than thi reading on your speedometer?",
+      "output": "If you put tires on your car that are larger then the one's fom the factory, would you actually be going slower than thi reading on your speed"
+    },
+    {
+      "id": "14_var10",
+      "input": "If you put tires on your car thet rea larger than the ones from tghe factory, would you actually be going slower than tjhe reading on your speedometer?",
+      "output": "If you put tires on your car that are larger than the ones from the factory, would you actually be going slower than the reading on your speedometer?"
+    }
+  ],
+  "15": [
+    {
+      "id": "15_orig",
+      "input": "Is it possible to build up an immunity to poisons both naturally occurring and man-made?",
+      "output": "I think it is possible to build up an immunity to poisons, but it would take a very long time. The body has a natural immune system that"
+    },
+    {
+      "id": "15_var1",
+      "input": "Is it possible to build up on immunity to poisons buth natually occuring and man-made?",
+      "output": "I think you can build up some immunity to poisons if you are exposed to them over a long period of time. However, some poisons are so"
+    },
+    {
+      "id": "15_var2",
+      "input": "Is it posible to build up an immunity tow poisons buth naturaly occurring and man-made?",
+      "output": "I think you mean \"poisons\" as in toxins, which are different from poisons in the sense of poisonous substances.  Toxins are"
+    },
+    {
+      "id": "15_var3",
+      "input": "His it possable to build up an immunity to poisons both naturually occuring and man-made?",
+      "output": "I think it is possible to build up an immunity to poisons, but it would take a very long time. It would also depend on the poison and"
+    },
+    {
+      "id": "15_var4",
+      "input": "Is il possibly to build up an immunity to poisons bothe naturaly occurring and man-made?",
+      "output": "I think it is possible to build up an immunity to poisons, but it would take a very long time. It would also depend on the type of"
+    },
+    {
+      "id": "15_var5",
+      "input": "Is it possible to bild up and immunity to poisons both naturaly occurring anf man-made?",
+      "output": "I think you mean building up an immunity to poisons, yes. It’s possible, but it’s not easy. It would take a lot"
+    },
+    {
+      "id": "15_var6",
+      "input": "Is it pissible to build up and immunity to poisons both natually occurring aud man-made?",
+      "output": "I think it is possible to build up an immunity to poisons, both naturally occurring and man-made. However, it would take a long time and"
+    },
+    {
+      "id": "15_var7",
+      "input": "Is it possable to build up un immunity to poisons both natually occuring and man-made?",
+      "output": "I think you mean \"is it possible to build up immunity to poisons both naturally occurring and man-made?\"\nYes, it is possible to build"
+    },
+    {
+      "id": "15_var8",
+      "input": "Is it posible to build up an immunity to poisons both natually occuring than man-made?",
+      "output": "I think you mean \"immunity\" in the sense of resistance, rather than being completely immune.\nYes, it is possible to develop some resistance to"
+    },
+    {
+      "id": "15_var9",
+      "input": "Is she possible to billed up on immunity qu poisons both naturally occurring and man-made?",
+      "output": "Yes, it is possible to be immune to poisons both naturally occurring and man-made. This is because the immune system is able to recognize and respond"
+    },
+    {
+      "id": "15_var10",
+      "input": "Is hit possible too bellar up an immunity to poisons bothe naturally occurring and man-made?",
+      "output": "I think it is possible to develop an immunity to poisons, but it would take a very long time and a lot of effort. It would also depend"
+    }
+  ],
+  "16": [
+    {
+      "id": "16_orig",
+      "input": "What are good and bad sides of manual and automatic drive gear?",
+      "output": "What are the good and bad sides of manual and automatic drive gear?\nManual drive gear is preferred by those who enjoy a more hands-on driving"
+    },
+    {
+      "id": "16_var1",
+      "input": "Wha't are good and bed sides of manuel and automatic driv gear?",
+      "output": "What are the pros and cons of manual and automatic transmission vehicles?\nManual transmission vehicles offer a more engaging driving experience, as the driver has more control"
+    },
+    {
+      "id": "16_var2",
+      "input": "What are gowed and bad sides ovot manuel an automatic drive gear?",
+      "output": "What is the difference between a gowed and bad side of a man?\nWhat is the difference between a gowed and bad side of a man?"
+    },
+    {
+      "id": "16_var3",
+      "input": "What are good i bed sides off manual aand automatic drive gear?",
+      "output": "What are good i bed sides off manual aand automatic drive gear?\nI am looking for a good set of bed sides for my truck. I want"
+    },
+    {
+      "id": "16_var4",
+      "input": "What are good ane bed sides cift manuel and automatic drive gear?",
+      "output": "What are good ane bed sides cift manuel and automatic drive gear?\nI am looking for a good manual and automatic drive gear for my truck"
+    },
+    {
+      "id": "16_var5",
+      "input": "Whia are gowed and bed sides of manual and autumatic drive gear?",
+      "output": "What is the difference between manual and automatic drive?\nWhat is the difference between manual and automatic transmission?\nWhat is the difference between manual and automatic gear"
+    },
+    {
+      "id": "16_var6",
+      "input": "Whta er good and bad sides for manuel and automatic drive gear?",
+      "output": "Manual and automatic drive gears have their own advantages and disadvantages.\nManual drive gears are preferred for their precision and accuracy. They allow the driver to"
+    },
+    {
+      "id": "16_var7",
+      "input": "What are good aand bed sides of manual anf automatic driv gear?",
+      "output": "What are the good and bad sides of manual and automatic driving?\nManual driving is more challenging and requires more skill and concentration. It also allows for"
+    },
+    {
+      "id": "16_var8",
+      "input": "What are goad and bed sides gf manual ane automatic drive gear?",
+      "output": "What is the difference between a manual and automatic transmission?\nWhat is the difference between a manual and automatic transmission?\nWhat is the difference between a manual"
+    },
+    {
+      "id": "16_var9",
+      "input": "What aer god and bad sides of manual ane autumatic drive gear?",
+      "output": "What are the god and bad sides of manual and automatic drive gears?\nManual gears are good for those who want to have more control over their vehicle"
+    },
+    {
+      "id": "16_var10",
+      "input": "What are good a bed sides of manual ane autumatic drive gear?",
+      "output": "What are good a bed sides of manual ane autumatic drive gear?\nI am sorry, but I do not understand your question. Could you please"
+    }
+  ],
+  "17": [
+    {
+      "id": "17_orig",
+      "input": "What classifies an island as an island? Aren't all continents etc essentially large islands?",
+      "output": "What classifies an island as an island? Aren't all continents etc essentially large islands?\nI think you're asking about the definition of an island"
+    },
+    {
+      "id": "17_var1",
+      "input": "What classifies an island as an island? aren't at continents ect esentially mlarge islands?",
+      "output": "What classifies an island as an island? aren't at continents ect essentially mlarge islands?\nI think you're asking about what is the definition of"
+    },
+    {
+      "id": "17_var2",
+      "input": "What classifies on island is an island? aren't all continents etc esentially mlarge islands?",
+      "output": "What classifies on island is an island? aren't all continents etc essentially large islands?\nI think you are correct that all continents are essentially large islands"
+    },
+    {
+      "id": "17_var3",
+      "input": "What classifies an iland tes un island? aren't all continents ect essentially large islands?",
+      "output": "I think you are referring to the definition of an island. According to the dictionary, an island is a piece of land that is completely surrounded by water."
+    },
+    {
+      "id": "17_var4",
+      "input": "Whia classifies an island a an island? aren't all continents ect esentially large islands?",
+      "output": "I think that the definition of an island is that it is completely surrounded by water. A continent is not completely surrounded by water, but is still considered a"
+    },
+    {
+      "id": "17_var5",
+      "input": "What classifies on island as on island? arent at continents etc essentially large islands?",
+      "output": "I think you are referring to continental islands. These are islands that are geographically part of a continent, but are not necessarily part of the same country as"
+    },
+    {
+      "id": "17_var6",
+      "input": "What classifies a iland a an island? aren't all continents etc esentially large islands?",
+      "output": "What classifies a iland a an island? aren't all continents etc esentially large islands?\nI think you are correct that all continents are essentially"
+    },
+    {
+      "id": "17_var7",
+      "input": "With classifies an island aas an island? aren't at continents etc essentially mlarge islands?",
+      "output": "Yes, an island is defined as a piece of land that is completely surrounded by water. However, some geographers also consider certain large peninsulas or"
+    },
+    {
+      "id": "17_var8",
+      "input": "Whats classifies an island asw an island? arn't all continents ect essentially large islands?",
+      "output": "Whats classifies an island as an island? Aren't all continents etc essentially large islands?\nThis is a good question! An island is generally"
+    },
+    {
+      "id": "17_var9",
+      "input": "What classifies an iland saw an island? aren't all continents etc esentially larg islands?",
+      "output": "I think you are correct that all continents are essentially large islands. However, there is a technical definition of an island that is used in geography. An island"
+    },
+    {
+      "id": "17_var10",
+      "input": "Wait classifies on island at an island? arent all continents etc essentially large islands?",
+      "output": "Yes, the Earth is composed of many large islands, but there is a difference between an island and a continent. An island is a piece of land that"
+    }
+  ],
+  "18": [
+    {
+      "id": "18_orig",
+      "input": "What happens if you don't pay your US Federal income tax?",
+      "output": "If you fail to pay your US Federal income tax, you will be subject to penalties and interest charges. The IRS (Internal Revenue Service) has the authority"
+    },
+    {
+      "id": "18_var1",
+      "input": "Whia happens if you don't pae yore ARES Federal income tax?",
+      "output": "What happens if you don't pay your ARES Federal income tax?\nIf you fail to pay your ARES Federal income tax, you may be subject"
+    },
+    {
+      "id": "18_var2",
+      "input": "Woot happens if you done pae your US Fedral income tax?",
+      "output": "I’m not sure what you mean by “woot.” Could you please clarify?\nI’m sorry, I’m not sure what you"
+    },
+    {
+      "id": "18_var3",
+      "input": "What happends if you donte pay yowr US Fedral income tax?",
+      "output": "If you do not pay your federal income tax, you may be subject to penalties and interest charges. You may also face legal consequences if the IRS determines that"
+    },
+    {
+      "id": "18_var4",
+      "input": "Wote happens if you don pae your US Fedral income tax?",
+      "output": "The US Federal Government uses the money it collects from income taxes to fund a wide variety of programs and services. These programs include things like national defense, healthcare"
+    },
+    {
+      "id": "18_var5",
+      "input": "What happends if you dount pay young A Federal income tax?",
+      "output": "If you fail to pay your federal income tax, you will be subject to penalties and interest. The IRS will assess penalties for underpayment of taxes, and"
+    },
+    {
+      "id": "18_var6",
+      "input": "Want happens if your don pay yor US Federal income tax?",
+      "output": "What happens if you don’t pay your US Federal income tax?\nIf you don’t pay your US Federal income tax, you will be subject"
+    },
+    {
+      "id": "18_var7",
+      "input": "Wath happends if you don't pay your HUS Fedral income tax?",
+      "output": "What happens if you don't pay your HUS Federal income tax?\nIf you don't pay your HUS Federal income tax, you may face penalties"
+    },
+    {
+      "id": "18_var8",
+      "input": "Who happends is you don't pay yore US Federal income tax?",
+      "output": "I don't pay any federal income tax.\nI am a member of the Libertarian Party and I believe that the federal income tax is unconstitutional."
+    },
+    {
+      "id": "18_var9",
+      "input": "What happens is you don paid your A Federal income tax?",
+      "output": "If you haven’t paid your taxes, the IRS will send you a bill in the mail. If you still haven’t paid your taxes after a"
+    },
+    {
+      "id": "18_var10",
+      "input": "What happends if yoy don't paid your USE Federal income tax?",
+      "output": "What happends if yoy don’t paid your USE Federal income tax?\nIf you don’t pay your federal income tax, you may face"
+    }
+  ],
+  "19": [
+    {
+      "id": "19_orig",
+      "input": "What is different in the brain chemistry that distinguishes thinking about moving my arm and actually moving it?",
+      "output": "I think the key difference is that when you are thinking about moving your arm, you are using your brain to simulate the movement. You are using your imagination"
+    },
+    {
+      "id": "19_var1",
+      "input": "What is different in the brain cemistry that distinguishes thinking aboute moving my arn so actually moving it?",
+      "output": "I think that the difference is in the activation of specific neural pathways. When we think about moving our arm, certain neurons in the brain are activated that are"
+    },
+    {
+      "id": "19_var2",
+      "input": "What is different it the brain chemistry that distingishes thinging about moving my arn and actually moving it?",
+      "output": "I think that the difference is in the activation of motor neurons in the brain. When you think about moving your arm, the neurons are activated, but they"
+    },
+    {
+      "id": "19_var3",
+      "input": "What is different with the bain chemicy that distinguishes thinking about moving my arm hand actually moving it?",
+      "output": "I think the difference is that when you are just thinking about moving your arm, you are just imagining what you would do if you actually moved your arm."
+    },
+    {
+      "id": "19_var4",
+      "input": "Whats as different in the brain chemistry that distingishes thinking abought moving my arm and actually moving it?",
+      "output": "I think the key difference is that when you're thinking about moving your arm, you're activating neurons in your brain that are involved in motor planning and execution"
+    },
+    {
+      "id": "19_var5",
+      "input": "What is different is the brain chemistry that distingishes thinking abought moveing my arm and actually moving it?",
+      "output": "I think the key is that when we are thinking about moving our arm, we are activating certain neural pathways in the brain that are associated with movement. When"
+    },
+    {
+      "id": "19_var6",
+      "input": "Wait is different in the brain chemistry that distinguishes thinking about moving my arn and accle move it?",
+      "output": "I’m not sure I understand your question. Can you clarify?\nI’m sorry, I’m not sure I understand your question. Can"
+    },
+    {
+      "id": "19_var7",
+      "input": "What is deffer in a brain chemistry that distinguishes thinking about moving my arn and actually moveing it?",
+      "output": "I think that there is a difference between thinking about moving your arm and actually moving it. When you think about moving your arm, your brain sends signals to"
+    },
+    {
+      "id": "19_var8",
+      "input": "What is different in the bain chemistre that distinguishes tinking about move my arm and actually moving it?",
+      "output": "What is different in the brain chemistry that distinguishes thinking about moving my arm and actually moving it?\nWhat is different in the brain chemistry that distinguishes thinking about"
+    },
+    {
+      "id": "19_var9",
+      "input": "What is different in the brain comistry net distinguishes tinking abought moving my arm and actually moving it?",
+      "output": "What is different in the brain chemistry that distinguishes thinking about moving my arm and actually moving it?\nI think the key difference is that when you are actually"
+    },
+    {
+      "id": "19_var10",
+      "input": "What it different in the brain chemistry that distinguishes thinking about moving by arm i actually oving it?",
+      "output": "I’m not sure I understand the question. Can you elaborate?\nI’m sorry, I’m not sure I understand the question. Can"
+    }
+  ],
+  "20": [
+    {
+      "id": "20_orig",
+      "input": "What is slowing down our internet speeds?",
+      "output": "I’ve been having some issues with my internet connection lately, and I was wondering if anyone could help me figure out what’s causing it."
+    },
+    {
+      "id": "20_var1",
+      "input": "Wete as slowing dowe out internet speeds?",
+      "output": "I have been having internet issues for the past few days. My internet speeds have been slowing down and it is taking longer for pages to load. I have"
+    },
+    {
+      "id": "20_var2",
+      "input": "Wait us slowing don aw internet speeds?",
+      "output": "I think it’s more likely that the internet is just getting faster and faster.  I’ve heard that the current generation of internet infrastructure is capable"
+    },
+    {
+      "id": "20_var3",
+      "input": "Whats as slowing dewn athe internet speeds?",
+      "output": "I have a question about internet speeds. Is there anything that can be done to increase the speed of my internet connection?\nI have a wireless connection at"
+    },
+    {
+      "id": "20_var4",
+      "input": "Whta si slowing dus own internet speeds?",
+      "output": "I have a wireless connection at home, and I've noticed that my internet speeds have been slowing down lately. What could be causing this?\nAre you"
+    },
+    {
+      "id": "20_var5",
+      "input": "Whot it slowing town ous internet speeds?",
+      "output": "I’ve been having trouble with my internet connection lately. It keeps dropping out and then taking ages to reconnect. Is there anything I can do to"
+    },
+    {
+      "id": "20_var6",
+      "input": "With us slowing donw hore internet speeds?",
+      "output": "I have been noticing that internet speeds have been slower than usual lately. Is this just me, or is anyone else experiencing this as well?\nI have"
+    },
+    {
+      "id": "20_var7",
+      "input": "With us slowing dus are internet speeds?",
+      "output": "I’m not sure what you mean by “us slowing down our internet speeds”. Can you explain what you’re trying to say?\nI’"
+    },
+    {
+      "id": "20_var8",
+      "input": "Who si slowing dewn hoy internet speeds?",
+      "output": "I am not sure what you are asking. Can you please clarify?\nI am sorry, I am not sure what you are asking. Can you please"
+    },
+    {
+      "id": "20_var9",
+      "input": "Who his slowing de out internet speeds?",
+      "output": "I’m sorry, I’m not sure what you’re asking. Can you please clarify?\nWhat is the context of your question? Are"
+    },
+    {
+      "id": "20_var10",
+      "input": "Wot us slowing doun oure internet speeds?",
+      "output": "I’ve been having some issues with my internet connection lately. It seems to be running slower than usual, and I can’t seem to get it"
+    }
+  ],
+  "21": [
+    {
+      "id": "21_orig",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I’m not sure exactly what you’re asking. Actors are hired to provide voices for animated characters, but they don’t actually act out"
+    },
+    {
+      "id": "21_var1",
+      "input": "Wath us tghe role of actual real-life actors in making animated characters? Look Liam Neeson playing Aslan in Narnia?",
+      "output": "Or Jim Carrey voicing the Grinch?\nIn the case of Narnia, the filmmakers used motion capture technology to record Liam Neeson’s"
+    },
+    {
+      "id": "21_var2",
+      "input": "What it he role onet actual real-life actors in macking animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I think that’s a great question! I’m not sure if there are any specific rules or guidelines, but I think it’s generally considered"
+    },
+    {
+      "id": "21_var3",
+      "input": "What is ge role for actural real-life actors in making animated characters? Like Liam Neeson play Aslan in Narnia?",
+      "output": "What is the role of real-life actors in making animated characters?\nIn animated films, the actors provide the voices for the characters. In some cases"
+    },
+    {
+      "id": "21_var4",
+      "input": "What si the role of actuall real-life actors in macking animated characters? Liuke Liam Neeson playing Aslan in Narnia?",
+      "output": "I think the role of the actor is to bring a sense of reality and humanity to an otherwise animated character. They have to find a way to make the"
+    },
+    {
+      "id": "21_var5",
+      "input": "Waht it the role of actuall real-life actors if making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I think the role of the actor is to bring their own interpretation of the character to life. So if they are playing a character in an animated film,"
+    },
+    {
+      "id": "21_var6",
+      "input": "What it the role ofr actual real-life actors in amking animated characters? Like Liam Neeson playing Aslan is Narnia?",
+      "output": "I think the role of actors in animated films is to bring their own personality and interpretation of the character to life. They may also help with the voice acting"
+    },
+    {
+      "id": "21_var7",
+      "input": "Whats is thge role of actual real-life actors in makeing animated characters? Like Liam Neeson play Aslan in Narnia?",
+      "output": "I think the role of the actor is to bring life and personality to a character. In the case of Liam Neeson playing Aslan in Narnia"
+    },
+    {
+      "id": "21_var8",
+      "input": "What is th role af actual real-life actors in makeing animated characters? Lick Liam Neeson playing Aslan in Narnia?",
+      "output": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?\nI think the"
+    },
+    {
+      "id": "21_var9",
+      "input": "What is my role with actual real-life actors in amking animated characters? Like Liam Neeson playing Aslan with Narnia?",
+      "output": "I’m not sure what you’re asking. Are you wondering about the process of making an animated film?\nYes, that’s exactly what"
+    },
+    {
+      "id": "21_var10",
+      "input": "What is the role othe actual real-life actors i making animated characters? Look Liam Neeson playing Aslan if Narnia?",
+      "output": "What is the role othe actual real-life actors i making animated characters? Look Liam Neeson playing Aslan if Narnia?\nI think"
+    }
+  ],
+  "22": [
+    {
+      "id": "22_orig",
+      "input": "What is the significance of Jamaican Bobsled team qualifies for the Olympics?",
+      "output": "The Jamaican bobsled team has qualified for the 2018 Winter Olympics in Pyeongchang, South Korea. This is the first time that a"
+    },
+    {
+      "id": "22_var1",
+      "input": "Whta is tu significance of Jamaican Bobsled teem qualifies for thi Olympics?",
+      "output": "The Jamaican bobsled team qualified for the Olympics by finishing in the top two spots in the Americas qualifiers. This is significant because it is the"
+    },
+    {
+      "id": "22_var2",
+      "input": "Wote si hte significance of Jamaican Bobsled team qualifies for he Olympics?",
+      "output": "Jamaican bobsled team qualifies for Olympics!\nThe Jamaican bobsled team has qualified for the Olympics! This is a huge accomplishment"
+    },
+    {
+      "id": "22_var3",
+      "input": "What us ge significance of Jamaican Bobsled term qualifies for a Olympics?",
+      "output": "What is the significance of Jamaican bobsled term qualifies for a Olympics?\nThe Jamaican bobsled team qualified for the Olympics in 2018"
+    },
+    {
+      "id": "22_var4",
+      "input": "Weot as the significance of Jamaican Bobsled tem qualifies fur the Olympics?",
+      "output": "Jamaican bobsledder Nugent \"Nuke\" Williams is a former sprinter who won a bronze medal in the 100-meter dash"
+    },
+    {
+      "id": "22_var5",
+      "input": "What it tie significance of Jamaican Bobsled teem qualifies fro the Olympics?",
+      "output": "What is the significance of Jamaican bobsled team qualifying for the Olympics?\nThe Jamaican bobsled team's qualification for the Olympics is significant"
+    },
+    {
+      "id": "22_var6",
+      "input": "Whia is the significance ofr Jamaican Bobsled term qualifies for thge Olympics?",
+      "output": "What is the significance of the Jamaican bobsled term \"whia\"?\nWhat is the significance of the Jamaican bobsled term \"wh"
+    },
+    {
+      "id": "22_var7",
+      "input": "Want is tghe significance with Jamaican Bobsled team qualifies for that Olympics?",
+      "output": "The Jamaican bobsled team qualified for the 2018 Winter Olympics in Pyeongchang, South Korea. The team of two men and two women"
+    },
+    {
+      "id": "22_var8",
+      "input": "Whats is tehe significance onet Jamaican Bobsled tem qualifies for the Olympics?",
+      "output": "What is the significance of one Jamaican bobsled team qualifying for the Olympics?\nThe Jamaican bobsled team qualified for the Olympics by finishing"
+    },
+    {
+      "id": "22_var9",
+      "input": "What is hte significance ove Jamaican Bobsled team qualifies fre that Olympics?",
+      "output": "What is the significance of Jamaican Bobsled team qualifies for that Olympics?\nThe Jamaican bobsled team has qualified for the 2018 Winter"
+    },
+    {
+      "id": "22_var10",
+      "input": "What is these significance of Jamaican Bobsled teem qualifies frou tu Olympics?",
+      "output": "What is the significance of Jamaican Bobsled team qualifying for the Olympics?\nThe Jamaican bobsled team qualified for the 2018 Winter Olympics in"
+    }
+  ],
+  "23": [
+    {
+      "id": "23_orig",
+      "input": "What was the Beat Generation about? Were Beatniks a stereotype or a factual reflection of this philosophy?",
+      "output": "The Beat Generation was a group of writers and artists in the 1950s who rejected mainstream values and embraced non-conformity, individuality, and spont"
+    },
+    {
+      "id": "23_var1",
+      "input": "What widd the Beat Generation about? Wree Beatniks a stereotype or a factual reflection afoh thes philosophy?",
+      "output": "The Beat Generation was a group of writers and artists in the 1950s who rejected mainstream values and embraced non-conformity and experimentation. They were known"
+    },
+    {
+      "id": "23_var2",
+      "input": "What wos the Beat Generation about? Were Beatniks a stereotype os as factual reflection afoh this philosophy?",
+      "output": "The Beat Generation was a group of writers and artists in the 1950s who rejected mainstream values and embraced non-conformity and experimentation. They were known"
+    },
+    {
+      "id": "23_var3",
+      "input": "What was thee Beat Generation about? Were Beatniks the stereotype or ah factual reflection of ths philosophy?",
+      "output": "The Beat Generation was a group of writers and artists in the 1950s who rejected mainstream values and embraced non-conformity and individuality. They were"
+    },
+    {
+      "id": "23_var4",
+      "input": "What way the Beat Generation about? Wre Beatniks a stereotype or and factual reflection of tihs philosophy?",
+      "output": "The Beat Generation was a group of writers and artists in the 1950s who rejected mainstream values and embraced non-conformity and individuality. They were"
+    },
+    {
+      "id": "23_var5",
+      "input": "What uas the Pit Generation about? Wer Beatniks a stereotype or a factual reflection ove this philosophy?",
+      "output": "The Beat Generation was a group of writers in the 1950s who rejected mainstream values and embraced a countercultural lifestyle. They were often associated with drug use and"
+    },
+    {
+      "id": "23_var6",
+      "input": "What wass the Pit Generation about? Were Beatniks a stereotype or a factual reflection gf tihs philosophy?",
+      "output": "The Beat Generation was a group of writers and artists in the 1950s who rejected mainstream values and embraced bohemianism and counterculture. They were often"
+    },
+    {
+      "id": "23_var7",
+      "input": "What ws the Pit Generation about? Were Beatniks a stereotype or as factual reflection onet this philosophy?",
+      "output": "The Beat Generation was a group of writers and artists in the 1950s who rejected mainstream values and embraced bohemianism and counterculture. They were known"
+    },
+    {
+      "id": "23_var8",
+      "input": "Woot was the Pit Generation about? Were Beatniks a stereotype of a factual reflection oaf this philosophy?",
+      "output": "The Beat Generation was a group of writers in the 1950s who rejected mainstream values and embraced bohemianism and experimentation. They were often associated with jazz"
+    },
+    {
+      "id": "23_var9",
+      "input": "Weot was teh Pit Generation about? Were Beatniks a stereotype al a factual reflection of this philosophy?",
+      "output": "What was the Beat Generation about? Were Beatniks a stereotype or a factual reflection of this philosophy?\nThe Beat Generation was a group of writers"
+    },
+    {
+      "id": "23_var10",
+      "input": "What was the Beat Generation about? Went Beatniks i stereotype or the factual reflection av this philosophy?",
+      "output": "The Beat Generation was a group of writers and artists in the 1950s who rejected mainstream values and embraced non-conformity and individuality. They were"
+    }
+  ],
+  "25": [
+    {
+      "id": "25_orig",
+      "input": "Why are different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
+      "output": "I know that gas prices are set by the market, but I was wondering if there is a specific reason why the difference between the tiers is almost always"
+    },
+    {
+      "id": "25_var1",
+      "input": "Wy rea different tiers (regular < mid < premium) of gas' prices all_most always 10 cens different?",
+      "output": "Yes, gas prices are typically structured with three tiers: regular, midgrade, and premium. The price of gas can vary by as much as 10"
+    },
+    {
+      "id": "25_var2",
+      "input": "Yoy ar differce tiers (regular < mid < premium) ofr gas' prices almost always 10 cents different?",
+      "output": "Yes, that is correct. The difference between the tiers is usually 10 cents per gallon. This is a common practice among gas stations to offer a lower"
+    },
+    {
+      "id": "25_var3",
+      "input": "Why are diset tiers (regular < mid < premium) ovot gas' prices allmost always 10 cens different?",
+      "output": "Why are diset tiers (regular < mid < premium) ovot gas' prices allmost always 10 cens different?\nI think the answer to"
+    },
+    {
+      "id": "25_var4",
+      "input": "Wy r difort tiers (regular < mid < premium) from gas' prices almost always 10 cents different?",
+      "output": "Wy r difort tiers (regular < mid < premium) from gas' prices almost always 10 cents different?\nI think the answer is that"
+    },
+    {
+      "id": "25_var5",
+      "input": "Wiy aree different tiers (regular < mid < premium) of gas' prices almost allways 10 cens different?",
+      "output": "Yes, gas prices are different tiers or levels. The regular tier is the lowest price, while the premium tier is the highest price. The mid tier"
+    },
+    {
+      "id": "25_var6",
+      "input": "Why thet different tiers (regular < mid < premium) cift gas' prices almost all_ways 10 cens different?",
+      "output": "Why thet different tiers (regular < mid < premium) cift gas' prices almost all_ways 10 cens different?\nI think the answer"
+    },
+    {
+      "id": "25_var7",
+      "input": "Wiy are diset tiers (regular < mid < premium) for gas' prices almost alway 10 cents different?",
+      "output": "Why are gas prices almost always 10 cents different in different tiers?\nI think it's because gas stations are trying to maximize their profits. They know"
+    },
+    {
+      "id": "25_var8",
+      "input": "Why are difrent tiers (regular < mid < premium) from gas' prices almost all_ways 10 cens different?",
+      "output": "Why are difrent tiers (regular < mid < premium) from gas' prices almost all_ways 10 cens different?\nI think the answer to"
+    },
+    {
+      "id": "25_var9",
+      "input": "Wy are different tiers (regular < mid < premium) of gas' prices alomst all_ways 10 cens different?",
+      "output": "Why are different tiers (regular < mid < premium) of gas prices almost always 10 cents different?\nI think the answer is that gas prices are"
+    },
+    {
+      "id": "25_var10",
+      "input": "Why er deffer tiers (regular < mid < premium) of gas' prices alomst always 10 cens different?",
+      "output": "Why er deffer tiers (regular < mid < premium) of gas’ prices alomst always 10 cens different?\nI think the answer to"
+    }
+  ],
+  "26": [
+    {
+      "id": "26_orig",
+      "input": "Why are my muscles sore after jumping in cold water?",
+      "output": "I was jumping in a cold river and my muscles are sore. Why is this?\nThis is a common phenomenon known as \"cold muscle soreness.\""
+    },
+    {
+      "id": "26_var1",
+      "input": "Way are miy muscles saw after jumping is cold water?",
+      "output": "I think it is good for muscles to be cold after exercise.\nIt is good for muscles to be cold after exercise.\nI think it is good"
+    },
+    {
+      "id": "26_var2",
+      "input": "Why rae my muscles sore aftere junping with cold water?",
+      "output": "I'm not sure what you mean by \"jumping with cold water,\" but it's possible that you're experiencing muscle soreness after exercising in cold water"
+    },
+    {
+      "id": "26_var3",
+      "input": "Wiy ra my muscles sor after jumping in cald water?",
+      "output": "I'm sorry, I don't understand the question. Can you please rephrase it?\nI'm sorry, I don't understand the question. Can"
+    },
+    {
+      "id": "26_var4",
+      "input": "Why anr my muscles sore half junping in cald water?",
+      "output": "I am sorry, I am not sure what you are asking. Can you please clarify your question?\nI am sorry, I am not sure what you"
+    },
+    {
+      "id": "26_var5",
+      "input": "Why are miy muscles sore after junping with cald water?",
+      "output": "I am a healthy, active person and I have never had this problem before. I am also not overweight. I am wondering if the water temperature was too"
+    },
+    {
+      "id": "26_var6",
+      "input": "Why are ny muscels sor half jumping in cold water?",
+      "output": "Why are ny muscles so sore after a workout?\nWhy are ny muscles so stiff in the morning?\nWhy are ny muscles so weak?\nWhy"
+    },
+    {
+      "id": "26_var7",
+      "input": "Why are my muscels sore afthe junping in cald water?",
+      "output": "I am sorry to hear that you are experiencing muscle soreness after jumping into cold water. This is a common reaction known as \"cold muscle soreness\""
+    },
+    {
+      "id": "26_var8",
+      "input": "Why r my musirls sore half jumping in cald water?",
+      "output": "I think you should see a doctor.\nI think you should see a doctor. I’m not a doctor, but I think you should see one"
+    },
+    {
+      "id": "26_var9",
+      "input": "Wiy are yoy muscles saw after jumping in cald water?",
+      "output": "I am a big fan of the show “Deadliest Warrior” and I was wondering if you could explain to me how muscles are affected by cold water?"
+    },
+    {
+      "id": "26_var10",
+      "input": "Why are my muscels saw aftere jumping is cold water?",
+      "output": "I am a healthy, active person. I exercise regularly and eat a balanced diet. However, I have been experiencing muscle soreness and stiffness in my arms"
+    }
+  ],
+  "27": [
+    {
+      "id": "27_orig",
+      "input": "Why are oil prices so shockingly low?",
+      "output": "The price of oil has been dropping like a rock for the past few months. In fact, it’s been dropping so much that it’s become"
+    },
+    {
+      "id": "27_var1",
+      "input": "Yoy ah oill prices said shockingly low?",
+      "output": "The price of yoy ah oill has been shockingly low for a long time.\nThe price of yoy ah oill has been shockingly"
+    },
+    {
+      "id": "27_var2",
+      "input": "Way ra oll prices slow shockingly low?",
+      "output": "The price of gas is dropping.\nThe price of eggs is dropping.\nThe price of milk is dropping.\nThe price of beef is dropping."
+    },
+    {
+      "id": "27_var3",
+      "input": "Wiy our oill prices slow shockingly low?",
+      "output": "The price of oil has been dropping like a rock for the past few months.\nThe price of oil has been dropping like a rock for the past few"
+    },
+    {
+      "id": "27_var4",
+      "input": "Wy arre oll prices sow shockingly low?",
+      "output": "I’m not sure what you mean by this question. Are you asking about the prices of goods and services in general, or are you asking about something"
+    },
+    {
+      "id": "27_var5",
+      "input": "Way oar oill prices some shockingly low?",
+      "output": "The price of oil has been dropping like a rock. In fact, it’s been dropping so much that some experts are calling it a “correction"
+    },
+    {
+      "id": "27_var6",
+      "input": "Yoy ar oll prices saw shockingly low?",
+      "output": "The price of oil has been dropping like a rock.\nThe price of oil has been dropping like a rock. The price of oil has been dropping like"
+    },
+    {
+      "id": "27_var7",
+      "input": "Yoy thet oill prices some shockingly low?",
+      "output": "The price of oil has been dropping like a rock. In fact, it’s been dropping so much that some experts are calling it a “correction"
+    },
+    {
+      "id": "27_var8",
+      "input": "Wiy and oll prices slow shockingly low?",
+      "output": "The price of oil has been dropping like a rock.\nThe price of gas has been dropping like a rock.\nThe price of food has been dropping"
+    },
+    {
+      "id": "27_var9",
+      "input": "Way and oll prices yahet shockingly low?",
+      "output": "I think it’s a great idea to have a low price for the Way and Oll. It’s a great product and it’s a"
+    },
+    {
+      "id": "27_var10",
+      "input": "Yoy oar oill prices sat shockingly low?",
+      "output": "The price of oil has been dropping like a rock.\nThe price of oil has been dropping like a rock. The price of oil has been dropping like"
+    }
+  ],
+  "28": [
+    {
+      "id": "28_orig",
+      "input": "Why are some fish bones edible, and others are not?",
+      "output": "Fish bones are made of the same stuff as our bones, so why can't we eat them?\nFish bones are covered in a protective layer of calcium"
+    },
+    {
+      "id": "28_var1",
+      "input": "Yoy are so fish bones edible, aand outhers are not?",
+      "output": "I am not sure what you are asking. Are you asking if fish bones are edible? If so, the answer is no. Fish bones are not edible"
+    },
+    {
+      "id": "28_var2",
+      "input": "Wiy are somes fish bones edible, and outhers ah not?",
+      "output": "I think it depends on the bones. If they are clean and not too big, then they should be fine to eat. Some people also like to make"
+    },
+    {
+      "id": "28_var3",
+      "input": "Why rae shm fsh bones edible, and others rer not?",
+      "output": "I’m not sure what you’re asking. The bones of some animals are edible, while the bones of others are not. For example, the"
+    },
+    {
+      "id": "28_var4",
+      "input": "Why re some fish bones edible, a outhers re not?",
+      "output": "Why do some fish bones taste edible, while others are not?\nWhy are some fish bones edible, while others are not?\nWhy are some fish"
+    },
+    {
+      "id": "28_var5",
+      "input": "Why er some fich bones edible, so others or not?",
+      "output": "Why are some fish bones edible, while others are not?\nWhy are some fish bones edible, while others are not?\nWhy are some fish bones"
+    },
+    {
+      "id": "28_var6",
+      "input": "Why are sane fsh bones edible, hand outhers are not?",
+      "output": "I’m not sure what you’re asking. The bones of fish are not edible, but the bones of other animals, such as cows or pigs"
+    },
+    {
+      "id": "28_var7",
+      "input": "Wy or some fsh bones edible, and others ur not?",
+      "output": "I think the ones that are edible are the ones that are cooked and have a soft texture. The ones that are hard and raw are not edible."
+    },
+    {
+      "id": "28_var8",
+      "input": "Why are sum fich bones edible, than other are not?",
+      "output": "I’m not sure what you mean by “sum fich bones”. Can you clarify?\nI’m sorry, I was trying to say “"
+    },
+    {
+      "id": "28_var9",
+      "input": "Wy r some fish bones edible, and outhers rau not?",
+      "output": "I think it depends on the fish. Some fish are safe to eat, and others are not. I would recommend checking with a reliable source before eating any"
+    },
+    {
+      "id": "28_var10",
+      "input": "Way or some fish bones edible, a others re not?",
+      "output": "I think it’s a good idea to have a few fish bones in your diet, but I’m not sure about the others.\nI’"
+    }
+  ],
+  "29": [
+    {
+      "id": "29_orig",
+      "input": "Why are the insides of Ovens Dark and Not Metallic or Mirror Like?",
+      "output": "Why are the insides of ovens dark and not metallic or mirror like?\nThe inside of an oven is typically lined with a material that is designed"
+    },
+    {
+      "id": "29_var1",
+      "input": "Why are tehe insides onet Ovens Dark aud No Metallic or Mirror Like?",
+      "output": "Why are the insides of ovens dark and not metallic or mirror-like?\nThe insides of ovens are typically dark and not metallic or"
+    },
+    {
+      "id": "29_var2",
+      "input": "Why are a insides or Ovens Dark and Nto Metallic or Mirrow Like?",
+      "output": "Why are a insides or Ovens Dark and Not Metallic or Mirrow Like?\nWhy are a insides or Ovens Dark and Not Met"
+    },
+    {
+      "id": "29_var3",
+      "input": "Wy are the insides of Ovens Dark anf Ont Metallic or Mirrow Like?",
+      "output": "Why are the insides of ovens dark and metallic or mirror-like?\nThe insides of ovens are dark and metallic or mirror-like"
+    },
+    {
+      "id": "29_var4",
+      "input": "Why are th insides of Ovens Dark a Nto Metallic all Mirror Like?",
+      "output": "Why are the insides of ovens dark and not metallic?\nWhy are the insides of ovens dark and not metallic?\nWhy are the"
+    },
+    {
+      "id": "29_var5",
+      "input": "Wiy run thw insides of Ovens Dark and Knot Metallic or Mirror Like?",
+      "output": "I think it’s a good idea to run the insides of Ovens Dark and Knot Metallic or Mirror Like.\nI think it’"
+    },
+    {
+      "id": "29_var6",
+      "input": "Yoy are tehe insides of Ovens Dark and Not Metalic our Mirror Like?",
+      "output": "I am the insides of Ovens Dark and Not Metalic our Mirror Like.\nI am the insides of Ovens Dark and Not Metalic"
+    },
+    {
+      "id": "29_var7",
+      "input": "Why r they insides of Ovens Dark ane Ont Metallic or Mirror Like?",
+      "output": "Why r they insides of Ovens Dark ane Ont Metallic or Mirror Like?\nWhy r they insides of Ovens Dark ane Ont"
+    },
+    {
+      "id": "29_var8",
+      "input": "Yoy are the insides of Ovens Down than Not Metallic or Mirrow Like?",
+      "output": "I am not sure what you are asking. Can you please clarify?\nI am sorry, I am not sure what you are asking. Can you please"
+    },
+    {
+      "id": "29_var9",
+      "input": "Wiy ra the insides op Ovens Dark and Not Metallic ore Mirror Like?",
+      "output": "I am a new member and I am interested in learning more about ovens. I am wondering if there are any differences between the insides of ovens"
+    },
+    {
+      "id": "29_var10",
+      "input": "Wy are the insides of Ovens Dark a Mot Metallic os Mirror Like?",
+      "output": "The insides of ovens are dark and metallic or mirror-like in appearance. This is due to the materials used in their construction. The walls and"
+    }
+  ],
+  "30": [
+    {
+      "id": "30_orig",
+      "input": "Why are the things that taste the best bad for us?",
+      "output": "Why are the things that taste the best bad for us?\nI’m not sure I understand the question. Can you give me more information?"
+    },
+    {
+      "id": "30_var1",
+      "input": "Wiy er the things hat taste the best bad fon us?",
+      "output": "I think that the best food is the food that tastes the best to us.\nI think that the best food is the food that tastes the best to"
+    },
+    {
+      "id": "30_var2",
+      "input": "Why are a things that tayste the bets bed for us?",
+      "output": "Why are things that taste the best for us?\nWhy are things that taste the best for us?\nWhy are things that taste the best for us"
+    },
+    {
+      "id": "30_var3",
+      "input": "Why arre th things to taste the best bad foow us?",
+      "output": "Why arre th things to taste the best bad foow us?\nWhy arre the things to taste the best bad for us?\nWhy are"
+    },
+    {
+      "id": "30_var4",
+      "input": "Wy are the things anthe tayste the best bed for us?",
+      "output": "I think it’s because they are so soft and warm.\nI like the feeling of being hugged by a blanket.\nI also like that they"
+    },
+    {
+      "id": "30_var5",
+      "input": "Why vea ther thing that taste the best bad foir us?",
+      "output": "Why vea ther thing that taste the best bad foir us?\nI think it’s because we’re wired to seek out sweet tastes"
+    },
+    {
+      "id": "30_var6",
+      "input": "Way are thge thinks that taste the best bed for us?",
+      "output": "What is the best way to cook a steak?\nWhat is the best way to spend a rainy day?\nWhat is the best way to spend a"
+    },
+    {
+      "id": "30_var7",
+      "input": "Why or the things the taste ther best bed for us?",
+      "output": "Why or the things the taste ther best bed for us?\nWhy do we like certain foods or drinks?\nWhy do we like certain foods or"
+    },
+    {
+      "id": "30_var8",
+      "input": "Why are t things that taste a bettes bed for us?",
+      "output": "Why are things that taste better for us?\nWhy are things that taste better for us?\nWhy are things that taste better for us?\nWhy"
+    },
+    {
+      "id": "30_var9",
+      "input": "Why are th things that tast the dest bed for us?",
+      "output": "Why are the things that taste the best for us?\nWhy are the things that taste the best for us?\nWhy are the things that taste the"
+    },
+    {
+      "id": "30_var10",
+      "input": "Why are thoy fens that tast the best bad fore us?",
+      "output": "Why are they so good for us?\nWhy are they so bad for us?\nWhy are they so good for us?\nWhy are they so"
+    }
+  ],
+  "31": [
+    {
+      "id": "31_orig",
+      "input": "Why can't we just taste candy or Sweets and then spit it out to avoid its unhealthy attributes? What makes us swallow it to get satisfaction?",
+      "output": "Why can't we just taste candy or Sweets and then spit it out to avoid its unhealthy attributes? What makes us swallow it to get satisfaction?"
+    },
+    {
+      "id": "31_var1",
+      "input": "Why carnt we just taste candy or Sweets aud then spit it out to avoid its unhealthy attributes? Whia makes us swollow it to get satisfaction?",
+      "output": "I think you’re asking about the psychology of why we swallow things we don’t really want to eat. I think the main reason is that we"
+    },
+    {
+      "id": "31_var2",
+      "input": "Why can't we jsut taste candy or Sweets and then spite it out to avoid its unhealthy attributes? Whot makes us swallow it to geter satisfaction?",
+      "output": "Why can't we jsut taste candy or Sweets and then spite it out to avoid its unhealthy attributes? What makes us swallow it to geter satisfaction"
+    },
+    {
+      "id": "31_var3",
+      "input": "Why can't you just taste candy or Sweets and thne spite it out to avound its unhealthy attributes? What makes us swallow it to get satisfaction?",
+      "output": "I think it's because we're taught that sweets are a treat, and something to enjoy in moderation. So we feel like we're being bad if"
+    },
+    {
+      "id": "31_var4",
+      "input": "Why cann't we just taste candy or Swet and then spit it out to avoid is unhealthy attributes? What makes a swallow it to get satisfaction?",
+      "output": "I think you are referring to the idea of \"mind over matter\" and how people can sometimes convince themselves that something is not harmful, even though it may"
+    },
+    {
+      "id": "31_var5",
+      "input": "Why can't wen just taste cand or Sweets and then spite it out to avoid its unhealthy attributes? What makes us swallow it ro get satisfaction?",
+      "output": "Why can't wen just taste cand or Sweets and then spite it out to avoid its unhealthy attributes? What makes us swallow it ro get satisfaction?"
+    },
+    {
+      "id": "31_var6",
+      "input": "Way can't we gust taste candy or Sweets and then spit it ot to avoid its unhealthy attributes? What makes a swallow it to get satisfaction?",
+      "output": "I think you are asking about the concept of \"taste\" and \"satisfaction\" in a very general way. In a more specific sense, you"
+    },
+    {
+      "id": "31_var7",
+      "input": "Why can't were just taste candy or Sweets and then spite it out two avoid its unhealthy attributes? What mack us swallow it to get satisfaction?",
+      "output": "I think that's a great question. I think that one of the reasons we eat sweets is because they're delicious, and we enjoy them. But"
+    },
+    {
+      "id": "31_var8",
+      "input": "Why can't we just taste candy or Swet and thne spit et out to avoid its unhealthy attributes? What makes us swallow il to get satisfaction?",
+      "output": "I think you're asking about the psychology of why we swallow candy whole rather than just tasting it and spitting it out. One theory is that it's"
+    },
+    {
+      "id": "31_var9",
+      "input": "Why can't we just tayste candy or Sweets and then spite it out to abord its on_hethy attributes? What makes us swallow it to get satisfaction?",
+      "output": "I think it's because we're taught that sweets are a treat, and something to look forward to. We associate them with happiness and pleasure. So"
+    },
+    {
+      "id": "31_var10",
+      "input": "Why can't we jsut taste cand or Sweets a thne spit it out to avoid its unhealthy attributes? What makes us swallow it to get satisfaction?",
+      "output": "Why can't we jsut taste cand or Sweets a thne spit it out to avoid its unhealthy attributes? What makes us swallow it to get satisfaction"
+    }
+  ],
+  "32": [
+    {
+      "id": "32_orig",
+      "input": "Why do The Miranda Rights state that anything you say can \"and will\" be used against you. If something's not incriminating why would it be used against you? Why would cops be forced to admit this up front?",
+      "output": "A: The Miranda Rights are intended to protect the rights of criminal suspects. The purpose of the rights is to ensure that suspects are fully aware of their"
+    },
+    {
+      "id": "32_var1",
+      "input": "Why do The Miranda Rights state that anything yau say can \"and will\" be used against you. If something's not incriminating why would is be used against you? Way would cops be forced ro admit this up front?",
+      "output": "The Miranda Rights state that anything you say can \"and will\" be used against you. If something's not incriminating why would it be used against"
+    },
+    {
+      "id": "32_var2",
+      "input": "Why do The Miranda Rights state that anything you said came \"and will\" be used against you. If something's not incriminating why would it be used against you? Why would cops de forced tow admit this up front?",
+      "output": "The Miranda Rights are intended to protect you from self-incrimination.  The idea is that if you're being interrogated by the police, you should"
+    },
+    {
+      "id": "32_var3",
+      "input": "Wiy do Thee Miranda Rights state that anything you say can \"and will\" be used against you. If something's knot incriminating why would et be used against you? Why would cops be forced to admit this up front?",
+      "output": "The Miranda Rights are intended to protect the rights of criminal suspects in the United States. The purpose of these rights is to ensure that suspects are aware of their"
+    },
+    {
+      "id": "32_var4",
+      "input": "Why olethl The Miranda Rights state that anything na say can \"and will\" be used against you. If something's not incriminating why would it be used aginst you? Why would cops be forced to admite this up front?",
+      "output": "The Miranda Rights are intended to protect the rights of criminal suspects. They state that anything you say can be used against you in a criminal trial. This is"
+    },
+    {
+      "id": "32_var5",
+      "input": "Why do The Miranda Rights state that anything you say can \"and will\" be used against you. If something's not incriminating wy would it be used against you? Wiy would caps be forsed to admit this up front?",
+      "output": "The Miranda Rights are intended to protect the rights of criminal suspects. The purpose of the Miranda Rights is to inform suspects that anything they say can be used as"
+    },
+    {
+      "id": "32_var6",
+      "input": "Why do The Miranda Rights state that anything you say can \"and will\" be used against you. If something's not incriminating why would il be used agianst you? Yoy would cops be forced to admite this up front?",
+      "output": "The Miranda Rights state that anything you say can \"and will\" be used against you. If something's not incriminating why would it be used against"
+    },
+    {
+      "id": "32_var7",
+      "input": "Why do The Miranda Rights stat that any_thing you say came \"and will\" be used against you. If something's not incriminating wiy would it be used against you? Why would cops be forced to admit this up front?",
+      "output": "The Miranda Rights are intended to protect the rights of individuals who are in custody and being interrogated by law enforcement officers. The purpose of these rights is to"
+    },
+    {
+      "id": "32_var8",
+      "input": "Why do The Miranda Rights state tath anything you say can \"and will\" be used against you. If something's not incriminating why wod it b use't against you? Why would cops be forced to admit this up front?",
+      "output": "The Miranda Rights are intended to protect the rights of suspects in criminal investigations. The purpose of the Miranda Rights is to ensure that suspects understand that they have the"
+    },
+    {
+      "id": "32_var9",
+      "input": "Why do The Miranda Rights state taht anything you said can \"and will\" bei used aganst you. If something's not incriminating why would it be used against you? Why would cops be forced to admit this up front?",
+      "output": "The Miranda Rights state that anything you say can \"and will\" be used against you. If something's not incriminating why would it be used against"
+    },
+    {
+      "id": "32_var10",
+      "input": "Why do Thoy Miranda Rights state that anything you say came \"and will\" bee used against you. If something's not incriminating why wred it be used against you? Why would cops be forced to admit this up front?",
+      "output": "The Miranda Rights state that anything you say will be used against you because the police want to make sure that you understand that anything you say can be used against"
+    }
+  ],
+  "33": [
+    {
+      "id": "33_orig",
+      "input": "Why do tech/software companies stay in the US when they are demanded to include backdoors by the US government? Can't tech companies just develop and release their products overseas, out of reach of the US government's influence?",
+      "output": "A: There are a few reasons why tech/software companies stay in the US.  First, the US is a major market for these companies,"
+    },
+    {
+      "id": "33_var1",
+      "input": "Why do tech/software companies sta in the US when that are demanded to include backdoors by the US government? can't tech companies just develop an release their products overseas, out of reach of teh US government's influence?",
+      "output": "I think the reason is that the US is still the most important market for these companies, and they want to be able to sell their products here. Additionally"
+    },
+    {
+      "id": "33_var2",
+      "input": "Why dowe tech/software companies stay in the US when they are demanded to include backdoors bihr the US government? can't tech companies just develope than release their products overseas, out of reach of the US government's influence?",
+      "output": "I'm not sure I understand your question. Can you elaborate?\nI'm not sure I understand your question. Can you elaborate?\nI'm sorry"
+    },
+    {
+      "id": "33_var3",
+      "input": "Why du tech/software companies stay in tghe US when they are demanded to includ backdoors by the US government? can't tech companies just develop and release their products overseas, out of reach av the US government's influence?",
+      "output": "I think that's a good question. I'm not sure if I have a good answer, but I can try to think about it.\nI think"
+    },
+    {
+      "id": "33_var4",
+      "input": "Wiy do tech/software companys stae in the US when they are demanded to include backdoors by the AS government? can't tech companies just develop and release their products overseas, out of reach of the US government's influence?",
+      "output": "I'm not sure if I understand your question correctly, but I'll try to answer it as best as I can.\nIf a government demands that a"
+    },
+    {
+      "id": "33_var5",
+      "input": "Why do tech/software companies stay in the US when they are demanded to include backdoors by the ARES government? can't tech companies just develope and release their products overseas, owt of reach afoh the US government's influence?",
+      "output": "I'm not sure I understand the question. Can you elaborate?\nI think the question is asking why tech companies stay in the US when they are demanded"
+    },
+    {
+      "id": "33_var6",
+      "input": "Why do tech/software companies stay in the US when they are demanded tow inclued backdoors by the US government? can't tech companies just develop an release their products overseas, out of reach ovoe the US government's influence?",
+      "output": "Why do tech/software companies stay in the US when they are demanded tow inclued backdoors by the US government? can't tech companies just develop an"
+    },
+    {
+      "id": "33_var7",
+      "input": "Wy do tech/software companies stay in teh US when they are demanded to include backdoors by thee US government? can't tech companies just develop and release their products overseas, out of reach of the USE government's influence?",
+      "output": "I think that's a good question. I'm not sure if I have a good answer, but I can try to explain some of the factors that might"
+    },
+    {
+      "id": "33_var8",
+      "input": "Why do tech/software companies stay in the A wian they are demanded to include backdoors by the US government? can't tech companies gust develop and release their products overseas, out of reach of the AS government's influence?",
+      "output": "I think that's a good question. I'm not sure I have a good answer, but I can try to think about it a bit.\nI"
+    },
+    {
+      "id": "33_var9",
+      "input": "Why do tech/software companies stay in the US when tyhe are demanded two include backdoors by the US government? can't tech companies just develop and release their produts overseas, out op reach of the US government's influence?",
+      "output": "I think that's a good question. I'm not sure if I have a good answer, but I can try to think about it a bit."
+    },
+    {
+      "id": "33_var10",
+      "input": "Why do tech/software companies stay in the US went they are demanded to include backdoors by these US government? cann't tech companies just develop and release their products overseas, out of rich of the US government's influence?",
+      "output": "I think there are a few reasons why tech/software companies stay in the US. One reason is that the US is a major market for technology products,"
+    }
+  ],
+  "34": [
+    {
+      "id": "34_orig",
+      "input": "Why do we wake up early when we don't have to but tend to wake up late when we need to be up?",
+      "output": "I think this is a very interesting question.  I think there are a few possible explanations for this.  One possibility is that our sleep patterns are not"
+    },
+    {
+      "id": "34_var1",
+      "input": "Why do were wake up erly when we done have to but tend to wake up late wern we need to be up?",
+      "output": "Why do we tend to wake up early when we don’t have to but not when we need to be up?\nWhy do we tend to wake"
+    },
+    {
+      "id": "34_var2",
+      "input": "Why do we wake up early when we donte have tow but tend to wake up let when wee need to be up?",
+      "output": "I think this is a very interesting question, and I would like to try to answer it.\nI think that there are several possible explanations for this phenomenon"
+    },
+    {
+      "id": "34_var3",
+      "input": "Why doe we wake up early when wey don't have to but tend to wake up let when weed need to be up?",
+      "output": "Why doe we wake up early when wey don't have to but tend to wake up let when weed need to be up?\nI think this"
+    },
+    {
+      "id": "34_var4",
+      "input": "Why do we wake up eigly when we don't have to but tend to wake up late wane weed need to d up?",
+      "output": "Why do we wake up eigly when we don't have to but tend to wake up late wane weed need to d up?\nI think"
+    },
+    {
+      "id": "34_var5",
+      "input": "Why do we wake up early when we don haven to but tend to wake up laght when wee need to be up?",
+      "output": "I think this is a very interesting question, and I would love to hear your thoughts on it.\nI think there are a few possible explanations for this"
+    },
+    {
+      "id": "34_var6",
+      "input": "Way do we wake up early when we don't have ro but tend tow wake up late when were need to be up?",
+      "output": "How do we get motivated to do something when we don't feel like doing it?\nHow do we stay focused on a task when we get distracted easily"
+    },
+    {
+      "id": "34_var7",
+      "input": "Yoy do we wake up early will we done have to but tend to wake up lant when we need to be up?",
+      "output": "I think it depends on the person. Some people naturally wake up early, while others tend to sleep in. I think it's important to listen to your"
+    },
+    {
+      "id": "34_var8",
+      "input": "Why do when wake up eigly when we don't have to but tend to wake up late when we nede to pe up?",
+      "output": "Why do we tend to wake up early when we don't have to but tend to wake up late when we need to get up?\nWhy do we"
+    },
+    {
+      "id": "34_var9",
+      "input": "Why boo wot wake up early when weed don't have to but tend to wake up late when weed need to be up?",
+      "output": "Why do people who don't have to wake up early for work or school tend to sleep in and sleep late, while people who need to wake up early"
+    },
+    {
+      "id": "34_var10",
+      "input": "Why doe we wake up early when we don't have to but tend tow waek up late when we nead to be up?",
+      "output": "I think this is a very interesting question.  I think the answer is probably that our bodies have an internal clock that makes us want to wake up at"
+    }
+  ],
+  "35": [
+    {
+      "id": "35_orig",
+      "input": "Why do you see weird colors when you press your eyes?",
+      "output": "I’m not sure what you mean by “weird colors”, but it’s possible that you’re experiencing a phenomenon called “floaters”."
+    },
+    {
+      "id": "35_var1",
+      "input": "Why do yo see werd colors when uoy prass your eyes?",
+      "output": "It’s called a “floaters”. They’re small specks or clouds that seem to drift in your field of vision. They’re actually"
+    },
+    {
+      "id": "35_var2",
+      "input": "Why do uoy see werd colors wene you prass your eyes?",
+      "output": "What is the best way to get rid of a cold?\nWhat is the best way to get rid of a cold?\nWhat is the best way"
+    },
+    {
+      "id": "35_var3",
+      "input": "Wy do you se weird colors when you prass young eyes?",
+      "output": "I don’t know, but I’m pretty sure it’s not a good idea to stare at the sun.\nI’m not sure"
+    },
+    {
+      "id": "35_var4",
+      "input": "Why doo uoy see werd colors when you prass your eyes?",
+      "output": "This is a classic optical illusion that has been studied extensively in the field of psychology. The colors that you perceive are determined by the way that your eyes and"
+    },
+    {
+      "id": "35_var5",
+      "input": "Why boo w se weird colors wehn you press your eyes?",
+      "output": "Why do you always wear the same outfit?\nWhy do you always wear the same outfit?\nWhy do you always wear the same outfit?\nWhy"
+    },
+    {
+      "id": "35_var6",
+      "input": "Why do yuo se werd colors wern you press your eyes?",
+      "output": "Why do you see words when you press your eyes?\nWhy do you see colors when you press your eyes?\nWhy do you see words when you"
+    },
+    {
+      "id": "35_var7",
+      "input": "Way boo you see wierd colors when na press your eyes?",
+      "output": "It’s called a “color vision deficiency” or “color blindness”.\nIt’s a genetic condition that affects about 8% of the world’"
+    },
+    {
+      "id": "35_var8",
+      "input": "Why bow yow see weird colors whern you press yor eyes?",
+      "output": "Why bow yow see weird colors whern you press yor eyes?\nWhy bow yow see weird colors whern you press yor eyes?"
+    },
+    {
+      "id": "35_var9",
+      "input": "Why do you see werd colors when yo prass yowr eyes?",
+      "output": "Yo, werd colors are a sign of good health.\nYo, werd colors are a sign of good health. They’re caused by the"
+    },
+    {
+      "id": "35_var10",
+      "input": "Wiy to you see weird colors whene you prass your eyes?",
+      "output": "I think it’s because of the light.\nI think it’s because of the light. The colors are different when the light is on than"
+    }
+  ],
+  "36": [
+    {
+      "id": "36_orig",
+      "input": "Why does a beer on tap almost always taste better than it does from a bottle?",
+      "output": "I think it’s because the beer is fresh and hasn’t been sitting around in a bottle for a long time. Also, the tap beer is"
+    },
+    {
+      "id": "36_var1",
+      "input": "Why doens a beer one tap almost always tast better than it does fram a bottle?",
+      "output": "I think it’s because the beer is fresh and cold from the tap, and it’s also being poured directly into your glass, so it’"
+    },
+    {
+      "id": "36_var2",
+      "input": "Why does an beer on tap all_most always taste better than it dus fom a bottle?",
+      "output": "I think it's because the beer is fresh and cold when it comes out of the tap. Also, the beer is probably being poured from a larger container"
+    },
+    {
+      "id": "36_var3",
+      "input": "Why dus are beer on tap almost always taste bet than its does from a bottle?",
+      "output": "I think it’s because the beer is constantly being mixed with the air, which keeps it fresh. Also, the pressure from the tap is usually higher"
+    },
+    {
+      "id": "36_var4",
+      "input": "Wiy does a beer on tap almsot always taste metter than it does from as bottle?",
+      "output": "I think it’s because the beer is fresh and cold when it’s on tap. And also, the tap beer is constantly flowing, so it"
+    },
+    {
+      "id": "36_var5",
+      "input": "Why does the beer on tap almost all_ways taste better than is does from an bottle?",
+      "output": "I think it's because of the carbonation. When beer is poured from a tap, the carbonation is more evenly distributed throughout the glass. When beer"
+    },
+    {
+      "id": "36_var6",
+      "input": "Why does the beer on tap almost alwaysed taste better than it does fraom an bottle?",
+      "output": "I think it's because the beer is fresh and hasn't been sitting around in a bottle for a long time. Also, the tap beer is probably served"
+    },
+    {
+      "id": "36_var7",
+      "input": "Why does a beer on tap almost alwaysed taste beter than it dose fraom a bottle?",
+      "output": "I think it is because the beer is fresh and has not been sitting around for a long time. Also, the pressure from the tap helps to keep the"
+    },
+    {
+      "id": "36_var8",
+      "input": "Wy does a beer on tap almost all_way taste beter then it does from a bottle?",
+      "output": "I think it tastes better because it is fresh and there are no preservatives. Also, it is served at the right temperature. When you pour it from"
+    },
+    {
+      "id": "36_var9",
+      "input": "Why does and beer on tap almost all_way tast better then it does from a bottle?",
+      "output": "I think it tastes better because it is fresh and you can control the amount you get. Also, it is a social thing. When you go to a"
+    },
+    {
+      "id": "36_var10",
+      "input": "Why doens a beer on tap almost always tayste beter than it does fere a bottle?",
+      "output": "I think it’s because the beer is fresh and hasn’t been sitting around in a bottle for a long time. Also, the tap beer is"
+    }
+  ],
+  "37": [
+    {
+      "id": "37_orig",
+      "input": "Why does metal react so violently when microwaved?",
+      "output": "I was wondering why metal reacts so violently when microwaved. Is it because the microwaves cause the electrons to move faster, or is it something"
+    },
+    {
+      "id": "37_var1",
+      "input": "Way does metle react sung violently wehn microwaved?",
+      "output": "I'm not sure what you're asking.  When food is microwaved, the water molecules in the food begin to vibrate.  This can"
+    },
+    {
+      "id": "37_var2",
+      "input": "Way doens metle react so violently wane microwaved?",
+      "output": "I’m not sure what you’re asking.  Can you clarify?\nI’m sorry, I’m not sure I understand your question"
+    },
+    {
+      "id": "37_var3",
+      "input": "Wiy dus metal react saw violently where microwaved?",
+      "output": "I’m not sure what you’re asking. Could you clarify?\nI’m sorry, I’m not sure I understand your question."
+    },
+    {
+      "id": "37_var4",
+      "input": "Yoy dose metal react slow violently we microwaved?",
+      "output": "I’m not sure what you’re asking. Can you clarify?\nI’m sorry, I’m not sure I understand your question."
+    },
+    {
+      "id": "37_var5",
+      "input": "Why dose metle react some violently wern microwaved?",
+      "output": "I think it's because microwaved food is often cooked at high temperatures for a long time, and this can cause chemical reactions that produce toxic substances."
+    },
+    {
+      "id": "37_var6",
+      "input": "Wiy dus metle react so violently whe microwaved?",
+      "output": "I think it’s because microwaved food is often cooked at such high temperatures that it can denature proteins and change the chemical structure of the food"
+    },
+    {
+      "id": "37_var7",
+      "input": "Yoy doens metal react yahet violently wehn microwaved?",
+      "output": "I think you mean \"when microwaved\", not \"wehn\".\nAlso, I'm not sure what you're asking. Metal doesn't react"
+    },
+    {
+      "id": "37_var8",
+      "input": "Way dus metal react yahet violently wehn microwaved?",
+      "output": "I think you are asking about the reaction of metals when they are microwaved.\nThe answer is that microwaving metals can cause them to react"
+    },
+    {
+      "id": "37_var9",
+      "input": "Wiy doens metel react so violently we microwaved?",
+      "output": "I think it's because microwaved food is often cooked at such high temperatures that it can denature proteins and change the chemical structure of the food."
+    },
+    {
+      "id": "37_var10",
+      "input": "Way dus metel react sor violently when microwaved?",
+      "output": "I’m not sure what you’re asking. The chemical reaction that occurs when metal is exposed to microwaves is called “microwaving”,"
+    }
+  ],
+  "38": [
+    {
+      "id": "38_orig",
+      "input": "Why does my employer require a voided personal check in order to setup direct deposit?",
+      "output": "I recently started a new job and they require me to provide a voided personal check in order to set up direct deposit. I’m not sure why"
+    },
+    {
+      "id": "38_var1",
+      "input": "Wiy does my employer require a voided persnal check if oredr to setup direct deposit?",
+      "output": "My employer requires me to void a personal check before setting up direct deposit. Why do they require this?\nThey want to make sure that you are the"
+    },
+    {
+      "id": "38_var2",
+      "input": "Why dose my employer requare a voided personel check in od to setup direct deposit?",
+      "output": "I have been working for my employer for over a year now and they recently requested a voided personnel check. I am confused as to why they need this"
+    },
+    {
+      "id": "38_var3",
+      "input": "Wy does my inpeler require a voided persnal check in order qu setup direct deposit?",
+      "output": "I am sorry, but I do not have access to your personal information. I recommend contacting your bank or financial institution directly for assistance with setting up a direct"
+    },
+    {
+      "id": "38_var4",
+      "input": "Why does me employer requier a voided personal check is orter to setup direct deposit?",
+      "output": "Why does me employer requier a voided personal check is orter to setup direct deposit?\nI have been working for my employer for over a year"
+    },
+    {
+      "id": "38_var5",
+      "input": "Why doens my emplorer require a voided personly check in oder to setup direct deposit?",
+      "output": "I am trying to set up direct deposit for my employer, but they are requiring a voided personal check. Why do they need this?\nThey are"
+    },
+    {
+      "id": "38_var6",
+      "input": "Wiy does my employer requare a voided personal check if order qu setup direct deposit?",
+      "output": "I have been working for my employer for over a year now. They recently sent me a letter stating that I need to void a personal check that I wrote"
+    },
+    {
+      "id": "38_var7",
+      "input": "Why does my impoly require are voided personal cheke with order to setup direct deposit?",
+      "output": "I am sorry, but I am not sure what you are asking. Could you please provide more context or clarify your question?\nI apologize, but I"
+    },
+    {
+      "id": "38_var8",
+      "input": "Why does mi employer require ah voided personly check if order to setup direct deposit?",
+      "output": "Why does mi employer require ah voided personly check if order to setup direct deposit?\nI am not sure what you are asking. Can you please"
+    },
+    {
+      "id": "38_var9",
+      "input": "Why does my employer require ah voided personal chack in oredr tow setup direct deposit?",
+      "output": "I have been working for my employer for over a year now. They recently informed me that they require me to provide a voided personal check in order to"
+    },
+    {
+      "id": "38_var10",
+      "input": "Why dus my employer require and voided persnal cheke in order to setup direct deposit?",
+      "output": "Why dus my employer require and voided persnal cheke in order to setup direct deposit?\nI am not sure why your employer is requiring a"
+    }
+  ],
+  "39": [
+    {
+      "id": "39_orig",
+      "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? Doesn't it come from the same place?",
+      "output": "The water from different faucets in your home may taste different for a few reasons. First, the water may have different levels of minerals or other contaminants"
+    },
+    {
+      "id": "39_var1",
+      "input": "Why does the water ofomt my kitchen faucet tast different then the water from my bathroom faucet? doesn't it come from the sam place?",
+      "output": "The water from your kitchen faucet may taste different because it may have been treated differently than the water from your bathroom faucet. The water from"
+    },
+    {
+      "id": "39_var2",
+      "input": "Way does teh water from my kitchen faucet taste different than the water from my bathroom faucet? doesn't hit come foint the same place?",
+      "output": "I think it might be because the water from the kitchen faucet is hot and the water from the bathroom faucet is cold.\nI think"
+    },
+    {
+      "id": "39_var3",
+      "input": "Why does the water from my kitchen faucet taste different than tehe water fraom my bathroom faucet? doesn't it come fam the sam place?",
+      "output": "The water from different faucets in your home may taste different for a few reasons. First, the water supply to each faucet may come from"
+    },
+    {
+      "id": "39_var4",
+      "input": "Wiy does the weter foint my kitchen faucet taste different tahn the water from my bathroom faucet? doesn't it come from the same place?",
+      "output": "The water from your kitchen faucet may taste different than the water from your bathroom faucet because they may come from different sources. For example,"
+    },
+    {
+      "id": "39_var5",
+      "input": "Why does the water foint my kitchen faucet taste diferrent than tjhe water from my both_rom faucet? doesn't it come from the same place?",
+      "output": "The water from your kitchen faucet may have been treated differently than the water from your bathroom faucet. It's possible that the water from your"
+    },
+    {
+      "id": "39_var6",
+      "input": "Why doens the water fro my kitchen faucet taste different than the water from miy both_rom faucet? doesn't it come from the same place?",
+      "output": "The water from your kitchen faucet may taste different because it has been exposed to different chemicals or contaminants. It is also possible that the water pressure is"
+    },
+    {
+      "id": "39_var7",
+      "input": "Yoy does the water from by kitching faucet taste different than the water from may bathroom faucet? doesn't it come from the same place?",
+      "output": "Yes, the water from both faucets comes from the same source, which is the municipal water supply. However, the water from the kitchen fauc"
+    },
+    {
+      "id": "39_var8",
+      "input": "Why does the water from my kitchen faucet taste different that the water from my bathroom faucet? doesn't it kumh fomr the same place?",
+      "output": "The water from different faucets in your home may taste different for a few reasons. First, the water supply to each faucet may come from"
+    },
+    {
+      "id": "39_var9",
+      "input": "Why does he water from ne kitchen faucet taste different than the water from my bathroom faucet? does'nt it come from an same place?",
+      "output": "Why does he water from ne kitchen faucet taste different than the water from my bathroom faucet? does'nt it come from an same place"
+    },
+    {
+      "id": "39_var10",
+      "input": "Why does the water fom my kichen faucet taste different tahn the watter from my bathroom faucet? doesn't it come from the same place?",
+      "output": "The water from your kitchen faucet may have been treated differently than the water from your bathroom faucet. It's possible that the water from your"
+    }
+  ],
+  "40": [
+    {
+      "id": "40_orig",
+      "input": "Why has the Mars Rover Opportunity's Lithium Ion Battery Lasted 11+ Years and the one in My Cell Phone/Laptop/Tablet Dies in Less Than 2?",
+      "output": "The Mars rover Opportunity has been using a lithium ion battery for over 11 years. The reason it has lasted so long is that it is not being charged"
+    },
+    {
+      "id": "40_var1",
+      "input": "Why has tie Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Yars and the one with Yoy Cell Phone/laptop/tablet Dies in Less Than 2?",
+      "output": "Why has tie Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Yars and the one with Yoy Cell Phone/laptop/table"
+    },
+    {
+      "id": "40_var2",
+      "input": "Why hos the Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Years i hte oen in My Cell Phone/laptop/tablet Dies in Less Than 2?",
+      "output": "The Mars rover Opportunity's lithium-ion battery lasted 11 years and counting, while the batteries in my cell phone/laptop/tablet die in"
+    },
+    {
+      "id": "40_var3",
+      "input": "Why has tjhe Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Years and tjhe won in My Cell Phone/laptop/tablet Dies in Less Then 2?",
+      "output": "The Mars rover Opportunity's lithium-ion battery has lasted 11 years and counting. In contrast, the average lifespan of a smartphone, laptop, or tablet"
+    },
+    {
+      "id": "40_var4",
+      "input": "Yoy has tje Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Years and the and in My Cell Phone/laptop/tablet Dies in Lest Than 2?",
+      "output": "I am not sure if this is the right place to ask this question, but I will try.\nI am curious about the Mars Rover opportunity's"
+    },
+    {
+      "id": "40_var5",
+      "input": "Why has the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Yeasr are the one in My Cell Phone/laptop/tablet Dies in Lase Than 2?",
+      "output": "The Mars rover Opportunity has a lithium-ion battery that has lasted 11 years and counting. In comparison, the average lifespan of a lithium-ion battery"
+    },
+    {
+      "id": "40_var6",
+      "input": "Why his that Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Years and the won in My Cell Phone/laptop/tablet Dies in Lest Than 2?",
+      "output": "The Mars rover opportunity's lithium ion battery lasted 11+ years because it was designed to operate in a very cold environment. The battery was able to withstand"
+    },
+    {
+      "id": "40_var7",
+      "input": "Way has the Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Years than the ont if My Cell Phone/laptop/tablet Dies in Less Than 2?",
+      "output": "The Mars rover Opportunity has a lithium ion battery that has lasted 11 years and counting. If my cell phone/laptop/tablet dies in less"
+    },
+    {
+      "id": "40_var8",
+      "input": "Way has the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years and the one in Me Cell Phone/laptop/tablet Dies in Less That 2?",
+      "output": "The Mars Rover Opportunity's Lithium Ion Battery has lasted 11+ years. The one in my cell phone/laptop/tablet lasts less than"
+    },
+    {
+      "id": "40_var9",
+      "input": "Wy has the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years and the one i My Cell Phone/laptop/tablet Dies in Less Then 2?",
+      "output": "I think the Mars Rover's Lithium Ion battery lasted 11+ years because it was designed to withstand the harsh conditions of space. It was also constantly"
+    },
+    {
+      "id": "40_var10",
+      "input": "Why has thi Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Years and the one in Mi Cell Phone/laptop/tablet Dies in Lase Thna 2?",
+      "output": "The Mars rover's lithium ion battery has lasted 11+ years because it is designed to operate in a very specific environment. It is not subject to the"
+    }
+  ],
+  "41": [
+    {
+      "id": "41_orig",
+      "input": "Why is chickenpox worse as an adult?",
+      "output": "Chickenpox is generally a mild illness in children, but it can be much more serious in adults. Adults are more likely to develop complications such"
+    },
+    {
+      "id": "41_var1",
+      "input": "Wiy his chickenpox worst as on adult?",
+      "output": "I have chickenpox. How is it on an adult?\nChickenpox is a highly contagious disease caused by the varicella-"
+    },
+    {
+      "id": "41_var2",
+      "input": "Yoy in chickenpox worse a un adult?",
+      "output": "I have chickenpox and I'm worried that I'm not handling it well. I'm worried that I'm not sleeping enough and that I'm not"
+    },
+    {
+      "id": "41_var3",
+      "input": "Wiy is chickenpox wosre als a adult?",
+      "output": "Chickenpox is a very contagious disease that is spread through the air when an infected person sneezes or coughs. It is most dangerous"
+    },
+    {
+      "id": "41_var4",
+      "input": "Yoy is chickenpox worst tes am adult?",
+      "output": "I think chickenpox is worse in children than adults.\nI think chickenpox is worse in children than adults.\nI think chickenpox"
+    },
+    {
+      "id": "41_var5",
+      "input": "Yoy is chickenpox wosre at un adult?",
+      "output": "I think you mean “chickenpox” is more likely to occur in children than adults.\nChickenpox is a highly contagious disease"
+    },
+    {
+      "id": "41_var6",
+      "input": "Way is chickenpox wors at and adult?",
+      "output": "Chickenpox is a highly contagious disease caused by the varicella-zoster virus. It is most commonly spread through contact with an infected"
+    },
+    {
+      "id": "41_var7",
+      "input": "Wiy us chickenpox worse was am adult?",
+      "output": "I had chickenpox as a child, but I'm an adult now and I've been exposed to the virus again. Is it possible for chickenp"
+    },
+    {
+      "id": "41_var8",
+      "input": "Yoy is chickenpox worst his on adult?",
+      "output": "I have been reading about chickenpox and I am worried about getting it as an adult. Is it the worst it can be?\nChickenp"
+    },
+    {
+      "id": "41_var9",
+      "input": "Wy as chickenpox worse ass un adult?",
+      "output": "How long does chickenpox last in adults?\nHow long does chickenpox last in adults?\nHow long does chickenpox last in adults"
+    },
+    {
+      "id": "41_var10",
+      "input": "Why us chickenpox worst at on adult?",
+      "output": "Chickenpox is a highly contagious disease caused by the varicella-zoster virus. It is most contagious when the blisters are"
+    }
+  ],
+  "42": [
+    {
+      "id": "42_orig",
+      "input": "Why is it when you rewind VHS tapes they lose their quality over time?",
+      "output": "I think it has something to do with the magnetic coating on the tape wearing down over time.\nI think that’s a good explanation.\nI"
+    },
+    {
+      "id": "42_var1",
+      "input": "Why us it whene you rewind VHS tapes they lose thier quailty over time?",
+      "output": "I think it has something to do with the magnetic coating on the tape wearing down over time.\nI think it has something to do with the magnetic coating"
+    },
+    {
+      "id": "42_var2",
+      "input": "Wy his it when you rewind VHS tapes they los their quailty over time?",
+      "output": "I think it has something to do with the magnetic coating on the tape wearing down over time.\nI’ve heard that the quality of the recording de"
+    },
+    {
+      "id": "42_var3",
+      "input": "Yoy is il when you rewind VHS tapes they lose their quailty ofrer time?",
+      "output": "Yes, that is correct. When you rewind a VHS tape, the quality of the recording is often degraded, and the tape may become damaged or"
+    },
+    {
+      "id": "42_var4",
+      "input": "Wy is it when yau rewind VHS tapes they lose ther quality ower time?",
+      "output": "This is a great question! VHS tapes actually degrade over time, which is why it’s important to handle them carefully and store them in a cool"
+    },
+    {
+      "id": "42_var5",
+      "input": "Why in it when you rewind VHS tapes they lose the quailty ower time?",
+      "output": "I think it has something to do with the magnetic coating on the tape wearing down.\nI think it has something to do with the magnetic coating on the"
+    },
+    {
+      "id": "42_var6",
+      "input": "Wiy is it when yoy rewind VHS tapes they lose their quailty ove time?",
+      "output": "I think it’s because the magnetic coating on the tape wears out over time.\nI’ve heard that it’s because the magnetic coating on"
+    },
+    {
+      "id": "42_var7",
+      "input": "Way it it when you rewind VHS tapes the los their quality over time?",
+      "output": "I think it’s a combination of physical degradation of the tape and the magnetic head on the VCR wearing down.\nI’ve noticed that too"
+    },
+    {
+      "id": "42_var8",
+      "input": "Yoy is it when yoy rewind VHS tapes they lose they quality hover time?",
+      "output": "I think it’s called “degradation over time”.  I’m not sure about the specifics of VHS tapes, but I’ve"
+    },
+    {
+      "id": "42_var9",
+      "input": "Why is it where you rewind VHS tapes the loos their quailty over time?",
+      "output": "I think it has something to do with the magnetic coating on the tape. As the tape ages, the coating wears down, and the magnetic field gets weaker"
+    },
+    {
+      "id": "42_var10",
+      "input": "Why is it wen na rewind VHS tapes theire los their quality over time?",
+      "output": "I think it has something to do with the magnetic coating on the tape wearing down over time.\nI’ve heard that the magnetic coating on the tape"
+    }
+  ],
+  "43": [
+    {
+      "id": "43_orig",
+      "input": "Why is sales tax in the US excluded from the list price?",
+      "output": "In the US, sales tax is typically included in the advertised price of a product. However, some retailers choose to exclude sales tax from the list price."
+    },
+    {
+      "id": "43_var1",
+      "input": "Way si sales tacks in tghe US excluded from the list price?",
+      "output": "I am looking at a boat on a dealer's lot and the price seems high. The dealer tells me that the boat is brand new and has never been"
+    },
+    {
+      "id": "43_var2",
+      "input": "Wiy is sales tacks im tje US excluded from the list price?",
+      "output": "I am sorry, but I am not sure what you are asking. Could you please provide more context or clarify your question?\nI am sorry, but"
+    },
+    {
+      "id": "43_var3",
+      "input": "Yoy is sales tacks i these US excluded from the list price?",
+      "output": "I’m sorry, I’m not sure what you’re asking. Could you please clarify?\nNext Next post: What is the best way"
+    },
+    {
+      "id": "43_var4",
+      "input": "Wy his sales tax in the HUS excluded from my list price?",
+      "output": "I am a small business owner and I am trying to figure out why my sales tax is being excluded from my list price. I am using the HUS"
+    },
+    {
+      "id": "43_var5",
+      "input": "Why is sales tacks in the US excluded fam i lest price?",
+      "output": "I am not sure what you are asking. Could you please clarify?\nI am sorry, I am not sure I understand your question. Could you please"
+    },
+    {
+      "id": "43_var6",
+      "input": "Wy is sales tax in an US excluded ofomt tie list price?",
+      "output": "I am sorry, but I am not sure what you are asking. Could you please provide more context or clarify your question?\nI am sorry, but"
+    },
+    {
+      "id": "43_var7",
+      "input": "Why it sales tacks is hte US excluded from the list price?",
+      "output": "I am sorry, I am not sure what you are asking. Could you please clarify your question?\nI am sorry, I am not sure what you"
+    },
+    {
+      "id": "43_var8",
+      "input": "Why it sales tax if the US excluded from thge lest price?",
+      "output": "I am sorry, I am not sure I understand your question. Could you please provide more context or clarify what you are asking?\nI am sorry,"
+    },
+    {
+      "id": "43_var9",
+      "input": "Way is sales tax it the US excluded forma ge list price?",
+      "output": "I’m not sure what you’re asking. Can you clarify?\nI’m sorry, I’m not sure I understand your question."
+    },
+    {
+      "id": "43_var10",
+      "input": "Why is sales tacks is the US excluded from an lits price?",
+      "output": "I am sorry, I am not sure what you are asking. Could you please provide more context or clarify your question?\nI am sorry, I am"
+    }
+  ],
+  "44": [
+    {
+      "id": "44_orig",
+      "input": "Why is the recent Apple vs. FBI encryption debate relevant years after the Snowden leaks (2013), passage of the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "The Apple vs. FBI encryption debate is relevant because it highlights the ongoing tension between national security and privacy in the digital age. The FBI wants to be able"
+    },
+    {
+      "id": "44_var1",
+      "input": "Why in the resent Apl vs. FBI encryption debate relevant years after the Snowden leaks (2013), passage or the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "The debate is relevant because the government is still trying to push its own agenda on encryption, and the tech industry is still trying to push back. The Snowden"
+    },
+    {
+      "id": "44_var2",
+      "input": "Why is the recent Apple vs. FBI encryption debate relevant years afert the Snowden leaks (2013), passage ov to PATRIOT Act (2001), and hte ECHELON revelations (1988)?",
+      "output": "The Apple vs. FBI encryption debate is relevant because it highlights the ongoing tension between privacy and security. The FBI wants to be able to access the encrypted data"
+    },
+    {
+      "id": "44_var3",
+      "input": "Way is the resent Apple vs. FBI encryption debate relavent years after the Snowden leaks (2013), passage of the PATRIOT Akt (2001), and the ECHELON revelations (1988)?",
+      "output": "The Apple vs. FBI encryption debate is a direct result of the Snowden leaks, the PATRIOT Act, and the ECHELON revelations. These events"
+    },
+    {
+      "id": "44_var4",
+      "input": "Why is the recent Alipple vs. FBI encryption debate relavent yeras afert the Snowden leaks (2013), passage of the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "The recent Apple vs. FBI encryption debate is relevant to the current state of affairs because it highlights the ongoing tension between the government’s need to access encrypted"
+    },
+    {
+      "id": "44_var5",
+      "input": "Why is hte resent Apple vs. FBI encryption debate relevant yeras after the Snowden leaks (2013), passage af the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "The current debate is relevant because it highlights the ongoing tension between the right to privacy and the need for law enforcement to conduct investigations. The FBI wants to access"
+    },
+    {
+      "id": "44_var6",
+      "input": "Why is the resent Apple vs. FBI encryptiion debait relevant yersa after the Snowden leaks (2013), passage of the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "The Apple vs. FBI encryption debate is relevant today because it highlights the ongoing tension between privacy rights and national security. The Snowden leaks in 2013 revealed that the"
+    },
+    {
+      "id": "44_var7",
+      "input": "Yoy is the recent Apple vs. FBI encryption debat relevant yars after the Snowden leaks (2013), passage of the PATRIOT Act (2001), aand the ECHELON revelations (1988)?",
+      "output": "The Apple vs. FBI encryption debate is a current issue that has been sparked by the recent Snowden leaks, the passage of the PATRIOT Act in 2001"
+    },
+    {
+      "id": "44_var8",
+      "input": "Yoy is the recent Apple vs. FBI encryption debat relevant yeras after the Snowden leaks (2013), passage of the PATRIOT Akt (2001), and the ECHELON revelations (1988)?",
+      "output": "The debate centers on the use of end-to-end encryption (E2EE) in iOS devices, which Apple has implemented in recent versions of its"
+    },
+    {
+      "id": "44_var9",
+      "input": "Wy is hte recent Apple vs. FBI encryption debate relevant years after the Snowden leaks (2013), passage with ther PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "The Apple vs. FBI encryption debate is relevant because it highlights the tension between privacy and security. The FBI wants to be able to access the encrypted iPhone in"
+    },
+    {
+      "id": "44_var10",
+      "input": "Why it the recent Apple vs. FBI encryptiion debate relevent years after the Snowden leaks (2013), passage of the PATRIOT At (2001), and the ECHELON revelations (1988)?",
+      "output": "The recent Apple vs. FBI encryption debate is relevant because it highlights the ongoing tension between privacy and security. The FBI wants to be able to access the encrypted"
+    }
+  ],
+  "45": [
+    {
+      "id": "45_orig",
+      "input": "Why people like getting drunk/sloshed/hammered/shit-faced ?",
+      "output": "Why people like getting drunk/sloshed/hammered/shit-faced?\nWhy do people like getting drunk/sloshed/hammered/shit-faced?\nI think it's a combination of things. Some people like"
+    },
+    {
+      "id": "45_var1",
+      "input": "Wiy pleople liek get drunk/sloshed/hammered/shit-faced ?",
+      "output": "Wiy pleople liek get drunk/sloshed/hammered/shit-faced?\nI think it’s a bit of both. Some people like to get drunk because they enjoy the feeling of being intoxicated, while others do it because they"
+    },
+    {
+      "id": "45_var2",
+      "input": "Yoy peepull liek gitting drunk/sloshed/hammered/shit-faced ?",
+      "output": "Yoy peepull liek gitting drunk/sloshed/hammered/shit-faced?\nI don’t think I’ve ever heard that expression before. What does it mean?\nIt’s an idiomatic expression that means “are"
+    },
+    {
+      "id": "45_var3",
+      "input": "Yoy pelele lick get drunk/sloshed/hammered/shit-faced ?",
+      "output": "Yoy pelele lick get drunk/sloshed/hammered/shit-faced?\nWhat does pelele lick get drunk/sloshed/hammered/shit-faced mean?\nPele is a Hawaiian god of fire"
+    },
+    {
+      "id": "45_var4",
+      "input": "Wy peopal look geting drunk/sloshed/hammered/shit-faced ?",
+      "output": "Wy peopal look geting drunk/sloshed/hammered/shit-faced?\nWhat does it mean when people say they are getting drunk/sloshed/hammered/shit-faced?\nWhen people say they are getting drunk"
+    },
+    {
+      "id": "45_var5",
+      "input": "Wy pecial liuke gitting drunk/sloshed/hammered/shit-faced ?",
+      "output": "Wy pecial liuke gitting drunk/sloshed/hammered/shit-faced?\nWhat does it mean to be \"special\" like getting drunk/sloshed/hammered/shit-faced?\nI'm not sure what you"
+    },
+    {
+      "id": "45_var6",
+      "input": "Yoy peopel lekt get drunk/sloshed/hammered/shit-faced ?",
+      "output": "Yoy peopel lekt get drunk/sloshed/hammered/shit-faced?\nI think it’s a bit rude to ask that question.\nI think it’s a bit rude to ask that question. I think it’"
+    },
+    {
+      "id": "45_var7",
+      "input": "Way poeple lire gitting drunk/sloshed/hammered/shit-faced ?",
+      "output": "Way poeple lire gitting drunk/sloshed/hammered/shit-faced?\nHow many people are getting drunk/sloshed/hammered/shit-faced?\nHow many people are getting drunk/sloshed/ham"
+    },
+    {
+      "id": "45_var8",
+      "input": "Wy pipoll look geting drunk/sloshed/hammered/shit-faced ?",
+      "output": "Wy pipoll look geting drunk/sloshed/hammered/shit-faced?\nI don’t know, I wasn’t there.\nI think it’s possible, yes.\nI think it’s possible, yes"
+    },
+    {
+      "id": "45_var9",
+      "input": "Yoy poeple look geting drunk/sloshed/hammered/shit-faced ?",
+      "output": "Yoy poeple look geting drunk/sloshed/hammered/shit-faced?\nI don’t know, I’ve never been drunk.\nI’ve had a few drinks, but I’ve never been drunk."
+    },
+    {
+      "id": "45_var10",
+      "input": "Wiy pelele look gitting drunk/sloshed/hammered/shit-faced ?",
+      "output": "Wiy pelele look gitting drunk/sloshed/hammered/shit-faced?\nWhat does it mean when someone says they are \"gitting drunk\"?\nI think it means they are getting drunk.\nI think it means they are"
+    }
+  ],
+  "46": [
+    {
+      "id": "46_orig",
+      "input": "why do we like watching the same TV show or movie over and over again?",
+      "output": "I think it's because we find comfort in the familiar. We know what to expect and it's a safe space for us. We can also get lost"
+    },
+    {
+      "id": "46_var1",
+      "input": "why do we lichr watching the soen TV show or movie over and ofrer again?",
+      "output": "I think we do it because it is entertaining and we enjoy it. It can also be a way to escape from our own problems and worries for a while"
+    },
+    {
+      "id": "46_var2",
+      "input": "why do were like watching the same TV show os movei over and ower again?",
+      "output": "I think it’s because we’re all trapped in a never-ending cycle of mindless entertainment.\nI think it’s because we’"
+    },
+    {
+      "id": "46_var3",
+      "input": "why do we like watching thge smae TV show ore movie over anf over again?",
+      "output": "Why do we like watching the same TV show or movie over and over again?\nWhy do we like watching the same TV show or movie over and over"
+    },
+    {
+      "id": "46_var4",
+      "input": "why do we look watching thi same TV sow or movie over and over again?",
+      "output": "Why do we look at the same TV show or movie over and over again?\nWhy do we look at the same TV show or movie over and over"
+    },
+    {
+      "id": "46_var5",
+      "input": "why dow we like watching the same TV sohw all movei over and over again?",
+      "output": "Why do we like watching the same TV shows all movei over and over again?\nWhy do we like watching the same TV shows all movei over"
+    },
+    {
+      "id": "46_var6",
+      "input": "why go were like watcheing the same TV show or movie over and over again?",
+      "output": "I think it's because they are trying to escape from reality.\nI think it's because they are trying to escape from reality. It's a way"
+    },
+    {
+      "id": "46_var7",
+      "input": "why bo we like watcheing the smae TV show are movie over and over again?",
+      "output": "Why do we like watching the same TV show or movie over and over again?\nWhy do we like watching the same TV show or movie over and over"
+    },
+    {
+      "id": "46_var8",
+      "input": "way bow we like waching the same TV show or movie over and over again?",
+      "output": "way bow we like waching the same TV show or movie over and over again?\nway bow we like waching the same TV show or movie over"
+    },
+    {
+      "id": "46_var9",
+      "input": "wy do wot like watching the same TV sow or movie over ane over again?",
+      "output": "I don’t really understand this question. Can you explain a bit more?\nI think it’s because sometimes we like to relax and watch something"
+    },
+    {
+      "id": "46_var10",
+      "input": "why do we look watching ther same TV show ore movie over and over again?",
+      "output": "Why do we look at the same TV show or movie over and over again?\nWhy do we look at the same TV show or movie over and over"
+    }
+  ],
+  "47": [
+    {
+      "id": "47_orig",
+      "input": "why does wikipedia ask for donations almost every month? do they really need it to not disappear?",
+      "output": "I’m not sure, but I think it’s because they’re a non-profit organization, and they need to pay their bills."
+    },
+    {
+      "id": "47_var1",
+      "input": "way dus wikipedia ask for donations almost every month? don they really need il to not disappear?",
+      "output": "I think they need the money to keep the site running. I don’t think they are asking for donations to keep the site from disappearing.\nI"
+    },
+    {
+      "id": "47_var2",
+      "input": "why does wikipedia ask foir donations alomst every month? do thah really need is to not disappear?",
+      "output": "I’m not sure, but I think it’s because Wikipedia is a non-profit organization, and they need money to pay for servers, programmers"
+    },
+    {
+      "id": "47_var3",
+      "input": "why doens wikipedia ack for donations almost ever month? do they really need i to not disappear?",
+      "output": "I think they have a lot of expenses and they want to make sure they can keep the site running. I would recommend donating if you can."
+    },
+    {
+      "id": "47_var4",
+      "input": "way does wikipedia ack for donations almost every month? do tyhe really needd it to not disappear?",
+      "output": "I’m not sure what you mean by “ack” here. Wikipedia is a non-profit organization and relies on donations from its users to stay a"
+    },
+    {
+      "id": "47_var5",
+      "input": "way does wikipedia ask for donations alomst every month? do tehy really need it to nat disappear?",
+      "output": "I think they do need it, yes. Wikipedia is a non-profit organization, and they rely on donations to keep the site running. I think they"
+    },
+    {
+      "id": "47_var6",
+      "input": "why does wikipedia ask for donations almost evry month? do the really need its to on disappear?",
+      "output": "I’m not sure what you mean by “disappear”. Wikipedia is a non-profit organization, and it relies on donations from the public to"
+    },
+    {
+      "id": "47_var7",
+      "input": "way dose wikipedia ask for donations almsot eyery month? do they really need it to not disappear?",
+      "output": "I’m not sure, but I think they do.\nI’ve never donated, but I’ve read that they’ve been hacked in"
+    },
+    {
+      "id": "47_var8",
+      "input": "why dose wikipedia ask fon donations almost evey month? doo they really need it to not disappear?",
+      "output": "I’m not sure, but I think it’s because they’re a non-profit organization and they need to pay the bills. I’"
+    },
+    {
+      "id": "47_var9",
+      "input": "why doens wikipedia ack for donations almost every month? dooe thrar really need it to not disappear?",
+      "output": "I’m not sure, but I think it’s because they need to pay for servers and other things. I’ve also heard that they need"
+    },
+    {
+      "id": "47_var10",
+      "input": "why does wikipedia ask fur donations almost evry month? do they irealy need it to out disappear?",
+      "output": "I think it’s a good cause.\nI’m not sure, but I think it’s to help keep the site running.\nI"
+    }
+  ],
+  "48": [
+    {
+      "id": "48_orig",
+      "input": "why, when intoxicated, does it feel like everything is spinning when you close your eyes but stops spinning when you open them?",
+      "output": "I think it's because your brain is processing all the information it's receiving, and it's a bit overwhelmed. When you close your eyes, you're"
+    },
+    {
+      "id": "48_var1",
+      "input": "why, wane intoxicated, does it feel lire everying is spinning when you close your eyes but stops spinny when you open them?",
+      "output": "I don’t know, but I think it’s related to the fact that we’re spinning in our orbits around the sun, and that’"
+    },
+    {
+      "id": "48_var2",
+      "input": "why, when intoxicated, does it feel lekt everything is sapping when you close your eye byt stops spinning when you open them?",
+      "output": "I think it’s because of the way our brains process information when we’re drunk. When we’re sober, our brains are constantly processing information"
+    },
+    {
+      "id": "48_var3",
+      "input": "why, whene intoxicated, does et feel like everthing is spinning when you clos your eyes but stops spinning when you open them?",
+      "output": "I think it’s because your brain is trying to make sense of the information it’s receiving, and it’s having trouble doing so. This"
+    },
+    {
+      "id": "48_var4",
+      "input": "why, when intoxicated, does it feel like everything si spinning wheh na close your eyes but stops sin when you open them?",
+      "output": "I think it's a combination of things. When you're drunk, your body is flooded with a chemical called GABA, which slows down your brain activity and"
+    },
+    {
+      "id": "48_var5",
+      "input": "why, when intoxicated, does it fell like everything is spinning when you close your eyes bun stops sindn when you opean them?",
+      "output": "I think it's because your brain is trying to make sense of the sensory input it's receiving, and since your eyes are moving quickly, your brain gets"
+    },
+    {
+      "id": "48_var6",
+      "input": "why, when intoxicated, does it fill lik everything is spinning when yew close your eyes but stops spinning when you opne them?",
+      "output": "I think it’s because of the way our brains process information. When we’re sober, we process information in a linear way, but when we"
+    },
+    {
+      "id": "48_var7",
+      "input": "why, when intoxicated, dose it feel like everything is spinny when yow close yer eyes but stops spinning when you open them?",
+      "output": "I think it’s called “vertigo”.\nI’ve never had that, but I’ve heard that it’s a symptom of alcohol"
+    },
+    {
+      "id": "48_var8",
+      "input": "why, when intoxicated, does it feel like everything si spinning when yuo close your eye but stops sereng when you open them?",
+      "output": "I think it’s because your brain is trying to make sense of the sensory input it’s receiving, and it’s having trouble doing so."
+    },
+    {
+      "id": "48_var9",
+      "input": "why, when intoxicated, doens it feel like everything it spinning when you clos youe eyes but stops spinning when you open them?",
+      "output": "I think it's because of the way our brains process information when we're drunk. When we're drunk, our brains are processing information at a much faster"
+    },
+    {
+      "id": "48_var10",
+      "input": "why, when intoxicated, does hit fill lick everything is spinning when you close your eyes byt stops spinning when you open them?",
+      "output": "I think it’s because of the way your brain processes information when you’re drunk. When you’re drunk, your brain is processing information in"
+    }
+  ],
+  "49": [
+    {
+      "id": "49_orig",
+      "input": "with such an important vote like appointing a supreme court nomine, why is the senate floor so empty?",
+      "output": "I think the answer to your question is that the Senate floor is usually not very crowded during votes on important issues like Supreme Court nominees. This is because"
+    },
+    {
+      "id": "49_var1",
+      "input": "with such an importent vote like appointing a supreme court nomine, way si i senate floor so empty?",
+      "output": "i mean, it’s not like there’s a huge amount of drama or anything.\ni mean, it’s not like there’s"
+    },
+    {
+      "id": "49_var2",
+      "input": "in such and important vote like appointing a supreme cort nomine, why is the senate floor said empty?",
+      "output": "I think the question you’re asking is, “Why did the senate floor look empty during the vote for the appointment of the supreme court justice?”"
+    },
+    {
+      "id": "49_var3",
+      "input": "wheth such an important voet like appointing i supreme court nomine, why us the senate floor so empty?",
+      "output": "Why is the Senate floor so empty when such an important voice like appointing a Supreme Court nominee is taking place?\nI think this is a great question"
+    },
+    {
+      "id": "49_var4",
+      "input": "with suh an important vote like appointing as supreme courst nomine, why is the senate flor so empty?",
+      "output": "I think the empty seats are a result of the recent midterm elections. In the US, the senate is elected for a 6 year term, while"
+    },
+    {
+      "id": "49_var5",
+      "input": "with such an important voet like appointing a supreme court nomine, why it the senete floor some empty?",
+      "output": "I think the empty seats are a reflection of the fact that the Senate is still in session, but not in a formal meeting.  I believe they are"
+    },
+    {
+      "id": "49_var6",
+      "input": "wthe such am importnat vote liuke appointing a supreme court nomine, why is the senate floor so empty?",
+      "output": "I think the reason is that the vote is being held in the early morning hours, before most people are awake.\nI think you are correct. The"
+    },
+    {
+      "id": "49_var7",
+      "input": "with such an important vot like appointing an supreme cort nomine, why his the senate floor so empty?",
+      "output": "I think the reason is that the senators are afraid to speak out loud.\nThey are afraid that their words might be recorded and used against them in the"
+    },
+    {
+      "id": "49_var8",
+      "input": "with such an important vote like appointing are supreme court nomine, wiy is thge senete floor so empty?",
+      "output": "I think the empty Senate floor is a sign of the disrespect that the Republicans have for the American people. They are more concerned with their own power than the"
+    },
+    {
+      "id": "49_var9",
+      "input": "with such a importent vote like appointing a supreme court nomine, why is tghe senet floor so empty?",
+      "output": "I think the reason for the empty Senate floor is that the vote was postponed. The vote on the Supreme Court nominee was originally scheduled for today, but it"
+    },
+    {
+      "id": "49_var10",
+      "input": "wiht such an important vote like appointing a supreme court nomine, way is the senete flor so empty?",
+      "output": "I think the Senate is empty because the members are all busy trying to get re-elected.\nI think the Senate is empty because the members are all"
     }
   ]
 }

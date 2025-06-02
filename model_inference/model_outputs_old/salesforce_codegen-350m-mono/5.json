@@ -1,0 +1,516 @@
+{
+  "model_size": 350000000,
+  "0": [
+    {
+      "id": "0_orig",
+      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
+      "output": "# If they are, they are not considered guilty.\n        # If they are not, they are considered guilty.\n        # If they are, they are considered guilty.\n        # If they are not, they are considered innocent.\n        # If they are not, they are considered innocent."
+    },
+    {
+      "id": "0_var1",
+      "input": "Can defense attournies 'throw' ah cace if they nkow there clients are guilty?",
+      "output": "#\n        #   - If the client is not guilty, then the client is not guilty.\n        #   - If the client is guilty, then the client is guilty.\n        #\n        #   - If the client is not guilty, then the client is not guilty.\n        #"
+    },
+    {
+      "id": "0_var2",
+      "input": "Came defense attorneys 'throw' a cace it thy know their clients oar guilty?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "0_var3",
+      "input": "Con defence attorneys 'throw' i case if they knwo they clients are guilty?",
+      "output": "#     if (self.client_name == 'client_1'):\n        #         if (self.client_name == 'client_2'):\n        #             if (self.client_name == 'client_3'):\n        #                 if (self.client_"
+    },
+    {
+      "id": "0_var4",
+      "input": "Can defence atterneys 'throw' i case if they nkwo their clients ah guilty?",
+      "output": "#     if self.is_at_least_one_client_with_defence(self.client_with_defence):\n        #         self.defence = True\n        #     else:\n        #         self.defence = False\n        #     self."
+    },
+    {
+      "id": "0_var5",
+      "input": "Can defence attorneys 'throw' and cace if that know their clients oar guilty?",
+      "output": "#     if 'throw' in self.data:\n        #         if 'attacker' in self.data['throw']:\n        #             if 'attacker' in self.data['throw']['attacker']:\n        #                 if 'attacker' in self."
+    },
+    {
+      "id": "0_var6",
+      "input": "Cane defense attourneis 'throw' the cace if they know the clients are guilty?",
+      "output": "if self.cane_defense == 'throw':\n            self.cane_defense = 'guilty'\n            self.cane_defense_text = 'Cane defense attourneis ' + self.cane_defense + ' the cace if they know the clients are"
+    },
+    {
+      "id": "0_var7",
+      "input": "Can defence attorneys 'throw' the cace if their know the clients are guilty?",
+      "output": "#     if (self.attacker_name == 'John'):\n        #         print('John is the attacker')\n        #     else:\n        #         print('John is not the attacker')\n        #     print('The cace is thrown')\n        #     print('"
+    },
+    {
+      "id": "0_var8",
+      "input": "Came defense attorneys 'throw' a cace it they nkow there clients are guilty?",
+      "output": "#     if self.came_defense_attorney_is_cace:\n        #         self.came_defense_attorney_is_cace = False\n        #         self.came_defense_attorney_is_cace_message = \"Cace"
+    },
+    {
+      "id": "0_var9",
+      "input": "Came defence attorneys 'throw' a cace if thea know their clients aree guilty?",
+      "output": "#     if (self.attacker_name == 'Came defence attorney'):\n        #         self.attacker_name = 'Came defence attorney'\n        #         self.attacker_name_label.config(text='Came defence attorney')\n        #     else"
+    },
+    {
+      "id": "0_var10",
+      "input": "Con defense attorneys 'throw' are cace if they now there clients are guilty?",
+      "output": "# If they are, they are not considered guilty.\n        if self.is_guilty(client):\n            return False\n\n        # If the client is not a client, they are considered guilty.\n        if not client:\n            return False\n\n        # If the client is a client"
+    }
+  ],
+  "1": [
+    {
+      "id": "1_orig",
+      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var1",
+      "input": "Haw do movies onot get uploaded online i HD from movei theater employees before thire DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var2",
+      "input": "How do movies not go uploaded online it HD from movei theather employies before their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var3",
+      "input": "How doe movies nto get uploaded online in HD from movie theater emploiees we_fo thier DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var4",
+      "input": "Haw do movies not get uploaded online if HD frome movei theater employees beefore their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var5",
+      "input": "Haw do movies not get uploaded online in HD from movei theather imployees before thier DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var6",
+      "input": "How do movies not ge uploaded online in HD forom movie theater imployees pefore theri DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var7",
+      "input": "Hou dow movies not cet uploaded online it HD from movie theather employees before their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var8",
+      "input": "Hou do movies knot get uploaded online with HD from movei theather employees before their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var9",
+      "input": "Hou done movies non get uploaded online in HD fome movei theater employees before their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "1_var10",
+      "input": "How do movies not geat uploaded online in HD frome movei theather employees before theri DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    }
+  ],
+  "3": [
+    {
+      "id": "3_orig",
+      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var1",
+      "input": "Hou do weed know at the money the government is getting from bank settlements it gomeing back to the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var2",
+      "input": "How to weed know a the money tehe government is gitting from bank settlements is going back to the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var3",
+      "input": "Hou do wey know all tjhe money the government is getting torme bank settlements is going back ro the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var4",
+      "input": "How do we know a the moeny the government is getting fro bank settlements is goign dak to the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var5",
+      "input": "How dow weed knwo all the money the government is getting from bank settlements is going back th thw people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var6",
+      "input": "How do we know at my moeny the governemt si getting from bank settlements is going back to the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var7",
+      "input": "Haw doo we know all the money he government is getting from bank settlements is goning back to thi people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var8",
+      "input": "How do we knwo all the moeny th government his getting from bank settlements as going back to the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var9",
+      "input": "How dou we know at the money the government is getting from bank settlements is goign blart tow the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "3_var10",
+      "input": "How do be no all the money the government his getting from bank settlements is going dack too the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    }
+  ],
+  "4": [
+    {
+      "id": "4_orig",
+      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "4_var1",
+      "input": "It dog colours absorb more heat, why dus light skin brun easier than dank skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "4_var2",
+      "input": "Is dark colours absorb more heat, wy does light scin brun easier tahn dark skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "4_var3",
+      "input": "Is dark colours absorb more heat, wiy does ight skin brun easier than dog skin?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "4_var4",
+      "input": "It bar colours absorb more heat, why does ight skin birn easer than dark skin?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "4_var5",
+      "input": "If dark colours absorb more heat, way does light scin burn eassier then drow skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "4_var6",
+      "input": "It dark colours absorb mooe heat, wiy does light skin burn easery thna dark skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "4_var7",
+      "input": "If back colours absorb mroe heat, yoy does ight skin brun easier than dark skin?",
+      "output": "# if (x > 0 and x < 0.5) or (x < 0 and x > 0.5):\n        #     if (x > 0 and x < 0.5) or (x < 0 and x > 0.5):\n        #         if (x > 0"
+    },
+    {
+      "id": "4_var8",
+      "input": "Is darck calers absorb more heat, why does lit skin burn eassier than dark skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "4_var9",
+      "input": "It drk calers absorb more heat, way does light skin brun easier than dark skin?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "4_var10",
+      "input": "If dark calers absorb moor heat, yoy does lite scin burn easier than dark skin?",
+      "output": "#     if self.dark_cal_flag:\n        #         self.dark_cal_flag = False\n        #         self.dark_cal_flag_time = time.time()\n        #         self.dark_cal_flag_time_diff = self.dark_"
+    }
+  ],
+  "5": [
+    {
+      "id": "5_orig",
+      "input": "What are good and bad sides of manual and automatic drive gear?",
+      "output": "\\n\\n'\n        '\\n'\n        'The following are the types of drive gear that are available:\\n\\n'\n        '\\n'\n        '1. Drive gear\\n'\n        '2. Automatic drive gear\\n'\n        '3. Manual drive"
+    },
+    {
+      "id": "5_var1",
+      "input": "Wote are gowed and bed sides of manual and autumatic driv gear?",
+      "output": "#   - The driv gear is a combination of the two sides of the gear, and the two sides are the same.\n    #   - The driv gear is a combination of the two sides of the gear, and the two sides are the same.\n    #   - The driv"
+    },
+    {
+      "id": "5_var2",
+      "input": "Wha't r good are bad sides of manual and autumatic driv gear?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "5_var3",
+      "input": "What thet good aud bed sides on manual and automatic driv gear?",
+      "output": "#\n    #   - Thet good aud bed sides on manual and automatic driv gear.\n    #\n    #   - Thet good aud bed sides on manual and automatic driv gear.\n    #\n    #   - Thet good aud bed sides on manual and automatic driv"
+    },
+    {
+      "id": "5_var4",
+      "input": "Wote are good and bed sides on manual ane automatic driv gear?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "5_var5",
+      "input": "What ur good hand bad sides ove manual an automatic driv gear?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "5_var6",
+      "input": "Want are good anbd bad sides ofr manuel and automatic driv gear?",
+      "output": "# In[ ]:\n\n\n#importing libraries\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nimport warnings\nwarnings.filterwarnings('ignore')\n\n#importing dataset"
+    },
+    {
+      "id": "5_var7",
+      "input": "What are good are bad sides off manuel and autumatic driv gear?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "5_var8",
+      "input": "What vea go a bad sides gf manuel and automatic drive gear?",
+      "output": "# In[ ]:\n\n\n#%%\n# Importing the libraries\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport pandas as pd\n\n# Importing the dataset\ndataset = pd.read_csv('Social_Network_"
+    },
+    {
+      "id": "5_var9",
+      "input": "What anr good anf bed sides of manual i autumatic drive gear?",
+      "output": "# In[ ]:\n\n\n#importing libraries\nimport numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nimport warnings\nwarnings.filterwarnings('ignore')\n\n#importing dataset"
+    },
+    {
+      "id": "5_var10",
+      "input": "Weot r gowed and bad sides of manual i automatic driv gear?",
+      "output": "#\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #"
+    }
+  ],
+  "6": [
+    {
+      "id": "6_orig",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "6_var1",
+      "input": "Woat is that role of actural real-life actors in macking animated characters? Like Liam Neeson playing Aslan is Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "6_var2",
+      "input": "What us the role ove actural real-life actors in making animated characters? Lick Liam Neeson plaving Aslan in Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "6_var3",
+      "input": "Whats us an role of actual real-life actors in making animated characters? Lick Liam Neeson playing Aslan if Narnia?",
+      "output": "# In[ ]:\n\n\n# Lick Liam Neeson playing Aslan if Narnia\n\n# In[ ]:\n\n\n# Lick Liam Neeson playing Aslan if Narnia\n\n# In[ ]:\n\n\n# Lick Liam Neeson playing As"
+    },
+    {
+      "id": "6_var4",
+      "input": "What his the role of actural real-life actors with amking animated characters? Like Liam Neeson playing Aslan it Narnia?",
+      "output": "The actural character is a character that is not animated.\n\nThe actural character is a character that is animated.\n\nThe actural character is a character that is not animated.\n\nThe actural character is a character that is animated.\n\nThe actural character is a character that"
+    },
+    {
+      "id": "6_var5",
+      "input": "Whta is the role of actual real-life actors if macking animated characters? Like Liam Neeson play Aslan im Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "6_var6",
+      "input": "Wait his that role of actuall real-life actors in making animated characters? Like Liam Neeson playing Aslan is Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "6_var7",
+      "input": "Woot his they role ovot actual real-life actors if making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "6_var8",
+      "input": "What is thge role gf actural real-life actors in makeing animated characters? Lire Liam Neeson playing Aslan in Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "6_var9",
+      "input": "What in thoy role of actual real-life actors in macking animated characters? Liek Liam Neeson playing Aslan if Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "6_var10",
+      "input": "Wote it the role of actual real-life actors with making animated characters? Lichr Liam Neeson playing Aslan i Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    }
+  ],
+  "7": [
+    {
+      "id": "7_orig",
+      "input": "Why are different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "7_var1",
+      "input": "Way or different tiers (regular < mid < premium) othe gas' prices almost all_way 10 cens different?",
+      "output": "# if 'regular' in price:\n        #     price = price.replace('regular', 'regular_way')\n        # if 'mid' in price:\n        #     price = price.replace('mid', 'mid_way')\n        # if 'premium' in price"
+    },
+    {
+      "id": "7_var2",
+      "input": "Why aer different tiers (regular < mid < premium) ov gas' prices almsot allway 10 cens different?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "7_var3",
+      "input": "Why or deifrnt tiers (regular < mid < premium) ofr gas' prices alomst always 10 cens different?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "7_var4",
+      "input": "Why and different tiers (regular < mid < premium) from gas' prices almsot alway 10 cens different?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "7_var5",
+      "input": "Why or differce tiers (regular < mid < premium) of gas' prices allmost alwyas 10 cens different?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "7_var6",
+      "input": "Why are tifrent tiers (regular < mid < premium) afoh gas' prices allmost alway's 10 cens different?",
+      "output": "# In[ ]:\n\n\n#t = np.array([0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0])\n#t = np.array(["
+    },
+    {
+      "id": "7_var7",
+      "input": "Yoy r different tiers (regular < mid < premium) othe gas' prices all_most all_way 10 cents different?",
+      "output": "# In[ ]:\n\n\n#print(all_most(['yoy r different tiers (regular < mid < premium) othe gas'], ['yoy r different tiers (regular < mid < premium) othe gas'], ['yoy r different tiers (regular < mid < premium"
+    },
+    {
+      "id": "7_var8",
+      "input": "Wiy or different tiers (regular < mid < premium) gf gas' prices allmost alway 10 cents different?",
+      "output": "# if 'regular' in price:\n        #     price = price.replace('regular', '')\n        #     price = price.replace(' ', '')\n        #     price = price.replace('$', '')\n        #     price = price.replace('.', ''"
+    },
+    {
+      "id": "7_var9",
+      "input": "Why run diferent tiers (regular < mid < premium) ovoe gas' prices all_most always 10 cens different?",
+      "output": "#\n    #     # if (dif_tier_1_price_1 > dif_tier_2_price_1 and dif_tier_1_price_2 > dif_tier_2_price_2):\n    #     #     print(f'"
+    },
+    {
+      "id": "7_var10",
+      "input": "Yoy are difort tiers (regular < mid < premium) afoh gas' prices allmost always 10 cens different?",
+      "output": "#\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #"
+    }
+  ],
+  "8": [
+    {
+      "id": "8_orig",
+      "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? Doesn't it come from the same place?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "8_var1",
+      "input": "Wy does the water from my kitching faucet taste different then the water from my bathroom faucet? does_on it comr from the same place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "8_var2",
+      "input": "Why does thoy water from my kitchen faucet tayste different than the water from my bathroom faucet? doesn't is com from he same place?",
+      "output": "#    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #"
+    },
+    {
+      "id": "8_var3",
+      "input": "Why does ge weter from my kitchen faucet taste different than ther water from my bathroom faucet? donsent it kumh from the same place?",
+      "output": "#   - I have a different faucet taste than the bathroom faucet, but I have a different faucet taste than the kitchen faucet.\n    #   - I have a different faucet taste than the bathroom faucet, but I have a different faucet"
+    },
+    {
+      "id": "8_var4",
+      "input": "Wy doens the water from my kitchen faucet taste different than the weter ofomt me bathroom faucet? doesn't it come from the same place?",
+      "output": "#    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #"
+    },
+    {
+      "id": "8_var5",
+      "input": "Why does the water from my kiching faucet taste deffer than the water from my both_rom faucet? doesn't it com torme the same place?",
+      "output": "#\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #"
+    },
+    {
+      "id": "8_var6",
+      "input": "Wiy dose the weter from my kitchen faucet taste different than they water from my bathroom faucet? doesn't it coum from the same place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "8_var7",
+      "input": "Wiy does the water from my kitchen faucet taste diset than the water from my bathroom faucet? doesn't she kumh frome the same place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "8_var8",
+      "input": "Why does the water frome my kitchen faucet taste diset than the watter from ny bathroom faucet? doesn't it cam from the same place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "8_var9",
+      "input": "Wy does the water from may kichen faucet taste different thna the water from my bathroom faucet? donsent it come from the same place?",
+      "output": "#    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #    #"
+    },
+    {
+      "id": "8_var10",
+      "input": "Wiy does the weter from my kitchen faucet taste different than the water from miy bathroom faucet? doesn't it come from ge same place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    }
+  ],
+  "9": [
+    {
+      "id": "9_orig",
+      "input": "Why is chickenpox worse as an adult?",
+      "output": "#     if chickenpox_age < 18:\n    #         print(\"Chickenpox is not a good person.\")\n    #     else:\n    #         print(\"Chickenpox is a good person.\")\n    # else:\n    #     print(\"I don't know what you mean.\")"
+    },
+    {
+      "id": "9_var1",
+      "input": "Wy si chickenpox worst asw un adult?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "9_var2",
+      "input": "Yoy his chickenpox worst hase un adult?",
+      "output": "#     if (chickenpox_worse_adult == True):\n        #         print(\"chickenpox is worse than adult\")\n        #     else:\n        #         print(\"chickenpox is worse than adult\")\n        # else:\n        #     print(\"chicken"
+    },
+    {
+      "id": "9_var3",
+      "input": "Wiy us chickenpox wosre a a adult?",
+      "output": "# In[ ]:\n\n\n# import the necessary packages\nfrom sklearn.preprocessing import LabelEncoder\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.compose import ColumnTransformer\nfrom sklearn.preprocessing import StandardScaler\nfrom sklearn."
+    },
+    {
+      "id": "9_var4",
+      "input": "Way in chickenpox worst aas un adult?",
+      "output": "#     if (\n            #         (\n            #             self.chicken_wants_chicken_wants_chicken_wants_chicken_wants_chicken_wants_chicken_wants_chicken_wants_chicken_wants"
+    },
+    {
+      "id": "9_var5",
+      "input": "Wiy as chickenpox worst ass a adult?",
+      "output": "# In[ ]:\n\n\n# import the necessary packages\nfrom sklearn.preprocessing import LabelEncoder\nfrom sklearn.preprocessing import OneHotEncoder\nfrom sklearn.preprocessing import StandardScaler\nfrom sklearn.model_selection import train_test_split\nfrom"
+    },
+    {
+      "id": "9_var6",
+      "input": "Way his chickenpox wosre is and adult?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:"
+    },
+    {
+      "id": "9_var7",
+      "input": "Wy as chickenpox worst is un adult?",
+      "output": "#     if (chickenpox_age >= 18):\n        #         print(\"chickenpox is adult\")\n        #     else:\n        #         print(\"chickenpox is not adult\")\n        # else:\n        #     print(\"chickenpox is not adult\")"
+    },
+    {
+      "id": "9_var8",
+      "input": "Way as chickenpox wors saw and adult?",
+      "output": "#     if (chickenpox_as_adult == True):\n        #         print(\"chickenpox as adult\")\n        #     else:\n        #         print(\"chickenpox as not adult\")\n        # else:\n        #     print(\"chickenpox as not adult"
+    },
+    {
+      "id": "9_var9",
+      "input": "Wy as chickenpox worst have am adult?",
+      "output": "#     if (chickenpox_price > chickenpox_price_max):\n            #         chickenpox_price_max = chickenpox_price\n            #         chickenpox_price = chickenpox_price_max\n            #     else:\n            #         chickenpox"
+    },
+    {
+      "id": "9_var10",
+      "input": "Yoy his chickenpox wosre aas on adult?",
+      "output": "#     if (self.chickenpox == \"yes\"):\n        #         print(\"I'm a chickenpox\")\n        #     else:\n        #         print(\"I'm not a chickenpox\")\n        #     print(\"I'm a chickenpox\")\n        #     print"
+    }
+  ]
+}

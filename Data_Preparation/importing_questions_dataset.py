@@ -5,7 +5,7 @@ import os
 # === FILE LOCATIONS ===
 input_file = "ELI5-001.jsonl"  # in Data_Preparation/
 output_file = os.path.join("..", "data", "questions.csv")
-num_questions = 10
+num_questions = 50
 
 # === ENSURE OUTPUT DIRECTORY EXISTS ===
 os.makedirs(os.path.dirname(output_file), exist_ok=True)

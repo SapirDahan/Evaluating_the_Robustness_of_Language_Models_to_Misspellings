@@ -1,0 +1,573 @@
+{
+  "model_size": 160000000,
+  "0": [
+    {
+      "id": "0_orig",
+      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
+      "output": "A:\n\nThe answer is yes.\nThe answer is no.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is no.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA"
+    },
+    {
+      "id": "0_var1",
+      "input": "Con defense attorneys 'throw' a case if they know their clients are guilty?",
+      "output": "A:\n\nThe answer is no.\nThe answer is that the defense attorneys are not guilty.\n\nA:\n\nThe answer is no.\nThe answer is that the defense attorneys are not guilty.\n\nA:\n\nThe answer is no.\nThe answer is that the defense"
+    },
+    {
+      "id": "0_var2",
+      "input": "Can defense attorneys 'throw' and case if they know their clients are guilty?",
+      "output": "A:\n\nThe answer is yes.\nThe answer is no.\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer"
+    },
+    {
+      "id": "0_var3",
+      "input": "Can defense attorneys 'throw' a cace if they know their clients are guilty?",
+      "output": "A:\n\nThe answer is yes.\nThe answer is no.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is no.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA"
+    },
+    {
+      "id": "0_var4",
+      "input": "Can defense attorneys 'throw' a cace if they know their clients are guilty?",
+      "output": "A:\n\nThe answer is yes.\nThe answer is no.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is no.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA"
+    },
+    {
+      "id": "0_var5",
+      "input": "Can defense attorneys 'throw' a case if they know their clients vea guilty?",
+      "output": "A:\n\nThe answer is yes.\nThe answer is no.\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer"
+    },
+    {
+      "id": "0_var6",
+      "input": "Can defense atturnies 'throw' a case if they know their clients are guilty?",
+      "output": "A:\n\nThe answer is yes.\nThe following code is a good example of how to do this.\npublic class Client {\n    private String name;\n    private String address;\n    private String phone;\n    private String email;\n    private String address2;\n    private"
+    },
+    {
+      "id": "0_var7",
+      "input": "Can defense attorneys 'throw' a cace if they know their clients are guilty?",
+      "output": "A:\n\nThe answer is yes.\nThe answer is no.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is no.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA"
+    },
+    {
+      "id": "0_var8",
+      "input": "Cane defense attorneys 'throw' a case if they know their clients are guilty?",
+      "output": "The answer is no.\n\nThe defense attorneys 'throw' a case if they know their clients are guilty?\n\nThe answer is no.\n\nThe defense attorneys 'throw' a case if they know their clients are guilty?\n\nThe answer is no.\n\nThe defense attorneys 'throw"
+    },
+    {
+      "id": "0_var9",
+      "input": "Can defense attorneys 'throw' a case if they knwo their clients are guilty?",
+      "output": "A:\n\nThe answer is no.\nThe answer is that the defense attorneys are not guilty.\n\nA:\n\nThe answer is no.\nThe answer is that the defense attorneys are not guilty.\n\nA:\n\nThe answer is no.\nThe answer is that the defense"
+    },
+    {
+      "id": "0_var10",
+      "input": "Can defense attorneys 'throw' a case if tehy know their clients are guilty?",
+      "output": "A:\n\nThe answer is yes.\nThe answer is no.\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer is yes.\n\nA:\n\nThe answer"
+    }
+  ],
+  "1": [
+    {
+      "id": "1_orig",
+      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "I have a movie that I have been watching for a while and I have been watching it for a while. I have been watching it for a while and I have been watching it for a while. I have been watching it for a while and I have been watching it for a while. I have been watching"
+    },
+    {
+      "id": "1_var1",
+      "input": "How do movies not get uploaded online in HD from movie theater employees bef_for their DVD release?",
+      "output": "A:\n\nThe answer is that the movie is not uploaded to the internet.\nThe movie is uploaded to the internet.\nThe movie is uploaded to the internet.\nThe movie is uploaded to the internet.\nThe movie is uploaded to the internet.\nThe movie is uploaded to the internet."
+    },
+    {
+      "id": "1_var2",
+      "input": "How do movies not get uploaded online in HD frm movie theater employees before their DVD release?",
+      "output": "I have a movie theater that I have been watching for a few years. I have been watching it for about a year and a half. I have been watching it for about a year and a half. I have been watching it for about a year and a half. I have been watching it for about a"
+    },
+    {
+      "id": "1_var3",
+      "input": "How do movies onot get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "I have a movie theater that I have been watching for a while. I have a movie theater that I have been watching for a while. I have a movie theater that I have been watching for a while. I have a movie theater that I have been watching for a while. I have a movie theater that"
+    },
+    {
+      "id": "1_var4",
+      "input": "How do movies not get uploaded online in HD fere movie theater employees before their DVD release?",
+      "output": "I have a DVD player that I use to play movies on. I have a DVD player that I use to play movies on. I have a DVD player that I use to play movies on. I have a DVD player that I use to play movies on. I have a DVD player that I use to play"
+    },
+    {
+      "id": "1_var5",
+      "input": "How do movies not get uploaded online in HD from movie theater employees before theer DVD release?",
+      "output": "I have a movie that I am watching on a DVD player. I have a DVD player that I have to watch on a computer. I have a DVD player that I have to watch on a computer. I have a DVD player that I have to watch on a computer. I have a DVD player that I"
+    },
+    {
+      "id": "1_var6",
+      "input": "How do movies mot get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "I have a movie theater that I have been watching for a while. I have a DVD player that I have been watching for a while. I have a DVD player that I have been watching for a while. I have a DVD player that I have been watching for a while. I have a DVD player that"
+    },
+    {
+      "id": "1_var7",
+      "input": "How do movies not geat uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "I have a movie that is not geat uploaded online in HD from movie theater employees before their DVD release.\n\nI have a movie that is not geat uploaded online in HD from movie theater employees before their DVD release.\n\nI have a movie that is not geat uploaded online in HD from"
+    },
+    {
+      "id": "1_var8",
+      "input": "How do movies not get uploaded online in HD from movie theater employees befrou their DVD release?",
+      "output": "I have a DVD player that I use to play movies on my computer. I have a DVD player that I use to play movies on my computer. I have a DVD player that I use to play movies on my computer. I have a DVD player that I use to play movies on my computer. I have"
+    },
+    {
+      "id": "1_var9",
+      "input": "How do movies not gett uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "I have a movie that I have been watching for a while and I have been watching it for a while. I have been watching it for a while and I have been watching it for a while. I have been watching it for a while and I have been watching it for a while. I have been watching"
+    },
+    {
+      "id": "1_var10",
+      "input": "How do movies not get uploaded online in HD from movie theater employees before these DVD release?",
+      "output": "I have a movie that I am watching on a DVD. I have a movie that I am watching on a DVD. I have a movie that I am watching on a DVD. I have a movie that I am watching on a DVD. I have a movie that I am watching on a DVD. I have"
+    }
+  ],
+  "2": [
+    {
+      "id": "2_orig",
+      "input": "How do muscles grow?",
+      "output": "A:\n\nThe muscle is a muscle.\n\nA:\n\nThe muscle is a muscle.\n\nA:\n\nThe muscle is a muscle.\n\nA:\n\nThe muscle is a muscle.\n\nA:\n\nThe muscle is a muscle.\n\nA:"
+    },
+    {
+      "id": "2_var1",
+      "input": "How do muscels grow?",
+      "output": "I'm a student at the University of California, Berkeley. I'm a student at the University of California, Berkeley. I'm a student at the University of California, Berkeley. I'm a student at the University of California, Berkeley. I'm a student at the University of California, Berkeley. I'm"
+    },
+    {
+      "id": "2_var2",
+      "input": "How dow muscles grow?",
+      "output": "A:\n\nThe answer is that the muscles are not growing.\nThe muscles are growing because they are not growing.\n\nA:\n\nThe answer is that the muscles are not growing.\n\nThe answer is that the muscles are not growing.\n\nA:\n\nThe answer is"
+    },
+    {
+      "id": "2_var3",
+      "input": "How doe muscles grow?",
+      "output": "A:\n\nThe muscles are not the same as the muscles of the body.\nThe muscles are not the same as the muscles of the body.\n\nA:\n\nThe muscles are not the same as the muscles of the body.\n\nThe muscles are not the same as the muscles of"
+    },
+    {
+      "id": "2_var4",
+      "input": "How do musirls grow?",
+      "output": "I'm not sure if this is a good idea, but I'm not sure if it's a good idea.\n\nA:\n\nI think you are looking for a \"trick\" to grow your own fruit.\nYou can grow your own fruit in a greenhouse, or you can grow your"
+    },
+    {
+      "id": "2_var5",
+      "input": "How do musirls grow?",
+      "output": "I'm not sure if this is a good idea, but I'm not sure if it's a good idea.\n\nA:\n\nI think you are looking for a \"trick\" to grow your own fruit.\nYou can grow your own fruit in a greenhouse, or you can grow your"
+    },
+    {
+      "id": "2_var6",
+      "input": "How do musirls grow?",
+      "output": "I'm not sure if this is a good idea, but I'm not sure if it's a good idea.\n\nA:\n\nI think you are looking for a \"trick\" to grow your own fruit.\nYou can grow your own fruit in a greenhouse, or you can grow your"
+    },
+    {
+      "id": "2_var7",
+      "input": "How do musirls grow?",
+      "output": "I'm not sure if this is a good idea, but I'm not sure if it's a good idea.\n\nA:\n\nI think you are looking for a \"trick\" to grow your own fruit.\nYou can grow your own fruit in a greenhouse, or you can grow your"
+    },
+    {
+      "id": "2_var8",
+      "input": "How doe muscles grow?",
+      "output": "A:\n\nThe muscles are not the same as the muscles of the body.\nThe muscles are not the same as the muscles of the body.\n\nA:\n\nThe muscles are not the same as the muscles of the body.\n\nThe muscles are not the same as the muscles of"
+    },
+    {
+      "id": "2_var9",
+      "input": "How do musirls grow?",
+      "output": "I'm not sure if this is a good idea, but I'm not sure if it's a good idea.\n\nA:\n\nI think you are looking for a \"trick\" to grow your own fruit.\nYou can grow your own fruit in a greenhouse, or you can grow your"
+    },
+    {
+      "id": "2_var10",
+      "input": "How do musirls grow?",
+      "output": "I'm not sure if this is a good idea, but I'm not sure if it's a good idea.\n\nA:\n\nI think you are looking for a \"trick\" to grow your own fruit.\nYou can grow your own fruit in a greenhouse, or you can grow your"
+    }
+  ],
+  "3": [
+    {
+      "id": "3_orig",
+      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
+      "output": "The answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no."
+    },
+    {
+      "id": "3_var1",
+      "input": "How do we know a the money the government is getting from bank settlements is going back to the people?",
+      "output": "The answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no."
+    },
+    {
+      "id": "3_var2",
+      "input": "How do we know all the money the government is getting from bank settlements is going dark to the people?",
+      "output": "The answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no."
+    },
+    {
+      "id": "3_var3",
+      "input": "How do we know all the money ther government is getting from bank settlements is going back to the people?",
+      "output": "The answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no."
+    },
+    {
+      "id": "3_var4",
+      "input": "How do we know all the money the government is gitting from bank settlements is going back to the people?",
+      "output": "The answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no."
+    },
+    {
+      "id": "3_var5",
+      "input": "How do we know all the money the government is getting from bank settlements us going back to the people?",
+      "output": "The answer is, we don’t.\n\nThe answer is, we don’t know.\n\nThe answer is, we don’t know.\n\nThe answer is, we don’t know.\n\nThe answer is, we don’t know.\n\nThe answer is"
+    },
+    {
+      "id": "3_var6",
+      "input": "How do we know all the money tie government is getting from bank settlements is going back to the people?",
+      "output": "The answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no."
+    },
+    {
+      "id": "3_var7",
+      "input": "How do we know all the mooey the government is getting from bank settlements is going back to the people?",
+      "output": "The answer is, no.\n\nThe government is not going to be able to get any money from the banks.\n\nThe government is not going to be able to get any money from the banks.\n\nThe government is not going to be able to get any money from the banks."
+    },
+    {
+      "id": "3_var8",
+      "input": "How do we know at the money the government is getting from bank settlements is going back to the people?",
+      "output": "The answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no."
+    },
+    {
+      "id": "3_var9",
+      "input": "How do we know all the money the government in getting from bank settlements is going back to the people?",
+      "output": "The answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no."
+    },
+    {
+      "id": "3_var10",
+      "input": "How do we know all the money the government is getting from bank settlements is going bac to the people?",
+      "output": "The answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no.\n\nThe answer is, no."
+    }
+  ],
+  "4": [
+    {
+      "id": "4_orig",
+      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "The answer is that the skin is more sensitive to heat than the skin itself. The skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more"
+    },
+    {
+      "id": "4_var1",
+      "input": "If dark colours absorb more heat, why does light skin burn easier then dark skin?",
+      "output": "The answer is that the skin is more sensitive to heat than the skin itself. The skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more"
+    },
+    {
+      "id": "4_var2",
+      "input": "If dark colours absorb more heat, why dose light skin burn easier than dark skin?",
+      "output": "The answer is that the skin is the most important part of the skin. The skin is the most important part of the body. The skin is the most important part of the body.\n\nThe skin is the most important part of the body. The skin is the most important part of the body."
+    },
+    {
+      "id": "4_var3",
+      "input": "If dark colours absorb more heat, why dose light skin burn easier than dark skin?",
+      "output": "The answer is that the skin is the most important part of the skin. The skin is the most important part of the body. The skin is the most important part of the body.\n\nThe skin is the most important part of the body. The skin is the most important part of the body."
+    },
+    {
+      "id": "4_var4",
+      "input": "Is dark colours absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "The answer is that the skin is more sensitive to heat than the skin itself. The skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more"
+    },
+    {
+      "id": "4_var5",
+      "input": "If dark colours absorb more heat, why does lit skin burn easier than dark skin?",
+      "output": "The answer is that the skin is more sensitive to heat than the skin itself. The skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more"
+    },
+    {
+      "id": "4_var6",
+      "input": "If dark colours absorb more heat, why does light skin burn easier then dark skin?",
+      "output": "The answer is that the skin is more sensitive to heat than the skin itself. The skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more"
+    },
+    {
+      "id": "4_var7",
+      "input": "If drlak colours absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "The reason is that the skin is more sensitive to heat. The skin is more sensitive to heat, and the skin is more sensitive to heat.\n\nThe reason is that the skin is more sensitive to heat, and the skin is more sensitive to heat, and the skin is more sensitive to heat."
+    },
+    {
+      "id": "4_var8",
+      "input": "If dark colours absorb more heat, why dose light skin burn easier than dark skin?",
+      "output": "The answer is that the skin is the most important part of the skin. The skin is the most important part of the body. The skin is the most important part of the body.\n\nThe skin is the most important part of the body. The skin is the most important part of the body."
+    },
+    {
+      "id": "4_var9",
+      "input": "If dark colours absorb more heat, why does light skin burn easyer than dark skin?",
+      "output": "The answer is that the skin is more sensitive to heat than the skin itself. The skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more"
+    },
+    {
+      "id": "4_var10",
+      "input": "If dark colours absorb more heat, why doens light skin burn easier than dark skin?",
+      "output": "The answer is that the skin is more sensitive to heat than the skin itself. The skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more sensitive to heat than the skin itself.\n\nThe skin is more"
+    }
+  ],
+  "5": [
+    {
+      "id": "5_orig",
+      "input": "What are good and bad sides of manual and automatic drive gear?",
+      "output": "I have a manual drive gear that I use for my car. I have a manual drive gear that I use for my car. I have a manual drive gear that I use for my car. I have a manual drive gear that I use for my car. I have a manual drive gear that I use for"
+    },
+    {
+      "id": "5_var1",
+      "input": "What vea good and bad sides of manual and automatic drive gear?",
+      "output": "I have a V-8, and I have a V-8-2. I have a V-8-3, and I have a V-8-4. I have a V-8-5, and I have a V-8-6. I have a V-8-"
+    },
+    {
+      "id": "5_var2",
+      "input": "What are good and bad sides cift manual and automatic drive gear?",
+      "output": "I have a new car and I have a new gearbox. I have a new car and I have a new gearbox. I have a new gearbox and I have a new gearbox. I have a new gearbox and I have a new gearbox. I have a new gearbox and I"
+    },
+    {
+      "id": "5_var3",
+      "input": "What are good and bed sides of manual and automatic drive gear?",
+      "output": "I have a manual drive gear that I have been using for years. I have a manual drive gear that I have been using for years. I have a manual drive gear that I have been using for years. I have a manual drive gear that I have been using for years. I have a manual drive gear"
+    },
+    {
+      "id": "5_var4",
+      "input": "Wha't are good and bad sides of manual and automatic drive gear?",
+      "output": "I'm not sure what you mean by \"manual\" or \"automatic\" but I think it's a good idea to have a manual drive gear.\n\nI'm not sure what you mean by \"manual\" or \"automatic\" but I think it's a good idea to have a manual drive gear."
+    },
+    {
+      "id": "5_var5",
+      "input": "What are good and bad sides of manual and autumatic drive gear?",
+      "output": "I have a manual drive gear that I use for my car. I have a manual drive gear that I use for my car. I have a manual drive gear that I use for my car. I have a manual drive gear that I use for my car. I have a manual drive gear that I use for"
+    },
+    {
+      "id": "5_var6",
+      "input": "What are goad and bad sides of manual and automatic drive gear?",
+      "output": "A:\n\nThe manual is a bit of a mystery.  It's a manual that is designed to be used by a driver to drive a car.  It's not a manual, but it's a manual that is designed to be used by a driver to drive a car.  It's a"
+    },
+    {
+      "id": "5_var7",
+      "input": "What are good and bad sides of manual and automatic driv gear?",
+      "output": "I have a manual gear that I use for my car. I have a manual gear that I use for my car. I have a manual gear that I use for my car. I have a manual gear that I use for my car. I have a manual gear that I use for my car. I have"
+    },
+    {
+      "id": "5_var8",
+      "input": "What are good ane bad sides of manual and automatic drive gear?",
+      "output": "I have a manual drive gear that I use for my car. I have a manual drive gear that I use for my car. I have a manual drive gear that I use for my car. I have a manual drive gear that I use for my car. I have a manual drive gear that I use for"
+    },
+    {
+      "id": "5_var9",
+      "input": "What are good and bed sides of manual and automatic drive gear?",
+      "output": "I have a manual drive gear that I have been using for years. I have a manual drive gear that I have been using for years. I have a manual drive gear that I have been using for years. I have a manual drive gear that I have been using for years. I have a manual drive gear"
+    },
+    {
+      "id": "5_var10",
+      "input": "What are good and bad sides of manuel and automatic drive gear?",
+      "output": "I have a few questions for you.\n\n1. What is the best way to drive a car?\n\n2. What is the best way to drive a car?\n\n3. What is the best way to drive a car?\n\n4. What is the best way to drive a"
+    }
+  ],
+  "6": [
+    {
+      "id": "6_orig",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I’m not sure if I’m going to be able to answer that question, but I’m sure I’m going to be able to answer it.\n\nI’m not sure if I’m going to be able to answer that question, but I’m sure I’m"
+    },
+    {
+      "id": "6_var1",
+      "input": "What is the role of actual real-life actors in making animated characters? Lekt Liam Neeson playing Aslan in Narnia?",
+      "output": "The show is a very interesting and interesting project. It is a very interesting project, and it is a very interesting project. It is a very interesting project, and it is a very interesting project. It is a very interesting project, and it is a very interesting project.\n\nThe show is a very"
+    },
+    {
+      "id": "6_var2",
+      "input": "What as the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "The show is a great example of how the show can be used to make a character that is not necessarily a real person. It is a great example of how the show can be used to make a character that is not necessarily a real person.\n\nThe show is a great example of how the show can"
+    },
+    {
+      "id": "6_var3",
+      "input": "What si the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I’m not sure if I’m going to be able to answer that question, but I’m sure I’m going to be able to answer it.\n\nI’m not sure if I’m going to be able to answer that question, but I’m sure I’m"
+    },
+    {
+      "id": "6_var4",
+      "input": "What si the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I’m not sure if I’m going to be able to answer that question, but I’m sure I’m going to be able to answer it.\n\nI’m not sure if I’m going to be able to answer that question, but I’m sure I’m"
+    },
+    {
+      "id": "6_var5",
+      "input": "What is tjhe role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I think the real-life actors are the ones who are really important to the story. They are the ones who are the most important to the story. They are the ones who are the most important to the story.\n\nI think the real-life actors are the ones who are the most important to"
+    },
+    {
+      "id": "6_var6",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson play-ing Aslan in Narnia?",
+      "output": "I’m not sure if I’m going to be able to answer that question, but I’m sure I’m going to be able to answer it.\n\nI’m not sure if I’m going to be able to answer that question, but I’m sure I’m"
+    },
+    {
+      "id": "6_var7",
+      "input": "What is the role afoh actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I think the real-life actors are the ones who are really good at making the characters. They are the ones who are really good at making the characters.\n\nI think the real-life actors are the ones who are really good at making the characters.\n\nI think the real-life actors"
+    },
+    {
+      "id": "6_var8",
+      "input": "What is the role of actural real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I’m not sure if I’m going to be able to answer that question, but I’m sure I’m going to be able to answer it.\n\nI’m not sure if I’m going to be able to answer that question, but I’m sure I’m"
+    },
+    {
+      "id": "6_var9",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan it Narnia?",
+      "output": "I think it’s a good question. I think it’s a good question. I think it’s a good question. I think it’s a good question. I think it’s a good question. I think it’s a good question. I think it’s a good question"
+    },
+    {
+      "id": "6_var10",
+      "input": "What is the role of actural real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I’m not sure if I’m going to be able to answer that question, but I’m sure I’m going to be able to answer it.\n\nI’m not sure if I’m going to be able to answer that question, but I’m sure I’m"
+    }
+  ],
+  "7": [
+    {
+      "id": "7_orig",
+      "input": "Why are different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
+      "output": "I'm not sure why, but I think it's a good idea to have a \"regular\" price for gas.\n\nI'm not sure why, but I think it's a good idea to have a \"regular\" price for gas.\n\nI'm not sure why, but I think it"
+    },
+    {
+      "id": "7_var1",
+      "input": "Wy are different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
+      "output": "I'm not sure how to answer this question. I'm not sure how to answer this question.\n\nA:\n\nThe answer is that the price of gas is the same as the price of oil.\nThe price of gas is the same as the price of oil.\nThe price of oil"
+    },
+    {
+      "id": "7_var2",
+      "input": "Why are different tiers (regular < mid < premium) of gas' prices almost always 10 cens different?",
+      "output": "A:\n\nThe answer is that the price of gas is not the same as the price of gas.\nThe price of gas is the price of gas.\nThe price of gas is the price of gas.\nThe price of gas is the price of gas.\nThe price of gas is the"
+    },
+    {
+      "id": "7_var3",
+      "input": "Why rer different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
+      "output": "I'm not sure why this is the case.\n\nI'm not sure why this is the case.\n\nI'm not sure why this is the case.\n\nI'm not sure why this is the case.\n\nI'm not sure why this is the case.\n\nI'm"
+    },
+    {
+      "id": "7_var4",
+      "input": "Why ar different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
+      "output": "I'm not sure why this is the case.\n\nI'm not sure why this is the case.\n\nI'm not sure why this is the case.\n\nI'm not sure why this is the case.\n\nI'm not sure why this is the case.\n\nI'm"
+    },
+    {
+      "id": "7_var5",
+      "input": "Why are different tiers (regular < mid < premium) or gas' prices almost always 10 cents different?",
+      "output": "I'm not sure what you mean by \"different tiers\" but I think it's a good idea to look at the price of gas and see if it's a good idea to compare it to the price of gas.\n\nI'm not sure what you mean by \"different tiers\" but I"
+    },
+    {
+      "id": "7_var6",
+      "input": "Why are different tiers (regular < mid < premium) of gas' prices almost alwyas 10 cents different?",
+      "output": "I'm not sure what you mean by \"different tiers\" of gas' prices.\n\nI'm not sure what you mean by \"different tiers\" of gas' prices.\n\nI'm not sure what you mean by \"different tiers\" of gas' prices.\n\nI'm"
+    },
+    {
+      "id": "7_var7",
+      "input": "Wiy are different tiers (regular < mid < premium) of gas' prices almost always 10 cents different?",
+      "output": "I'm not sure how to answer this question. I'm not sure how to answer this question.\n\nA:\n\nThe answer is that the price of gas is not fixed.  The price of gas is fixed.  The price of gas is fixed.  The price of gas is fixed."
+    },
+    {
+      "id": "7_var8",
+      "input": "Why are different tiers (regular < mid < premium) of gas' prices all_most always 10 cents different?",
+      "output": "A:\n\nThe answer is that the price of gas is not the same as the price of gas.\nThe price of gas is the same as the price of gas.\nThe price of gas is the same as the price of gas.\nThe price of gas is the same as the price of"
+    },
+    {
+      "id": "7_var9",
+      "input": "Why are different tiers (regular < mid < premium) cift gas' prices almost always 10 cents different?",
+      "output": "I'm not sure how to answer this question. I'm not sure how to answer this question.\n\nA:\n\nThe answer is that the price of gas is the same as the price of gas.\nThe price of gas is the same as the price of gas.\nThe price of gas"
+    },
+    {
+      "id": "7_var10",
+      "input": "Why are different tiers (regular < mid < premium) of gas' prices almost all_way 10 cents different?",
+      "output": "I'm not sure what you mean by \"different tiers\" of gas' prices.\n\nI'm not sure what you mean by \"different tiers\" of gas' prices.\n\nI'm not sure what you mean by \"different tiers\" of gas' prices.\n\nI'm"
+    }
+  ],
+  "8": [
+    {
+      "id": "8_orig",
+      "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? Doesn't it come from the same place?",
+      "output": "I'm not sure what you mean by \"different.\" I'm not sure what you mean by \"different.\" I'm not sure what you mean by \"different.\" I'm not sure what you mean by \"different.\" I'm not sure what you mean by \"different.\" I'm not sure what you mean"
+    },
+    {
+      "id": "8_var1",
+      "input": "Why does ther water from my kitchen faucet taste different than the water from my bathroom faucet? doesn't it come from the same place?",
+      "output": "I'm not sure what you mean by \"the same place\" but I'm not sure what you mean by \"the same water\" but I'm not sure what you mean by \"the same water\" but I'm not sure what you mean by \"the same water\" but I'm not sure what you"
+    },
+    {
+      "id": "8_var2",
+      "input": "Why does the water from my kitchen faucet taste different than the wather from my bathroom faucet? doesn't it come from the same place?",
+      "output": "I'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer"
+    },
+    {
+      "id": "8_var3",
+      "input": "Why does the water from my kitchen faucet taste differant than the water from my bathroom faucet? doesn't it come from the same place?",
+      "output": "I'm not sure what you mean by \"different\" but I'm not sure what you mean by \"different\" I'm not sure what you mean by \"different\" I'm not sure what you mean by \"different\" I'm not sure what you mean by \"different\" I'm not sure what you"
+    },
+    {
+      "id": "8_var4",
+      "input": "Why does the weter from my kitchen faucet taste different than the water from my bathroom faucet? doesn't it come from the same place?",
+      "output": "I'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer"
+    },
+    {
+      "id": "8_var5",
+      "input": "Why does ther water from my kitchen faucet taste different than the water from my bathroom faucet? doesn't it come from the same place?",
+      "output": "I'm not sure what you mean by \"the same place\" but I'm not sure what you mean by \"the same water\" but I'm not sure what you mean by \"the same water\" but I'm not sure what you mean by \"the same water\" but I'm not sure what you"
+    },
+    {
+      "id": "8_var6",
+      "input": "Why does the water from my kitchen faucet taste differant than the water from my bathroom faucet? doesn't it come from the same place?",
+      "output": "I'm not sure what you mean by \"different\" but I'm not sure what you mean by \"different\" I'm not sure what you mean by \"different\" I'm not sure what you mean by \"different\" I'm not sure what you mean by \"different\" I'm not sure what you"
+    },
+    {
+      "id": "8_var7",
+      "input": "Why does the water from my kitchen faucet taste different than the water forma my bathroom faucet? doesn't it come from the same place?",
+      "output": "I'm not sure what you mean by \"different.\" I'm not sure what you mean by \"different.\" I'm not sure what you mean by \"different.\" I'm not sure what you mean by \"different.\" I'm not sure what you mean by \"different.\" I'm not sure what you mean"
+    },
+    {
+      "id": "8_var8",
+      "input": "Yoy does the water from my kitchen faucet taste different than the water from my bathroom faucet? doesn't it come from the same place?",
+      "output": "I'm not sure what you mean by \"the same place\" but I'm not sure what you mean by \"the same place\" but I'm not sure what you mean by \"the same place\" but I'm not sure what you mean by \"the same place\" but I'm not sure what you"
+    },
+    {
+      "id": "8_var9",
+      "input": "Why does the water from my kitchen faucet taste different than the water form my bathroom faucet? doesn't it come from the same place?",
+      "output": "I'm not sure what you mean by \"water form my bathroom faucet\". I'm not sure what you mean by \"water form my bathroom faucet\".\n\nI'm not sure what you mean by \"water form my bathroom faucet\".\n\nI'm not sure what you mean"
+    },
+    {
+      "id": "8_var10",
+      "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? doesn't it come fro the same place?",
+      "output": "I'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer is.\n\nI'm not sure what the answer"
+    }
+  ],
+  "9": [
+    {
+      "id": "9_orig",
+      "input": "Why is chickenpox worse as an adult?",
+      "output": "I have been told that chickenpox is a disease that is caused by the immune system. I have been told that chickenpox is a disease that is caused by the immune system. I have been told that chickenpox is a disease that is caused by the immune system. I have been told that"
+    },
+    {
+      "id": "9_var1",
+      "input": "Why is chickenpox wosre as an adult?",
+      "output": "I have been told that chickenpox is a disease that is caused by the immune system. I have been told that chickenpox is a disease that is caused by the immune system. I have been told that chickenpox is a disease that is caused by the immune system. I have been told that"
+    },
+    {
+      "id": "9_var2",
+      "input": "Why is chickenpox worse as on adult?",
+      "output": "I have a chickenpox infection that is not a chickenpox infection. I have a chickenpox infection that is not a chickenpox infection. I have a chickenpox infection that is not a chickenpox infection. I have a chickenpox infection that is not a chickenpox"
+    },
+    {
+      "id": "9_var3",
+      "input": "Why us chickenpox worse as an adult?",
+      "output": "I’m not saying that we should be afraid of chickenpox. I’m just saying that we should be afraid of chickenpox.\n\nI’m not saying that we should be afraid of chickenpox. I’m just saying that we should be afraid of chickenpox."
+    },
+    {
+      "id": "9_var4",
+      "input": "Why is chickenpox worse as on adult?",
+      "output": "I have a chickenpox infection that is not a chickenpox infection. I have a chickenpox infection that is not a chickenpox infection. I have a chickenpox infection that is not a chickenpox infection. I have a chickenpox infection that is not a chickenpox"
+    },
+    {
+      "id": "9_var5",
+      "input": "Why his chickenpox worse as an adult?",
+      "output": "I have a chickenpox that is a very bad chickenpox. I have a chickenpox that is a very bad chickenpox. I have a chickenpox that is a very bad chickenpox. I have a chickenpox that is a very bad chickenpox. I have"
+    },
+    {
+      "id": "9_var6",
+      "input": "Why is chickenpox wors as an adult?",
+      "output": "I have been diagnosed with chickenpox for a few years now. I have been diagnosed with chickenpox for a few years now. I have been diagnosed with chickenpox for a few years now. I have been diagnosed with chickenpox for a few years now. I have been diagnosed with chicken"
+    },
+    {
+      "id": "9_var7",
+      "input": "Why is chickenpox worse as and adult?",
+      "output": "I have a chickenpox infection that is caused by a virus that is not a virus. I have a chickenpox infection that is caused by a virus that is not a virus. I have a chickenpox infection that is caused by a virus that is not a virus. I have a chickenp"
+    },
+    {
+      "id": "9_var8",
+      "input": "Why is chickenpox worse as un adult?",
+      "output": "I have a chickenpox infection that is caused by a virus that is not a virus. I have a chickenpox infection that is caused by a virus that is not a virus. I have a chickenpox infection that is caused by a virus that is not a virus. I have a chickenp"
+    },
+    {
+      "id": "9_var9",
+      "input": "Why is chickenpox worse his an adult?",
+      "output": "I'm not saying that chickenpox is worse than the other diseases, but I'm saying that it's worse than the other diseases.\n\nI'm not saying that chickenpox is worse than the other diseases, but I'm saying that it's worse than the other diseases.\n\nI'm"
+    },
+    {
+      "id": "9_var10",
+      "input": "Why it chickenpox worse as an adult?",
+      "output": "I have a friend who is a chickenpox patient. She is a chickenpox patient who has been diagnosed with chickenpox. She is a chickenpox patient who has been diagnosed with chickenpox. She is a chickenpox patient who has been diagnosed with chickenpox. She is"
+    }
+  ]
+}

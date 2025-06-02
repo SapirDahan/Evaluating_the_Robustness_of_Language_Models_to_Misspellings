@@ -52,7 +52,8 @@ for model_dir in tqdm(model_dirs, desc="🔍 Evaluating models"):
         similarities = []
         for outputs in answer_lists:
             embeddings = model.encode(outputs, convert_to_tensor=True, device=DEVICE)
-            sim_matrix = util.cos_sim(embeddings, embeddings) * 100
+            # Shift cosine similarity from [-1, 1] to [0, 100]
+            sim_matrix = (util.cos_sim(embeddings, embeddings) + 1) * 50
 
             for i, j in combinations(range(len(outputs)), 2):
                 similarities.append(round(sim_matrix[i][j].item(), 2))

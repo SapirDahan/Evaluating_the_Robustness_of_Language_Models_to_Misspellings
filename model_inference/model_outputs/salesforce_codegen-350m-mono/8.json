@@ -1,402 +1,2055 @@
 {
   "model_size": 350000000,
-  "0": [
-    {
-      "id": "0_orig",
-      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var1",
-      "input": "Con defence attorneys 'throw' and case is thy knowe these clients anr guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var2",
-      "input": "Came defence attorneys 'throw' ah cace it they kown thrir clients rea guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var3",
-      "input": "Came defence attorneys 'throw' ah cace is they naw ther clients ra guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var4",
-      "input": "Came defence attournies 'throw' an case is thror ha these clients are guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var5",
-      "input": "Came defence atterinies 'throw' a cace is they naw thire clients rea guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var6",
-      "input": "Came defence atternys 'throw' are case if thrar knowe they clients run guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var7",
-      "input": "Cane defence attournys 'throw' a cace it thaire nowe their clients run guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var8",
-      "input": "Con defense attourny 'throw' i case it thar on thire clients rir guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var9",
-      "input": "Con defense attorniies 'throw' are cace it the nkwo thire clients are guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var10",
-      "input": "Cane defence atturney- 'throw' as cace is they kwno their clients arre guilty?",
-      "output": "PLACEHOLDER"
-    }
-  ],
   "1": [
     {
       "id": "1_orig",
-      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
+      "output": "# If they are, they are not considered guilty.\n        # If they are not, they are considered guilty.\n        # If they are"
     },
     {
       "id": "1_var1",
-      "input": "Haw do movies hot cet uploaded online i HD form movie theather emplaryes be_for their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Came defence attorneys 'throw' are cace if theire nkwo thier clients rea guilty?",
+      "output": "# if nkwo.is_came_defence_attorney_rea_guilty:\n        #     print('C"
     },
     {
       "id": "1_var2",
-      "input": "Hou dou movies hot ge uploaded online with HD form movie theater employese before there DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Cane defence attorneys 'throw' as cace is they knowe thrir clients or guilty?",
+      "output": "#   -  The cace is not a threat to the cace's defence, but is a threat to the cace's defence"
     },
     {
       "id": "1_var3",
-      "input": "Hou do movies nol get uploaded online in HD fraom movei theather employes bef_for they DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Con defence aturning 'throw' a cace it thea noi their clients anr guilty?",
+      "output": "#   - The client is not a client, but a client who is not a client.\n        #   - The client is not a client"
     },
     {
       "id": "1_var4",
-      "input": "Haw do movies onot gat uploaded online i HD from movei theather employ berfore their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Can defence attornies 'throw' and cace it thaire knwo their clients arte guilty?",
+      "output": "#\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #"
     },
     {
       "id": "1_var5",
-      "input": "Haw do movies non get uploaded online with HD torme movie theather employes berofe thier DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Con defence attourney's 'throw' a cace is thaire knwo theer clients are guilty?",
+      "output": "#     if self.att_throw == True:\n        #         self.att_throw = False\n        #         self.att_"
     },
     {
       "id": "1_var6",
-      "input": "How to movies not cet uploaded online im HD forme movei theater emploies berfore they DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Con defence atournys 'throw' and cace if thy knwo their clients arte guilty?",
+      "output": "#\n        #   -  The client is not a client of the party, and the party is not a party of the client."
     },
     {
       "id": "1_var7",
-      "input": "Hou to movies no ge uploaded online in HD from movei theather employees b_for the DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Con defence attourneys 'throw' a case is thea kown there clients aer guilty?",
+      "output": "#   - The case is the ae the ae the ae the ae the ae the ae the ae the ae"
     },
     {
       "id": "1_var8",
-      "input": "Hou bow movies not gett uploaded online in HD ofomt movei theather imployees before these DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Came defense aturnyes 'throw' ah case is there knowe thrir clients ar guilty?",
+      "output": "# if the client is not in the list of clients, it is not in the list of clients\n        if client_id not in clients:"
     },
     {
       "id": "1_var9",
-      "input": "Haw dou movies ont git uploaded online in HD fome movei theater employees befrou thrir DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Came defense aturneys 'throw' as cace is thror knowe their clients aree guilty?",
+      "output": "# if cace is not a cace, then the client is not a cace\n        if cace not in cace_list:"
     },
     {
       "id": "1_var10",
-      "input": "Hou do movies ont get uploaded online i HD from movei theather inployee pefore they DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Came defence atorneys 'throw' an cace if they kwno thire clients thet guilty?",
+      "output": "#     if self.came_defence_at_least_one_client_thrown_cace:\n        #"
     }
   ],
   "3": [
     {
       "id": "3_orig",
-      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
-      "output": "PLACEHOLDER"
+      "input": "How do devices know the amount of charge left in a battery?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "3_var1",
-      "input": "Hou bow we knwo all the munny i government as geting from bank settlements is going bakc to the people?",
-      "output": "PLACEHOLDER"
+      "input": "How don def kino th amout of charge leavet if an battery?",
+      "output": "# def kino(x,y):\n#     if x>=0 and x<=10 and y>=0 and y<"
     },
     {
       "id": "3_var2",
-      "input": "Hou du we noi at tehe money thi government is getting from bank settlements is gomeing daxck to the people?",
-      "output": "PLACEHOLDER"
+      "input": "How du def know my amout for charge lifet im the battery?",
+      "output": "# I'm not sure if this is the right way to do this.\n        # I'm not sure if this is the right way to do"
     },
     {
       "id": "3_var3",
-      "input": "Haw do were know all thee munny the gobernement is getting fomr bank settlements is going bek the the people?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do def nkwo teh ammount fo charge life in as battery?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "3_var4",
-      "input": "Hou to were know at t money tu government si gitting from bank settlements is going back to the people?",
-      "output": "PLACEHOLDER"
+      "input": "Haw bo def now tie amomt of charge leaft in the battery?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "3_var5",
-      "input": "How drow you on all the money the government is getting torme bank settlements us goning bach to tghe people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou go def kno the amomt ove charge lite if a battery?",
+      "output": "if self.battery_level > 0:\n            self.battery_level -= 1\n            self.battery_status = \""
     },
     {
       "id": "3_var6",
-      "input": "Hou du were know all the money the government is getting from bank settlements it gomeing dak too hte people?",
-      "output": "PLACEHOLDER"
+      "input": "How dowe def mo tehe ammount with charge left im as battery?",
+      "output": "# def charge_left(battery):\n#     print(f\"{battery} is charging left\")\n#     return battery"
     },
     {
       "id": "3_var7",
-      "input": "How do we know all thee moeny to govorment us getting from bank settlements it going fut to to people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou bood def nkwo tehe amont ovot charge left with a battery?",
+      "output": "# def nkwo(a,b):\n#     print(a+b)\n# nkwo(2,3)"
     },
     {
       "id": "3_var8",
-      "input": "Haw dowe were know all thee moeny the government is getting fome bank settlements as goign back to the people?",
-      "output": "PLACEHOLDER"
+      "input": "How dooe def kwno these amomt af charge lift in i battery?",
+      "output": "# def kwno(x):\n#     return x*x\n# print(kwno(5))\n\n# def k"
     },
     {
       "id": "3_var9",
-      "input": "How do were know all tje money they government si gitting from bank settlements is gowing lact to thw people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou dou def on i amount off charge leat in an battery?",
+      "output": "# In[ ]:\n\n\n# def on_charge(self, charging_charge):\n#     print(\"Charge is on\")\n#"
     },
     {
       "id": "3_var10",
-      "input": "How bow we noi a an moeny the government as getting from bank settlements is go dark to the people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou doe def nkwo tie amont with charge leaved in a battery?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     }
   ],
   "4": [
     {
       "id": "4_orig",
-      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var1",
-      "input": "If back calers absorb more heat, way doens light scin burn easer that drck skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw doe movies nol get uploaded online in HD forme movei theather employees for ther DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var2",
-      "input": "If duc colours absorb mort heat, why dose ight scin burn easyer tahn duc skin?",
-      "output": "PLACEHOLDER"
+      "input": "How olethl movies out go uploaded online in HD fom movei theater emploes befro theri DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var3",
-      "input": "It dake calers absorb mooe heat, why does lite scin burn eassier than ding skin?",
-      "output": "PLACEHOLDER"
+      "input": "How dooe movies nat geat uploaded online is HD from movei theater imployes befoure theer DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var4",
-      "input": "If duc calers absorb mroe heat, way does light skin birn easyer thna dank skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw dou movies non go uploaded online it HD from movei theather employees before these DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var5",
-      "input": "If ding calers absorb more heat, why doens ight skin brun easery thna dia skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do movies knot ge uploaded online is HD fraom movei theater employers befoer their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var6",
-      "input": "If dark colours absorb moor heat, way dose lite scin burn eassier thna down skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou bow movies not geat uploaded online with HD from movei theather employee b_for their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var7",
-      "input": "Is dark calers absorb moor heat, wy dose ight skin birn easier than dir skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do movies on git uploaded online in HD for movei theather employees be_for thrir DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var8",
-      "input": "Is dark calers absorb more heat, wiy does lite skin birn easy that dining skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw dom movies hot get uploaded online it HD from movei theater employmes bef_for they DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var9",
-      "input": "It darw calers absorb more heat, wiy does ight skin brun easer tahn dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou dow movies knot get uploaded online with HD forma movei theather employees berfore their DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "4_var10",
-      "input": "It down calers absorb omre heat, wiy does light scin burn ease than dare skin?",
-      "output": "PLACEHOLDER"
-    }
-  ],
-  "5": [
-    {
-      "id": "5_orig",
-      "input": "What are good and bad sides of manual and automatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var1",
-      "input": "Whaaat ah god a bed sides fo manual an automatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var2",
-      "input": "Whats are goad an bed sides ovot manual hand autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var3",
-      "input": "Waht ah good ane bed sides on manuel ane automatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var4",
-      "input": "Wath rae good an bed sides af manuel and autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var5",
-      "input": "Whot arte good anbd bad sides ov manuel hand autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var6",
-      "input": "What are go aud bed sides ov manuel aand autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var7",
-      "input": "Want ah good aand bed sides fo manuel anbd autumatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var8",
-      "input": "Who rae gowed and bad sides ove manuel aud autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var9",
-      "input": "Whats r go anf bed sides av manual an automatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var10",
-      "input": "Waht er goad i bad sides onet manuel and autumatic driv gear?",
-      "output": "PLACEHOLDER"
+      "input": "How dowe movies out go uploaded online is HD came movie theater employeies pefor thier DVD release?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     }
   ],
   "6": [
     {
       "id": "6_orig",
-      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "6_var1",
-      "input": "Whia si thoy role gf actual real-life actors if macking animated characters? Like Liam Neeson plaing Aslan if Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do we ha a the munny i government is getting from bank settlements is gomeing brack to thi people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "6_var2",
-      "input": "What si ther role off actuall real-life actors im amking animated characters? Liek Liam Neeson palving Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "Hou do weed no all the money thoy govement is getting from bank settlements is gogin beac to tghe people?",
+      "output": "# In[ ]:\n\n\n#1.\n#2.\n#3.\n#4.\n#5.\n#6."
     },
     {
       "id": "6_var3",
-      "input": "Wot us the role on actural real-life actors it makeing animated characters? Lekt Liam Neeson play Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "Hou drow we know all tjhe money tu gurmut is gitting from bank settlements is going daxck the the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "6_var4",
-      "input": "Waht si the role ovoe actural real-life actors is making animated characters? Took Liam Neeson plaing Aslan is Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How doe you know all the moeny he government is get foint bank settlements is oging back to tehe people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "6_var5",
-      "input": "Whot in a role ovot actuall real-life actors in making animated characters? Lekt Liam Neeson play Aslan im Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we konw at thee mooey the government is get from bank settlements is going dack two th people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "6_var6",
-      "input": "Woot is the role afoh actural real-life actors is macking animated characters? Lekt Liam Neeson palving Aslan if Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do wey kino all the money ge governemt is getting foint bank settlements is gying back too tghe people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "6_var7",
-      "input": "Whaaat us tjhe role ov actural real-life actors i mkaing animated characters? Like Liam Neeson playing Aslan it Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know all an mony a covenment is getting fere bank settlements it oging back to tjhe people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "6_var8",
-      "input": "Wate is thoy role ov actual real-life actors i makeing animated characters? Lekt Liam Neeson plaing Aslan is Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How doe we konw all thoy money the government as getting foint bank settlements is gonig bek th the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "6_var9",
-      "input": "Whaaat si thee role or actural real-life actors in making animated characters? Liek Liam Neeson plaing Aslan im Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do when kno a the money the government si get from bank settlements it going bakh tow the people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
       "id": "6_var10",
-      "input": "Woht us tie role on actual real-life actors in mkaing animated characters? Took Liam Neeson palving Aslan with Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do were ha all the mony hte govorment is getting fomr bank settlements is going blart to these people?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     }
   ],
-  "8": [
+  "7": [
     {
-      "id": "8_orig",
+      "id": "7_orig",
+      "input": "How does a water purifier jug work and could you put 3rd world ditch water through one and drink safely?",
+      "output": "# The water purifier jug works and could you put 3rd world ditch water through one and drink safely?\n\n# The water purifier jug"
+    },
+    {
+      "id": "7_var1",
+      "input": "Haw dose the water purifier jug work and coudl you put 3rd word dich wather thruogth one and drink safely?",
+      "output": "# In[ ]:\n\n\n#Question 1\n#Write a program to print the following pattern.\n\n# *\n# **\n#"
+    },
+    {
+      "id": "7_var2",
+      "input": "How dus a water purifier jug owrk and sould na put 3rd wold dich wather through one and drik safely?",
+      "output": "# In[ ]:\n\n\n#dus a water purifier jug owrk and sould na put 3rd wold dich wather"
+    },
+    {
+      "id": "7_var3",
+      "input": "How does a water purifier jug warck an could uoy put 3rd world dicth watter threw ont and drik safely?",
+      "output": "# In[ ]:\n\n\n#Question 1\n#Write a program that asks the user to enter a number between 1 and 10.\n#"
+    },
+    {
+      "id": "7_var4",
+      "input": "How dose are water purifier jug work so could yow pot 3rd world ditch water thruogth one hand drik safely?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "7_var5",
+      "input": "Hou does i weter purifier jug work and sould yew but 3rd world ditch water rowit and and drink safely?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "7_var6",
+      "input": "How does a wather purifier jug owrk and coud yoy put 3rd word dicth wather threw one and drink safely?",
+      "output": "# In[ ]:\n\n\n# def wather_purifier(word):\n#     if word == \"wather\":\n#"
+    },
+    {
+      "id": "7_var7",
+      "input": "How dose ah water purifier jug work and could yoy put 3rd wold dicth water through and are direnk safely?",
+      "output": "# In[ ]:\n\n\n#1.\n#2.\n#3.\n#4.\n#5.\n#6."
+    },
+    {
+      "id": "7_var8",
+      "input": "Hou doens a wather purifier jug work anf could you put 3rd wholed ditch water tho wun aand drink safely?",
+      "output": "# In[ ]:\n\n\n#!/bin/python3\n\nimport math\nimport os\nimport random\nimport re\nimport sys"
+    },
+    {
+      "id": "7_var9",
+      "input": "How does the wather purifier jug work and could yau put 3rd word dicth watter throut one hand drink safely?",
+      "output": "# In[ ]:\n\n\n# def wather_purifier(word):\n#     if word == \"p\":\n#         return"
+    },
+    {
+      "id": "7_var10",
+      "input": "Hou dose and water purifier jug work and could you put 3rd world dicth water thru noone than drik safely?",
+      "output": "# In[ ]:\n\n\n# import the necessary packages\nfrom imutils.video import VideoStream\nfrom imutils.video import FPS"
+    }
+  ],
+  "10": [
+    {
+      "id": "10_orig",
+      "input": "If a movie production has $5,000,000 (estimated) Budget, must some of that money go to the actors? or only movie's production quality?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "10_var1",
+      "input": "If are movie productions hos $5,000,000 (estimated) Budget, must some fo the mooey fo to the actors? al only movie's production quality?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "10_var2",
+      "input": "If a movei productions has $5,000,000 (estimated) Budget, mush somes af that money go tow teh actors? or ony movie's production quality?",
+      "output": "or ony movie's production quality? or ony movie's production quality? or ony movie's production quality? or ony movie's production quality?"
+    },
+    {
+      "id": "10_var3",
+      "input": "If a movie productions his $5,000,000 (estimated) Budget, must some of vat munny go qu the actors? all onle movie's productions quality?",
+      "output": "#\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #"
+    },
+    {
+      "id": "10_var4",
+      "input": "Is are movie production has $5,000,000 (estimated) Budget, mats some cift dat money come two the actors? or only movie's productions quality?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "10_var5",
+      "input": "It a movei productions has $5,000,000 (estimated) Budget, must so of tyhat money gu to tje actors? or only movie's productions quality?",
+      "output": "#\n    #     # TODO:\n    #     # 1. How to calculate the budget of a movie?\n    #     #"
+    },
+    {
+      "id": "10_var6",
+      "input": "It a movei production as $5,000,000 (estimated) Budget, must some ove tat moeny got to the actors? ore only movie's production quality?",
+      "output": "#\n    #     # TODO:\n    #     #   - add a budget for the movie\n    #     #   - add"
+    },
+    {
+      "id": "10_var7",
+      "input": "If a movei production has $5,000,000 (estimated) Budget, must soem for that mooey gowe to the actors? ore onlt movie's productions quality?",
+      "output": "# if budget >= 50000:\n        #     print(\"budget is too high\")\n        #     return False\n        # else:"
+    },
+    {
+      "id": "10_var8",
+      "input": "It a movie production has $5,000,000 (estimated) Budget, mush smoe oaf thgat money fo to t actors? of only movie's production quality?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "10_var9",
+      "input": "Is a movei production has $5,000,000 (estimated) Budget, mote smoe onet net moeny do to the actors? or only movie's production quality?",
+      "output": "#   - The movie's production quality is the average of the movie's production quality and the movie's production quality.\n    #   - The"
+    },
+    {
+      "id": "10_var10",
+      "input": "If and movei production has $5,000,000 (estimated) Budget, must smoe gf taht money gowe to the actors? or lonly movie's productions quality?",
+      "output": "#\n    #     # if the movie has a production budget of $5,000,000, must smoe gf taht money"
+    }
+  ],
+  "11": [
+    {
+      "id": "11_orig",
+      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "11_var1",
+      "input": "If dark calers absorb omre heat, wiy does ight scin birn easy tahn dark skin?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "11_var2",
+      "input": "If dark calers absorb more heat, wy dose lite scin brun easery than drak skin?",
+      "output": "#     if (\n    #         (\n    #             (\n    #                 (\n    #                     (\n    #                         ("
+    },
+    {
+      "id": "11_var3",
+      "input": "If darrk calers absorb omre heat, why does lite skin birn easery then dake skin?",
+      "output": "#    #    #    #    #    #    #    #    #    #    #    #    #    #    #"
+    },
+    {
+      "id": "11_var4",
+      "input": "Is dark colours absorb moor heat, wiy dose light scin brun ease than ducr skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "11_var5",
+      "input": "Is dark calers absorb mor heat, wiy does light scin brun easier that duc skin?",
+      "output": "#     if self.is_dark:\n        #         self.is_dark = False\n        #         self.is_dark_"
+    },
+    {
+      "id": "11_var6",
+      "input": "It dark calers absorb moor heat, wiy dus light scin burn ease thna dark skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "11_var7",
+      "input": "If dia calers absorb moor heat, why dus ight skin birn easier then drlak skin?",
+      "output": "#%%\n\n#%%\n\n#%%\n\n#%%\n\n#%%\n\n#%%\n\n#%%\n\n#%%"
+    },
+    {
+      "id": "11_var8",
+      "input": "If dard calers absorb omre heat, wiy does lit scin burn eassier than back skin?",
+      "output": "#    if dard.dard_cal_type == \"dard_cal_type_dard_cal_type_dard"
+    },
+    {
+      "id": "11_var9",
+      "input": "It dark calers absorb more heat, way does lit skin brun easer then dining skin?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "11_var10",
+      "input": "It drk colours absorb mort heat, why dose light scin birn easier thna darck skin?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "12": [
+    {
+      "id": "12_orig",
+      "input": "If the inside of my microwave is made of metal, why is it bad to put metallic objects in it?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "12_var1",
+      "input": "If an in_sis from my microwave it mame of metal, why is she bad to pull metalic objects in it?",
+      "output": "# I'm not sure if this is the right way to do it, but it works.\n        # I'm not sure if this is the"
+    },
+    {
+      "id": "12_var2",
+      "input": "It the inside of me microwave is mad fo metal, wiy it et bad ro put metallic objects in it?",
+      "output": "#   - I'm not sure if I can do this with the idea of the inner workings of the code, but I think it's a bit"
+    },
+    {
+      "id": "12_var3",
+      "input": "Is the inside of my microwave si made of metal, wy in she bed tow put metallic objects if it?",
+      "output": "#   - I have a lot of metal in my microwave, and I have a lot of wy in my microwave.\n    #   -"
+    },
+    {
+      "id": "12_var4",
+      "input": "If these in_sis of yoy microwave is made of metal, why is it bad two pht metalic objectsion if it?",
+      "output": "#\n    #    #   #   #   #   #   #   #   #   #   #   #   #   #"
+    },
+    {
+      "id": "12_var5",
+      "input": "It teh insid of my microwave si made off metal, why is it bed to pht metallic objects im it?",
+      "output": "# I have to make a list of all the objects in the microwave, and then I will find the ones that are in the microwave."
+    },
+    {
+      "id": "12_var6",
+      "input": "If ge inside of ne microwave his mayd of metal, wiy is it bed ot put metallic objectsion in it?",
+      "output": "# if ge inside of ne microwave his mayd of metal, wiy is it bed ot put metallic objectsion in it?\n        # if"
+    },
+    {
+      "id": "12_var7",
+      "input": "It the inside of ma microwave in made off metal, yoy as it bad to pht metalic objects in it?",
+      "output": "#\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #"
+    },
+    {
+      "id": "12_var8",
+      "input": "It the inside op me microwave is mame for metal, why is it bad to put metalic ojects with it?",
+      "output": "#     if self.is_metal:\n        #         self.is_metal = False\n        #         self.is_metal_"
+    },
+    {
+      "id": "12_var9",
+      "input": "If the inside of mi microwave as maid gf metal, why is it bed to pot metalic objectsion in it?",
+      "output": "#\n    #     #   - The inside of mi microwave as maid gf metal, why is it bed to pot metalic objectsion in"
+    },
+    {
+      "id": "12_var10",
+      "input": "If to insid or mi microwave is mayd of metal, why is et bad to pot metalic objects in it?",
+      "output": "#\n    #   - If you are not a microwave, you can't be a microwave.\n    #   - If you are"
+    }
+  ],
+  "13": [
+    {
+      "id": "13_orig",
+      "input": "If the ozone layer is made up of O3, why are we not producing some of it ourselves and pumping more of them into the atmosphere to fix the problem faster?",
+      "output": "#\n# In this case, we want to use the same O3 layer as the ozone layer.\n#\n# In this case, we want"
+    },
+    {
+      "id": "13_var1",
+      "input": "If tghe ozone layer is mayd up av O3, why are were mot producing sum of it ourselves and pumping more of them into th atmosphere to fix that problem faster?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "13_var2",
+      "input": "If the ozone lloyer is mame up av O3, why are we not producing some of it ourselfs i pumping mroe of them in_to the atmosphere to fix tjhe problem faster?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "13_var3",
+      "input": "If the ozone lloyer is made up of O3, why are we not prodi soem othe it ourselves and pumping mroe of them inot they atmosphere to fix the pobben faster?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "13_var4",
+      "input": "If the ozone layer in made up of O3, why are we mot prodi soem of it ourselves are pumping mooe cift theme into the atmosphere to fix the problem faster?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "13_var5",
+      "input": "If ge ozone layer is made up with O3, yoy are wee not producing some of it and_selve hand pumping more of them into the atmospher to fix tie problem faster?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "13_var6",
+      "input": "If the ozone layer it made up of O3, why are wen not prodi same fo it ourselves and pumping mort of them into the atmosphere ot fix thee problem faster?",
+      "output": "# In[ ]:\n\n\n# O3 layer\n# O3 layer\n# O3 layer\n# O3 layer\n# O3"
+    },
+    {
+      "id": "13_var7",
+      "input": "It thge ozone layer is made up of O3, why are we knot producing so of it our_selves and pumping more of them in the atmospher ro fix the problem faster?",
+      "output": "# In[ ]:\n\n\n# O3 layer\n# O3 layer is made up of O3, why are we knot producing so of"
+    },
+    {
+      "id": "13_var8",
+      "input": "Is tje ozone layer is mame up of O3, yoy are we out producing some of it ourselves ane pumping omre of them into the atmosphere to fix the woret faster?",
+      "output": "# In[ ]:\n\n\n#we can see that the ozone layer is mame up of O3, yoy are we out producing some"
+    },
+    {
+      "id": "13_var9",
+      "input": "If the ozone layer is mad up of O3, why thet we ont prodi some of it our_selves and pumping mor of them inot the atmosfere to fix the problem faster?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "13_var10",
+      "input": "If the ozone layer is made up with O3, wiy are were not prodi some of i ourselves and pumping more of the in_too the atmosphere to fix the proply faster?",
+      "output": "# if the ozone layer is made up with O3, wiy are were not prodi some of i ourselves and pumping more of the in_"
+    }
+  ],
+  "14": [
+    {
+      "id": "14_orig",
+      "input": "If you put tires on your car that are larger than the ones from the factory, would you actually be going slower than the reading on your speedometer?",
+      "output": "# In[ ]:\n\n\n# Write a function that takes a list of numbers and returns the smallest number.\n#\n# For example,"
+    },
+    {
+      "id": "14_var1",
+      "input": "It yow put tires on your car that are larger than to one's from the factory, would yew acarly be going slower than the reding onn your speedometer?",
+      "output": "# In[ ]:\n\n\n#Write a function that takes a number as an input and returns True if the number is a perfect square, otherwise"
+    },
+    {
+      "id": "14_var2",
+      "input": "It yuo pht tires on yowr car that are larger than th ones from the factory, would yo actually we going slower than tghe reading on your speedometer?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "14_var3",
+      "input": "If yew put tires on your car that our lager than ther one from teh factory, would you actually be going slower than thi reading on yere speedometer?",
+      "output": "# In[ ]:\n\n\n#Write a function called is_leap_year that takes a year as an argument and returns True if the"
+    },
+    {
+      "id": "14_var4",
+      "input": "Is you put tires on your car that are large than the wones forom the factory, woud na actually me going slower than the reading on yor speedometer?",
+      "output": "# In[ ]:\n\n\n#Write a function named is_bigger_than_that that takes a number as an argument and returns True"
+    },
+    {
+      "id": "14_var5",
+      "input": "If you put tires on yor car that rau larger than t ones ofomt the factory, would yew actually linge going slower then ge reading on your speedometer?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "14_var6",
+      "input": "If uoy put tires on yowr cor that are larger than the ones fomr thge factory, would w actually be going slower than the rienind on yer speedometer?",
+      "output": "# In[ ]:\n\n\n#print(uoy_cor)\n#print(uoy_cor_fomr)\n#"
+    },
+    {
+      "id": "14_var7",
+      "input": "If you pull tires on young car vat are larger than the ones from the factory, wouls you actually be gying slower that thoy reding on your speedometer?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "14_var8",
+      "input": "If you but tires on you car that are large than the ones fere these factory, would you actually linge going slower than the reding on yore speedometer?",
+      "output": "# In[ ]:\n\n\n# This is a test case\n# print(f\"{a} {b}\")\n\n\n# In"
+    },
+    {
+      "id": "14_var9",
+      "input": "If yuo put tires on ure care that and larger than the ones from a factory, would you actually be gogin slower then the reding on your speedometer?",
+      "output": "# In[ ]:\n\n\n# import libraries\nimport numpy as np\nimport pandas as pd\nimport matplotlib.py"
+    },
+    {
+      "id": "14_var10",
+      "input": "It yuo put tires on your car that are larger than my ones frm tghe factory, would you accle be going slower than thi reading and your speedometer?",
+      "output": "# In[ ]:\n\n\n#Write your code below this line 👇\n\n#Write your code here\n\n#Write your code here"
+    }
+  ],
+  "15": [
+    {
+      "id": "15_orig",
+      "input": "Is it possible to build up an immunity to poisons both naturally occurring and man-made?",
+      "output": "# If so, we can use the same mechanism as the other ones.\n        #\n        # If we have a new immunity, we can"
+    },
+    {
+      "id": "15_var1",
+      "input": "Us hit possibly to bild up am immunity too poisons buth naturally occuring and man-made?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "15_var2",
+      "input": "As i possible ot bellar up a immunity ot poisons both naturually occurring a man-made?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "15_var3",
+      "input": "In is pissible to bild up and immunity qu poisons buth naturally occurring aud man-made?",
+      "output": "# I'm not sure if this is a good idea, but it's a good thing to have a good idea.\n        # I'm not"
+    },
+    {
+      "id": "15_var4",
+      "input": "In hit possibly to build up an immunity tow poisons buth naturually occuring are man-made?",
+      "output": "#   - The man-made virus is a virus that is not a virus that is not a virus that is not a virus that is not a"
+    },
+    {
+      "id": "15_var5",
+      "input": "Is et possible ot bild up un immunity of poisons buth natually occuring and man-made?",
+      "output": "#\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #"
+    },
+    {
+      "id": "15_var6",
+      "input": "As il possibly of bild up an immunity ro poisons bothe naturaly occurring and man-made?",
+      "output": "#\n        # The reason for this is that the bot is not able to be recovered from the infection,\n        # and the infection is not"
+    },
+    {
+      "id": "15_var7",
+      "input": "As i pissible tow bellar up un immunity the poisons both naturally occuring and man-made?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "15_var8",
+      "input": "As hit posible to build up and immunity of poisons buth naturely occurring anbd man-made?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "15_var9",
+      "input": "His its possible to biuld up an immunity too poisons buth naturaly occuring hand man-made?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "15_var10",
+      "input": "Us it pissible ro buld up and immunity to poisons buth naturually occuring and man-made?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "16": [
+    {
+      "id": "16_orig",
+      "input": "What are good and bad sides of manual and automatic drive gear?",
+      "output": "\\n\\n'\n        '\\n'\n        'The following are the types of drive gear that are available:\\n\\n'"
+    },
+    {
+      "id": "16_var1",
+      "input": "Wich run good are bed sides cift manual an autumatic driv gear?",
+      "output": "#    #    #    #    #    #    #    #    #    #    #    #    #    #    #"
+    },
+    {
+      "id": "16_var2",
+      "input": "Whot arte god ane bad sides ove manual anf autumatic driv gear?",
+      "output": "#\n    #     #\n    #     #\n    #     #\n    #     #\n    #     #\n    #"
+    },
+    {
+      "id": "16_var3",
+      "input": "Want aer good anbd bed sides onet manuel and autumatic driv gear?",
+      "output": "# In[ ]:\n\n\n#importing libraries\nimport numpy as np\nimport pandas as pd\nimport matplotlib."
+    },
+    {
+      "id": "16_var4",
+      "input": "Woht oar gowed a bed sides of manual are autumatic driv gear?",
+      "output": "# In[ ]:\n\n\n#%%\n\n# In[ ]:\n\n\n#%%\n\n# In[ ]:\n\n\n#"
+    },
+    {
+      "id": "16_var5",
+      "input": "Wete arre go and bed sides ofr manuel and autumatic driv gear?",
+      "output": "# In[ ]:\n\n\n#importing libraries\nimport numpy as np\nimport pandas as pd\nimport matplotlib."
+    },
+    {
+      "id": "16_var6",
+      "input": "Weot are god i bad sides af manuel a autumatic driv gear?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "16_var7",
+      "input": "Wete are god anf bed sides ofr manuel anf automatic driv gear?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "16_var8",
+      "input": "Whaaat aer gowed i bed sides fo manual and autumatic driv gear?",
+      "output": "# In[ ]:\n\n\n#importing libraries\nimport numpy as np\nimport pandas as pd\nimport matplotlib."
+    },
+    {
+      "id": "16_var9",
+      "input": "What ra god aud bed sides on manuel hand automatic driv gear?",
+      "output": "#   - The manuel hand is a hand that is not a part of the gear.\n        #   - The manuel hand is a"
+    },
+    {
+      "id": "16_var10",
+      "input": "Wot rir god hand bad sides of manuel aand autumatic driv gear?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "17": [
+    {
+      "id": "17_orig",
+      "input": "What classifies an island as an island? Aren't all continents etc essentially large islands?",
+      "output": "#   - Is there a way to represent a continent?\n        #   - Is there a way to represent a continent?\n        #"
+    },
+    {
+      "id": "17_var1",
+      "input": "Weot classifies un iland aas am island? arn't all continents ect essentially lege islands?",
+      "output": "#   - I'm not sure if this is the right way to do this, but it's the easiest way to do it\n    #"
+    },
+    {
+      "id": "17_var2",
+      "input": "Wha't classifies and island aas and island? arent at continents ect esentially large islands?",
+      "output": "#   island = np.zeros((height, width))\n    #   for i in range(height):\n    #       for"
+    },
+    {
+      "id": "17_var3",
+      "input": "Wote classifies a iland at a island? arn't a continents ect essentially large islands?",
+      "output": "# In[ ]:\n\n\nclass Wote:\n    def __init__(self, x, y):\n        self.x ="
+    },
+    {
+      "id": "17_var4",
+      "input": "Waht classifies an iland as am island? arn't at continents ect esentially mlarge islands?",
+      "output": "# In[ ]:\n\n\nclass Island:\n    def __init__(self, name, continent, population):\n        self.name"
+    },
+    {
+      "id": "17_var5",
+      "input": "Whta classifies am iland saw an island? arent a continents ect esentially large islands?",
+      "output": "#   island = pygame.image.load(\"images/island.png\")\n    #   island = pygame.transform"
+    },
+    {
+      "id": "17_var6",
+      "input": "What classifies and iland have un island? arent all continents ect esentially lane islands?",
+      "output": "#   - island has a lot of land\n    #   - island has a lot of water\n    #   - island has"
+    },
+    {
+      "id": "17_var7",
+      "input": "Woot classifies an iland asw and island? arent a continents ect essentially lage islands?",
+      "output": "# In[ ]:\n\n\n#classify_asw_island()\n\n\n# In[ ]:\n\n\n#classify_"
+    },
+    {
+      "id": "17_var8",
+      "input": "Wete classifies and iland a a island? aren't all continents ect esentially mlarge islands?",
+      "output": "#   - I'm not sure if this is the right way to do this, but it's a good idea to try it out."
+    },
+    {
+      "id": "17_var9",
+      "input": "Whta classifies a iland asw a island? arn't all continents ect esentially large islands?",
+      "output": "# In[ ]:\n\n\n#Question 1\n#Write a program that takes a list of numbers and prints out all the numbers that are div"
+    },
+    {
+      "id": "17_var10",
+      "input": "Wait classifies a iland at on island? aren't at continents etc esentially larg islands?",
+      "output": "#   - I'm not sure if this is the right way to do this, but it's a good idea.\n        #   - I"
+    }
+  ],
+  "18": [
+    {
+      "id": "18_orig",
+      "input": "What happens if you don't pay your US Federal income tax?",
+      "output": "#\n# In this case, the US Federal income tax is $0.0.\n#\n# Write a program that calculates the US federal income"
+    },
+    {
+      "id": "18_var1",
+      "input": "Whate happends is your dount pay yere AS Fedral income tax?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "18_var2",
+      "input": "Whats happends it yew dount pae your USE Fedral income tax?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "18_var3",
+      "input": "Wot happends is you want paid ure AS Fedral income tax?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "18_var4",
+      "input": "Wat happends it yoy donte pay yer HUS Fedral income tax?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "18_var5",
+      "input": "Woot happends it yow donte pae yer US Fedral income tax?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "18_var6",
+      "input": "Whaaat happens is yow dont paid yowr USE Fedral income tax?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "18_var7",
+      "input": "Woot happends is yow don't paid yore HUS Fedral income tax?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "18_var8",
+      "input": "Whia happens it yo dont paid young A Fedral income tax?",
+      "output": "#     if self.amount_total > 0:\n            #         self.amount_total = self.amount_total - self.amount"
+    },
+    {
+      "id": "18_var9",
+      "input": "Wat happends if yoy don pae young AS Fedral income tax?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "18_var10",
+      "input": "Who happends it uoy donte paid young A Federal income tax?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "19": [
+    {
+      "id": "19_orig",
+      "input": "What is different in the brain chemistry that distinguishes thinking about moving my arm and actually moving it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var1",
+      "input": "What is berth if the bain chemistry taht distingishes thinking aboute moving ma arm hand actually moving it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var2",
+      "input": "Wait as different in the brain chemistry that distingishes thinkin aboute moving ny arn and accle moving it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var3",
+      "input": "Woot is diffunt if the bain chemsitry that distinguishes tinking about moving mi arm and acarly moving it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var4",
+      "input": "What us difrent in these brin chemistry taht distinguishes thinkin about moving miy arm than actually moving it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var5",
+      "input": "Woot us divent if the brain chemistry dat distingishes thinking about moving may arm and actually moveing it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var6",
+      "input": "What is divent in the brin chemistry dat distinguishes thinging aboute moveing my arm and accotly oving it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var7",
+      "input": "What is deffrent in the bran chemistry hart distingishes thikning abought moving my arm an actually move it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var8",
+      "input": "Whot in different in the bran pemestry theut distinguishes thinking abouut moving my arn and actually oving it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var9",
+      "input": "What is diferrent in tje bran chemestra and distinguishes thinging about oving my arm and actually move it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "19_var10",
+      "input": "Woat is different in they brin chemistry theat distinguishes thinking aboute moving my arn aand actually oving it?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "21": [
+    {
+      "id": "21_orig",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "21_var1",
+      "input": "Wot his the role ofr actural real-life actors if mkaing animated characters? Like Liam Neeson palving Aslan if Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "21_var2",
+      "input": "Woot in that role or actuall real-life actors is makeing animated characters? Like Liam Neeson playing Aslan im Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "21_var3",
+      "input": "Whate is thee role or actuall real-life actors in mkaing animated characters? Lik Liam Neeson play-ing Aslan im Narnia?",
+      "output": "Lik Liam Neeson play-ing Aslan im Narnia? Lik Liam Neeson play-ing Aslan im Narn"
+    },
+    {
+      "id": "21_var4",
+      "input": "Wat si the role on actural real-life actors i amking animated characters? Lekt Liam Neeson playing Aslan is Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "21_var5",
+      "input": "Woot is tghe role ovoe actural real-life actors in mkaing animated characters? Took Liam Neeson palving Aslan with Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "21_var6",
+      "input": "What us to role of actuall real-life actors is makeing animated characters? Look Liam Neeson palving Aslan i Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "21_var7",
+      "input": "Who is thoy role gf actuall real-life actors if amking animated characters? Lik Liam Neeson playing Aslan if Narnia?",
+      "output": "',\n    'I am a man of the world, I am a man of the world, I am a man of the world, I am a man"
+    },
+    {
+      "id": "21_var8",
+      "input": "What as a role afoh actual real-life actors is amking animated characters? Took Liam Neeson play-ing Aslan im Narnia?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "21_var9",
+      "input": "Woot his my role oaf actural real-life actors is making animated characters? Like Liam Neeson plaing Aslan i Narnia?",
+      "output": "I am a very talented and creative character creator. I am a very talented and creative character creator. I am a very talented and creative character creator. I am"
+    },
+    {
+      "id": "21_var10",
+      "input": "Wat his thi role of actuall real-life actors is macking animated characters? Lick Liam Neeson play-ing Aslan in Narnia?",
+      "output": "# In[ ]:\n\n\n# Lick Liam Neeson play-ing Aslan in Narnia\n\n# In[ ]:"
+    }
+  ],
+  "23": [
+    {
+      "id": "23_orig",
+      "input": "What was the Beat Generation about? Were Beatniks a stereotype or a factual reflection of this philosophy?",
+      "output": "Did you hear that? Did you hear that? Did you hear that? Did you hear that? Did you hear that? Did you hear that? Did you"
+    },
+    {
+      "id": "23_var1",
+      "input": "What some t Pit Generation about? Yer Beatniks a stereotype ore i factual reflection cift tihs philosophy?",
+      "output": "Yer Beatniks a stereotype ore i factual reflection cift tihs philosophy? Yer Beatniks a stereotype ore i factual reflection cift t"
+    },
+    {
+      "id": "23_var2",
+      "input": "Wha't we the Beet Generation about? Wree Beatniks ah stereotype or the factual reflection oaf thhis philosophy?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "23_var3",
+      "input": "Wote widd tje Bet Generation about? Were Beatniks are stereotype or an factual reflection off thes philosophy?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "23_var4",
+      "input": "What wus thee Pit Generation about? Wey Beatniks and stereotype are and factual reflection af this philosophy?",
+      "output": "Wey beatnis and the truth is that we are not a man who is not a man who is not a man who is not a man who is not"
+    },
+    {
+      "id": "23_var5",
+      "input": "Whia wus thee Beat Generation about? Whey Beatniks i stereotype or are factual reflection oaf tish philosophy?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "23_var6",
+      "input": "What wase tjhe Bet Generation about? Here Beatniks as stereotype al are factual reflection of tihs philosophy?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "23_var7",
+      "input": "What uas i Beet Generation about? Wre Beatniks a stereotype are as factual reflection ofr thus philosophy?",
+      "output": "\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n"
+    },
+    {
+      "id": "23_var8",
+      "input": "Who wase the Pit Generation about? Wore Beatniks as stereotype ore are factual reflection of thhis philosophy?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "23_var9",
+      "input": "Whta ws that Beet Generation about? Weer Beatniks ah stereotype of a factual reflection of thus philosophy?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "23_var10",
+      "input": "Wote widd tjhe Beet Generation about? Wear Beatniks a stereotype all a factual reflection on thes philosophy?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "26": [
+    {
+      "id": "26_orig",
+      "input": "Why are my muscles sore after jumping in cold water?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "26_var1",
+      "input": "Wy ah by musirls saw after junping i cald water?",
+      "output": "#\n        #     - The first one was a little bit of a mess.\n        #     - The second one was a little bit of"
+    },
+    {
+      "id": "26_var2",
+      "input": "Yoy our may musirls sor half junping in cald water?",
+      "output": "#    - We have a large number of people who are going to be in the same\n    #      city.\n    #    - We"
+    },
+    {
+      "id": "26_var3",
+      "input": "Wy thet my muscels sor aftr junping if cald water?",
+      "output": "#    if cald_water_sor_aftr_junping == True:\n    #        print(\"cald water sor aft"
+    },
+    {
+      "id": "26_var4",
+      "input": "Way r may muscels sore aftr junping it cald water?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "26_var5",
+      "input": "Yoy are ny musirls sor aftere junping if cald water?",
+      "output": "#     if ny_musirls_sor_aftere_junping:\n    #         print(\"The number of musirl"
+    },
+    {
+      "id": "26_var6",
+      "input": "Yoy rae may musirls sor nfre jumping im cald water?",
+      "output": "#    #    #    #    #    #    #    #    #    #    #    #    #    #    #"
+    },
+    {
+      "id": "26_var7",
+      "input": "Way aree by muscles sor aftr junping i cald water?",
+      "output": "#     if (x_pos > 0 and x_pos < width and y_pos > 0 and y_pos < height):"
+    },
+    {
+      "id": "26_var8",
+      "input": "Wiy arre by muscels saw aftr junping in cald water?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "26_var9",
+      "input": "Yoy oar yoy muscels sore half junping if cald water?",
+      "output": "# If the water is not in the middle of the line, the line is not a valid line\n        if (\n            (\n                ("
+    },
+    {
+      "id": "26_var10",
+      "input": "Way and ma muscles sor aftr junping it cald water?",
+      "output": "#     if self.is_sor_and_water_and_ma_sor_and_water_and_ma_s"
+    }
+  ],
+  "29": [
+    {
+      "id": "29_orig",
+      "input": "Why are the insides of Ovens Dark and Not Metallic or Mirror Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "29_var1",
+      "input": "Wiy arre thi insides for Ovens Darch and No Metalic os Mirror Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "29_var2",
+      "input": "Why ra that insides othe Ovens Dark anf Onot Metalic are Mirrow Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "29_var3",
+      "input": "Why rae tu insides of Ovens Down anf Non Metalic al Mirrow Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "29_var4",
+      "input": "Way rer the insides cift Ovens Dick an On Metallic al Mirrow Like?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "29_var5",
+      "input": "Wy ur the insides off Ovens Dark anf Onot Metalic of Mirrow Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "29_var6",
+      "input": "Wiy ah the insides ove Ovens Dia ane Mot Metallic are Mirrow Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "29_var7",
+      "input": "Wiy rer thge insides op Ovens Dark anbd Nto Metalic or Mirrow Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "29_var8",
+      "input": "Way are he insides av Ovens Dark aud Nat Metalic ot Mirrow Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "29_var9",
+      "input": "Wy and thi insides of Ovens Dreh hand Non Metallic ore Mirrow Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "29_var10",
+      "input": "Yoy r the insides af Ovens Bar anf No Metalic or Mirrow Like?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "30": [
+    {
+      "id": "30_orig",
+      "input": "Why are the things that taste the best bad for us?",
+      "output": "# We can't use the same code for both, because we need to know the\n        # exact number of features.\n        # We can"
+    },
+    {
+      "id": "30_var1",
+      "input": "Wiy rir the fens thgat tayste thge best bed or us?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "30_var2",
+      "input": "Wy re tghe think thet taste tghe best bed foow us?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "30_var3",
+      "input": "Why arre the fens net tayste ther bettes bed fro us?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "30_var4",
+      "input": "Way are they thing that tayste these bister bed or us?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "30_var5",
+      "input": "Wy vea t thnigs thgat tast the beat bed for us?",
+      "output": "# In[ ]:\n\n\n#TODO:\n#1. Create a function called 'is_even' that takes a number as"
+    },
+    {
+      "id": "30_var6",
+      "input": "Way ar hte things that tast teh bister bed fro us?",
+      "output": "#%%\n\n#%%\n\n#%%\n\n#%%\n\n#%%\n\n#%%\n\n#%%\n\n#%%"
+    },
+    {
+      "id": "30_var7",
+      "input": "Wy aer tghe thigns thay tast the mest bed for us?",
+      "output": "# In[ ]:\n\n\n#TODO:\n#1. Create a function called 'is_even' that takes a number as"
+    },
+    {
+      "id": "30_var8",
+      "input": "Way vea tje think that tayste thw best bed foow us?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "30_var9",
+      "input": "Way rir to thigns that tast an best bed from us?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "30_var10",
+      "input": "Yoy are tje tings at taste they besd bed frou us?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "31": [
+    {
+      "id": "31_orig",
+      "input": "Why can't we just taste candy or Sweets and then spit it out to avoid its unhealthy attributes? What makes us swallow it to get satisfaction?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "31_var1",
+      "input": "Why can't we jstu taste candy or Swet ane then spit it out ot avoad its on_hethy attributes? What mkaes us swallow it two get satisfaction?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "31_var2",
+      "input": "Why can't be just taste candy or Sweets and than spite et out to avoid its on_hethy attributes? What makes a swallow il to cet satisfaction?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "31_var3",
+      "input": "Way can't we just tayste candy or Sweets hand then spite it out to avoid it unhealthy attributes? What maks us swollow i to get satisfaction?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "31_var4",
+      "input": "Why can't wey just taste cand or Sweet aud then spit it out th avoid its unhealthy attributes? What maks as swallow it to geat satisfaction?",
+      "output": "# In[ ]:\n\n\n#we can't use the same number of times as we can't use the same number of times as we can"
+    },
+    {
+      "id": "31_var5",
+      "input": "Why can't wen jsut taste candy or Swet and then spite it out ro avoid its unhealthy attributes? What makes as swollow it ot get satisfaction?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "31_var6",
+      "input": "Yoy carn't we jsut taste candy or Sweets and then spit it hot tow avoid its on_hethy attributes? Whaaat makes us swollow it to get satisfaction?",
+      "output": "# In[ ]:\n\n\n#we have to use the same data as the training data\n#we have to use the same data as the"
+    },
+    {
+      "id": "31_var7",
+      "input": "Why carnt wen just tast cand or Sweet and the spit it out tow avoid its unhealthy attributes? What makes us swollow it to get satisfaction?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "31_var8",
+      "input": "Why can't we just tayste cand or Sweets and then spite is out to avoid its' unhealthy attributes? Wath makse us swallow it to cet satisfaction?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "31_var9",
+      "input": "Wy carnt wen just taste candy or Sweets ane them spite it out to avoid its unhealthy attributes? What makes as swallow it to cet satisfaction?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "31_var10",
+      "input": "Why can't you jsut taste cand or Sweets and then spite it out too arigode is unhealthy attributes? What makes us swollow it to get satisfaction?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "32": [
+    {
+      "id": "32_orig",
+      "input": "Why do The Miranda Rights state that anything you say can \"and will\" be used against you. If something's not incriminating why would it be used against you? Why would cops be forced to admit this up front?",
+      "output": "#\n# In this problem, you'll be given a list of numbers, and you'll be given a list of numbers, and you'll be given"
+    },
+    {
+      "id": "32_var1",
+      "input": "Why do The Miranda Rights stat dat anything you said can \"and will\" be used agenst you. If something's not incriminating why would it been used agianst you? Why would cops been forced ro admit this up front?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "32_var2",
+      "input": "Way do The Miranda Rights stat that anything you say can \"and will\" be us't against you. If something's nto incriminating why would it be used against you? Why would caps me forced two admit tish up front?",
+      "output": "I'm not sure I can do that. I'm not sure I can do that. I'm not sure I can do that. I'm not sure I"
+    },
+    {
+      "id": "32_var3",
+      "input": "Yoy bood The Miranda Rights state that anythink yow say can \"and will\" be used against you. Is something's no incriminating why would it be used against you? Why would caps be forced to admit ths up front?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "32_var4",
+      "input": "Why do The Miranda Rights stat thay anything yuo say can \"and will\" be used agenst you. If something's not incriminating why ward it be used agenst you? Way would cops be forced to admit tihs up front?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "32_var5",
+      "input": "Why do The Miranda Rights state that any_thing yow say cane \"and will\" be you agianst you. If something's not incriminating why would il be used against you? Why owudl caps be forced to admit this up front?",
+      "output": "#   - I'm not sure I can do this with the fact that I'm not going to be able to use the \"and\" operator to"
+    },
+    {
+      "id": "32_var6",
+      "input": "Why do These Meranda Rights stat that anything you say can \"and will\" be ust against you. If something's non incriminating why would il be used against you? Why woudl cops be forced to admit thus up front?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "32_var7",
+      "input": "Why do Thi Miranda Rights state at anyting you said cane \"and will\" be used against you. If something's not incriminating why would et be used against you? Why would cops be forced ot admite this up front?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "32_var8",
+      "input": "Why do The Miranda Rights stat taht anything w say con \"and will\" be used against you. Is something's not incriminating why would it be unsed against you? Wiy would cops be forced qu admit this up front?",
+      "output": "I am not sure what I am doing. I am not sure what I am doing. I am not sure what I am doing. I am not sure what"
+    },
+    {
+      "id": "32_var9",
+      "input": "Why do Thge Miranda Rights state that anything you say can \"and will\" be used against you. If something's not incriminating wy woudl it b used aganst you? Why wouls cops bee forced to admite this up front?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "32_var10",
+      "input": "Why do Thge Meranda Rights state than anyting you say con \"and will\" de used against you. If something's not incriminating why would it be used against you? Why would cops been forced th admit this up front?",
+      "output": "#   - The \"and\" is a logical operator. It is used to combine two or more statements.\n    #   - The \"and"
+    }
+  ],
+  "33": [
+    {
+      "id": "33_orig",
+      "input": "Why do tech/software companies stay in the US when they are demanded to include backdoors by the US government? Can't tech companies just develop and release their products overseas, out of reach of the US government's influence?",
+      "output": "# In[ ]:\n\n\n# tech companies are not always available to the US government.\n# tech companies are not always available to the US"
+    },
+    {
+      "id": "33_var1",
+      "input": "Why do tech/software companies stay in to ARES whene they are demanded to include backdoors by hte A government? carn't tech companies just develop and release thrir products overseas, out gf reach of the US government's influence?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "33_var2",
+      "input": "Why do tech/software companies sta in these AS when the and demanded to include backdoors by the USE government? can't tech companies gust develop and release their products overseas, out of reach of i US government's influence?",
+      "output": "#\n    #   - tech companies are not the most important companies in the US, but they are the most important companies in the US."
+    },
+    {
+      "id": "33_var3",
+      "input": "Yoy do tech/software companies stay is the US whn there are demanded to include backdoors be the US government? can't tech companies just develop and release their products overseas, out af reach or my US government's influence?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "33_var4",
+      "input": "Why do tech/software companies stae i these US when they are demanded to inclued backdoors by the US government? can't tech companies gust develop and release their products overseas, owt of reach of thge HUS government's influence?",
+      "output": "# In[ ]:\n\n\n# tech companies are the most important companies in the world.\n# tech companies are the most important companies in the"
+    },
+    {
+      "id": "33_var5",
+      "input": "Why to tech/software companys stay in thoy AS when they are demanded to include backdoors by ther US government? can't tech companies just devellope and release their products overseas, ot of reach of thee US government's influence?",
+      "output": "# In this problem, you are given a list of lists of integers. Each list represents a city.\n# Each city has a list of integers"
+    },
+    {
+      "id": "33_var6",
+      "input": "Why do tech/software companys stay it tu US when they are demanded to include backdoors bihr the US government? can't tech companys just develop aud release their products overseas, out of reach on thoy US government's influence?",
+      "output": "# In[ ]:\n\n\n# tech companies are the most important companies in the US\n# tech companies are the most important companies in the US"
+    },
+    {
+      "id": "33_var7",
+      "input": "Why dor tech/software companies stay im the A when they are demanded to include backdoors by the US government? can't tech companys jsut develop so release there products overseas, out onet reach of the US government's influence?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "33_var8",
+      "input": "Why doe tech/software companys stay in the A when they are demanded to include backdoors by the HUS government? can't tech companies jsut develop and release their products overseas, out of rich op the A government's influence?",
+      "output": "# In[ ]:\n\n\n# tech companies\ntech_companies = ['A', 'B', 'C', 'D', 'E"
+    },
+    {
+      "id": "33_var9",
+      "input": "Why do tech/software companies sta with the US when thay are demanded to include backdoors be the US government? cant tech companies just develop and release theri produts overseas, out of rech of the US government's influence?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "33_var10",
+      "input": "Why do tech/software companies stay in the US when thay rer demanded to include backdoors by thge AS government? can't tech companies jsut deveoop and release their products overseas, aut of rich of the US government's influence?",
+      "output": "# In[ ]:\n\n\n# tech companies\n# tech companies\n# tech companies\n# tech companies\n# tech companies\n# tech companies"
+    }
+  ],
+  "34": [
+    {
+      "id": "34_orig",
+      "input": "Why do we wake up early when we don't have to but tend to wake up late when we need to be up?",
+      "output": "# If we don't have to, we can wake up early.\n        if not self.is_alive():\n            self.wake"
+    },
+    {
+      "id": "34_var1",
+      "input": "Way do wee wake up early wern we don't havne to but tend to waek up late when wot nead tow be up?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "34_var2",
+      "input": "Wiy dor we waek up erly when we want have to but tend the wake up late went we need to bei up?",
+      "output": "# In[ ]:\n\n\n#we need to be up to date\n#we need to be up to date\n#we need to be"
+    },
+    {
+      "id": "34_var3",
+      "input": "Why do we wake up erly when we don't hove to but tend to waek up let when be nede too d up?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "34_var4",
+      "input": "Why bood weed wake up eigly when were don't have to but tend to wake up later want we nede too be up?",
+      "output": "# if (self.state == \"bood\"):\n        #     self.state = \"bood_weed\"\n        #"
+    },
+    {
+      "id": "34_var5",
+      "input": "Why do we wake up erly wern we don't naf to but tend ot waek up late when wot need the bei up?",
+      "output": "#    #    #    #    #    #    #    #    #    #    #    #    #    #    #"
+    },
+    {
+      "id": "34_var6",
+      "input": "Yoy drow we wake up early when we done havne ro but tend to waek up lette when weed need to be up?",
+      "output": "#     if (time.time() - start_time) > 60:\n    #         print(\"Wake up\")\n    #"
+    },
+    {
+      "id": "34_var7",
+      "input": "Way to we waek up eigly when wey don't have to but tend to wake up lette when we need tow we up?",
+      "output": "# We need to do this because we don't know if we are in the same room as the player.\n        # We need to check if"
+    },
+    {
+      "id": "34_var8",
+      "input": "Why dom we wake up erly whe wee don't have of bun tend to wake up late when we need of by up?",
+      "output": "# if we have a bunch of people in the room, we can wake up\n        if len(people) > 0:\n            # if"
+    },
+    {
+      "id": "34_var9",
+      "input": "Why doo we wake up early when wot don't hav tow but tend to waek up late we weed nede to be up?",
+      "output": "# if we wake up early, we will wake up late\n    # if we wake up late, we will wake up early\n    # if"
+    },
+    {
+      "id": "34_var10",
+      "input": "Wy do we waek up early when we done have of bat tend to waek up late when we nede to been up?",
+      "output": "# if we have a bat, we can't have a bat, we can't have a bat, we can't have a bat, we can"
+    }
+  ],
+  "35": [
+    {
+      "id": "35_orig",
+      "input": "Why do you see weird colors when you press your eyes?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "35_var1",
+      "input": "Way dow w se werd colors when yo prass you eyes?",
+      "output": "# def greet(name):\n#     print(f\"Hello {name}\")\n\n# greet(\"John\")\n\n# def greet"
+    },
+    {
+      "id": "35_var2",
+      "input": "Yoy drow you se werd colors whn uoy prass youre eyes?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "35_var3",
+      "input": "Why doo yo se werd colors will yo prass yor eyes?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "35_var4",
+      "input": "Why du yew se wierd colors whe yoy prass youe eyes?",
+      "output": "#    #    #    #    #    #    #    #    #    #    #    #    #    #    #"
+    },
+    {
+      "id": "35_var5",
+      "input": "Wiy dor na se wierd colors wheh you prass yowr eyes?",
+      "output": "# 1.\n# 2.\n# 3.\n# 4.\n# 5.\n# 6.\n# 7.\n# 8"
+    },
+    {
+      "id": "35_var6",
+      "input": "Yoy bow you se werd colors wen your prass yer eyes?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "35_var7",
+      "input": "Way dom yau se werd colors will w press youre eyes?",
+      "output": "# if you do not press the button, the color will be red\n        # if you press the button, the color will be green"
+    },
+    {
+      "id": "35_var8",
+      "input": "Yoy to yo se werd colors whern you prass yer eyes?",
+      "output": "# In[ ]:\n\n\n#print(color_list)\n#print(color_list[0])\n#print(color_"
+    },
+    {
+      "id": "35_var9",
+      "input": "Way dowe yau se wierd colors wine na press young eyes?",
+      "output": "# In[ ]:\n\n\n#1.\n#2.\n#3.\n#4.\n#5.\n#6."
+    },
+    {
+      "id": "35_var10",
+      "input": "Wiy olethl yow se wierd colors whe yau press ure eyes?",
+      "output": "# 1.\n# 2.\n# 3.\n# 4.\n# 5.\n# 6.\n# 7.\n# 8"
+    }
+  ],
+  "36": [
+    {
+      "id": "36_orig",
+      "input": "Why does a beer on tap almost always taste better than it does from a bottle?",
+      "output": "#   - The bottle of beer on the wall, on the floor of the bottle of beer.\n    #   - There's a fork in"
+    },
+    {
+      "id": "36_var1",
+      "input": "Why does the beer onn tap allmost always taste bet than is dose frm an bottle?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "36_var2",
+      "input": "Wiy does the beer hon tap almost allways tast better thna it does frome the bottle?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "36_var3",
+      "input": "Wy does a beer and tap alomst lowas tast beththe thna it does foint a bottle?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "36_var4",
+      "input": "Wy dose a beer of tap almsot lowas tast better than its dus from a bottle?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "36_var5",
+      "input": "Way dose are beer one tap almost always taste metter that hit dose from a bottle?",
+      "output": "#\n# The bottle is a bottle of beer on the wall, and the bottle is filled with milk.\n#\n# You can go out to"
+    },
+    {
+      "id": "36_var6",
+      "input": "Yoy dus as beer an tap all_most always tayste better that it does from and bottle?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "36_var7",
+      "input": "Wiy doens an beer hon tap all_most allway taste better than et dus from a bottle?",
+      "output": "# In[ ]:\n\n\n# import libraries\nimport numpy as np\nimport pandas as pd\nimport matplotlib.py"
+    },
+    {
+      "id": "36_var8",
+      "input": "Wiy dus are beer on tap alomst always tayste metter thna it dus from a bottle?",
+      "output": "# In[ ]:\n\n\n#Write a function called is_palindrome.\n#\n# The function should take a string as input"
+    },
+    {
+      "id": "36_var9",
+      "input": "Way doens and beer on tap almost allway's taste better that i dus from are bottle?",
+      "output": "# I don't know if this is a good idea, but it's a good idea.\n        # I don't know if this is a"
+    },
+    {
+      "id": "36_var10",
+      "input": "Way dose and beer on tap almost always tast beththe than is does forme and bottle?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "38": [
+    {
+      "id": "38_orig",
+      "input": "Why does my employer require a voided personal check in order to setup direct deposit?",
+      "output": "#   - If the user is not a member of the company, the user will be automatically redirected to the company page.\n    #   -"
+    },
+    {
+      "id": "38_var1",
+      "input": "Way dus me employer requare the voided personly check is oredr to setup direct deposit?",
+      "output": "# if not self.check_if_voided_personly_check_is_redirected(self.driver):\n            #"
+    },
+    {
+      "id": "38_var2",
+      "input": "Way dus mi inporer requier i voided personal check it order two setup direct deposit?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "38_var3",
+      "input": "Wy dus mi employer requier as voided persnal check i order too setup direct deposit?",
+      "output": "#     if self.check_deposit_status(deposit_id):\n        #         return True\n        #     else:"
+    },
+    {
+      "id": "38_var4",
+      "input": "Why dose me employer requare are voided personal chack im oder two setup direct deposit?",
+      "output": "# if self.employer_id.id == 2:\n        #     if self.employer_id.id == 1:"
+    },
+    {
+      "id": "38_var5",
+      "input": "Why dus by employer requier are voided personly cheke im orter to setup direct deposit?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "38_var6",
+      "input": "Yoy dose my inploer requier are voided personel chack is order to setup direct deposit?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "38_var7",
+      "input": "Wiy dus mi inpooer requier and voided personal check in od of setup direct deposit?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "38_var8",
+      "input": "Wy does may employer requare as voided personly chack in od the setup direct deposit?",
+      "output": "#\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #"
+    },
+    {
+      "id": "38_var9",
+      "input": "Way dus may inploer require ah voided personal check if orter two setup direct deposit?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "38_var10",
+      "input": "Why doens ne emplore requier and voided personal check if orter th setup direct deposit?",
+      "output": "#   - if yes, then it will be a deposit\n    #   - if no, then it will be a withdrawal\n    #"
+    }
+  ],
+  "39": [
+    {
+      "id": "39_orig",
       "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? Doesn't it come from the same place?",
-      "output": "PLACEHOLDER"
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
     },
     {
-      "id": "8_var1",
-      "input": "Yoy dus the water from my kitchin faucet taste diffunt tahn thoy water from my both_rom faucet? doesn't it come from my same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var1",
+      "input": "Why does thw weter ofomt my kitchin faucet taste different thna ther water from my bathroom faucet? doesnt it kumh from the same place?",
+      "output": "#   - I am not sure if this is the case, but it is.\n    #   - I am not sure if this is the"
     },
     {
-      "id": "8_var2",
-      "input": "Why does the weter from my kitchen faucet tast differt than tu watter forom my both_rom faucet? doesn't it come fere the same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var2",
+      "input": "Wy dose t weter fome mi kitchen faucet tayste different than the water from my bathroom faucet? doesn't it come from tje same place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
-      "id": "8_var3",
-      "input": "Wiy dus the water torme my kitchen faucet taste differed that the watter from my both_rom faucet? doesn't it come from the same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var3",
+      "input": "Why does teh water from miy kiching faucet taste different thna thge water from my both_rom faucet? doesn't et come frrom the same place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
-      "id": "8_var4",
-      "input": "Why does the water from mi kitchen faucet taste diffi that tu wather from ny bathroom faucet? doesn't it comr from tjhe same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var4",
+      "input": "Wiy does the water from my kitchen faucet taste different than the water from may both_rom faucet? doesn't hit cam fraom i smae place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
-      "id": "8_var5",
-      "input": "Why does the weter fro my kitchen faucet tayste different than the water fere my bathroom faucet? does_on i come for tu same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var5",
+      "input": "Way does the water from my kitchen faucet taste deffrent tahn the water from my both_rom faucet? dosnt it coum from hte same place?",
+      "output": "# In[ ]:\n\n\n#this is the function that will be used to calculate the water from the faucet\ndef water_from"
     },
     {
-      "id": "8_var6",
-      "input": "Why dose the water from my kitchen faucet tayste different than they water frrom my both_rom faucet? doesn't it kumh forma the sam place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var6",
+      "input": "Why does the water from my kitchin faucet taste difrent than hte water fom mi both_rom faucet? dosnt it come from the sane place?",
+      "output": "# if the water from my kitchin faucet taste difrent than hte water fom mi both_rom faucet?"
     },
     {
-      "id": "8_var7",
-      "input": "Why dus tjhe wather from me kitchen faucet taste different than the water from my both_rom faucet? doesn't et com fome the same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var7",
+      "input": "Why does teh water fou my kitchen faucet taste deifrnt than the water fou mi both_rom faucet? doesn't it come forma the smae place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
-      "id": "8_var8",
-      "input": "Wy does the water from me kitchen faucet taste difort than they water from my both_rom faucet? doesn't it come fram to smae place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var8",
+      "input": "Why does that watter from ne kitchen faucet taste different tahn the weter fom yoy bathroom faucet? doesn't i come from the same place?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
     },
     {
-      "id": "8_var9",
-      "input": "Wiy does the water fou my kichen faucet tast different than thge water from mi bathroom faucet? doesn't i come from i same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var9",
+      "input": "Why does the watter from my kitchin faucet taste different then th water from ny bathroom faucet? doesn't il kumh from ther same place?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
     },
     {
-      "id": "8_var10",
-      "input": "Wiy dose the water from my kitchen faucet tayste different that my water from my bathroom faucet? donsent et come from the sam place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var10",
+      "input": "Wy does the watter from my kichen faucet taste deifrnt than the water from my both_rom faucet? doesn't is comr from thw same place?",
+      "output": "# In[ ]:\n\n\n#print(f'{my_faucet_name} is a faucet')\n\n\n#"
+    }
+  ],
+  "40": [
+    {
+      "id": "40_orig",
+      "input": "Why has the Mars Rover Opportunity's Lithium Ion Battery Lasted 11+ Years and the one in My Cell Phone/Laptop/Tablet Dies in Less Than 2?",
+      "output": "',\n    'https://www.mars.gov/news/technology/technology-and-technology-and-technology-and-technology-and"
+    },
+    {
+      "id": "40_var1",
+      "input": "Why has the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years aud thw one is May Cell Phone/laptop/tablet Dies it Lase Then 2?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "40_var2",
+      "input": "Yoy hos the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Yersa and the ond it Ny Cell Phone/laptop/tablet Dies in Less That 2?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "40_var3",
+      "input": "Wiy hase thge Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Yeas and teh woone in My Cell Phone/laptop/tablet Dies in Less Thna 2?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "40_var4",
+      "input": "Yoy hase the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years are i and in My Cell Phone/laptop/tablet Dies in Lest Thna 2?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "40_var5",
+      "input": "Why has my Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Year so the wum i Ny Cell Phone/laptop/tablet Dies in Lase Thna 2?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "40_var6",
+      "input": "Way has tghe Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Yeers so an ont is My Cell Phone/laptop/tablet Dies in Less Tahn 2?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "40_var7",
+      "input": "Way have tjhe Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Years ane that one if Ne Cell Phone/laptop/tablet Dies in Less Thna 2?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "40_var8",
+      "input": "Wy as the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Yers are the one if Ne Cell Phone/laptop/tablet Dies in Less Tahn 2?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "40_var9",
+      "input": "Way has the Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Yesars anbd ge ont in Miy Cell Phone/laptop/tablet Dies im Lase Than 2?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "40_var10",
+      "input": "Why hos the Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Year aand tjhe wun it By Cell Phone/laptop/tablet Dies im Less Than 2?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "42": [
+    {
+      "id": "42_orig",
+      "input": "Why is it when you rewind VHS tapes they lose their quality over time?",
+      "output": "#\n        # This is a bit of a hack, but it works.\n        #\n        # The VHS tape is always in the"
+    },
+    {
+      "id": "42_var1",
+      "input": "Yoy is it wheh yew rewind VHS tapes that los thier quailty aver time?",
+      "output": "# if self.yoy == 0:\n            # self.yoy = 1\n            # self.yoy = 0\n            #"
+    },
+    {
+      "id": "42_var2",
+      "input": "Way as hit wine yo rewind VHS tapes thah lose ther quality ofrer time?",
+      "output": "# If the user is not a member of the team, they will be redirected to the home page.\n        if not member:\n            return"
+    },
+    {
+      "id": "42_var3",
+      "input": "Wy us its will you rewind VHS tapes thir lose there quailty ofer time?",
+      "output": "# In[ ]:\n\n\n#VHS tapes will lose there quailty ofer time\n#VHS tapes will lose there quail"
+    },
+    {
+      "id": "42_var4",
+      "input": "Wiy in is we you rewind VHS tapes they loos ther quailty ofer time?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "42_var5",
+      "input": "Wy his il whan you rewind VHS tapes they los there quailty ofer time?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "42_var6",
+      "input": "Wy his it when na rewind VHS tapes there loose theer quailty aver time?",
+      "output": "#\n        #     #\n        #     #\n        #     #\n        #     #\n        #     #\n        #"
+    },
+    {
+      "id": "42_var7",
+      "input": "Yoy his hit wene na rewind VHS tapes they loose their quailty ove time?",
+      "output": "# I don't know if I can do this with the current data, but it's a good thing.\n        #\n        # I don"
+    },
+    {
+      "id": "42_var8",
+      "input": "Yoy is et wene yo rewind VHS tapes they los thier quailty overe time?",
+      "output": "# if self.is_vhs_tape_on_screen:\n            # self.is_vhs_tape_on"
+    },
+    {
+      "id": "42_var9",
+      "input": "Wiy is et when uoy rewind VHS tapes theire loos thrir quailty aver time?",
+      "output": "# if uoy is not the same as the last time, then uoy is the last time\n        # if uoy is the same as"
+    },
+    {
+      "id": "42_var10",
+      "input": "Way in its wern you rewind VHS tapes that loos thire quality overe time?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    }
+  ],
+  "43": [
+    {
+      "id": "43_orig",
+      "input": "Why is sales tax in the US excluded from the list price?",
+      "output": "# In[ ]:\n\n\n# sales tax excluded in the US\nsales_tax_excluded = sales_tax_excluded["
+    },
+    {
+      "id": "43_var1",
+      "input": "Way us sales tacks i ther ARES excluded fomr the lest price?",
+      "output": "# If the price is less than the lowest price, the product is not sold.\n        # If the price is greater than the highest price,"
+    },
+    {
+      "id": "43_var2",
+      "input": "Wiy his sales tacks i the USE excluded fomr thee lest price?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "43_var3",
+      "input": "Why his sales tacks with thw ARES excluded frome these lest price?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "43_var4",
+      "input": "Wiy us sales tacks is ge AS excluded from an lits price?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "43_var5",
+      "input": "Wy his sales tacks is the HUS excluded forma he lest price?",
+      "output": "# In[ ]:\n\n\n#HUS excluded forma he lest price\n\n# In[ ]:\n\n\n#HUS excluded form"
+    },
+    {
+      "id": "43_var6",
+      "input": "Yoy si sales tacks if these US excluded fou thge lits price?",
+      "output": "if not self.excluded_fou_price:\n            self.excluded_fou_price = self.excluded_f"
+    },
+    {
+      "id": "43_var7",
+      "input": "Way si sales tacks im an US excluded forme i lits price?",
+      "output": "if self.excluded_forme == \"US\":\n            self.excluded_forme = \"excluded\"\n        else:"
+    },
+    {
+      "id": "43_var8",
+      "input": "Wiy his sales tax it tjhe AS excluded ofomt thee lits price?",
+      "output": "# In[ ]:\n\n\n#print(sales_tax)\n\n\n# In[ ]:\n\n\n#print(sales_"
+    },
+    {
+      "id": "43_var9",
+      "input": "Way as sales tacks in tehe ARES excluded form thoy lits price?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "43_var10",
+      "input": "Wiy as sales tacks is tjhe US excluded forme to lest price?",
+      "output": "# In[ ]:\n\n\n# sales_tacks = sales_tacks.drop(['sales_tacks_us_ex"
+    }
+  ],
+  "44": [
+    {
+      "id": "44_orig",
+      "input": "Why is the recent Apple vs. FBI encryption debate relevant years after the Snowden leaks (2013), passage of the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var1",
+      "input": "Why is th resent Apple vs. FBI encryption debate relevant eyasr nfre the Snowden leaks (2013), passage with the PATRIOT Akt (2001), hand ge ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var2",
+      "input": "Why is thw resent Appe vs. FBI encryptiion debate relevant years after that Snowden leaks (2013), passage of thw PATRIOT At (2001), and th ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var3",
+      "input": "Why us the resent Alpple vs. FBI encryption debate relavent yeasr afthe the Snowden leaks (2013), passage off the PATRIOT Act (2001), than the ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var4",
+      "input": "Why his thw recent Apple vs. FBI encryption debait relevant yesars after he Snowden leaks (2013), passage or a PATRIOT Akt (2001), and the ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var5",
+      "input": "Yoy us the resent Apple vs. FBI encryptiion debat relevant years after the Snowden leaks (2013), passage afoh t PATRIOT Akt (2001), and the ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var6",
+      "input": "Wy is the recent Ait vs. FBI encryption debat relevent years nfre the Snowden leaks (2013), passage ovoe the PATRIOT Act (2001), anbd tjhe ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var7",
+      "input": "Why in tje resent Apple vs. FBI encryptiion debait relevent yeas after tehe Snowden leaks (2013), passage of the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var8",
+      "input": "Way his they resent Alpper vs. FBI encryption debait relevent years after th Snowden leaks (2013), passage of the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var9",
+      "input": "Way in he resent Apple vs. FBI encryption debate revelent yares haved the Snowden leaks (2013), passage ove the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "44_var10",
+      "input": "Why is the recent Appple vs. FBI encryption debate revelent yeras after my Snowden leaks (2013), passage ove the PATRIOT Akt (2001), an thw ECHELON revelations (1988)?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "46": [
+    {
+      "id": "46_orig",
+      "input": "why do we like watching the same TV show or movie over and over again?",
+      "output": "#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#"
+    },
+    {
+      "id": "46_var1",
+      "input": "why doo we took watching the sam TV show our movie ower hand overy again?",
+      "output": "# if we have a movie, we can't watch it\n        if movie_id:\n            movie_id = movie_id.split"
+    },
+    {
+      "id": "46_var2",
+      "input": "why bood we liuke watching the sane TV sho al movei over anbd over again?",
+      "output": "# if self.is_playing:\n            # self.is_playing = False\n            # self.play_button.setText(\""
+    },
+    {
+      "id": "46_var3",
+      "input": "wiy do we like watcheing tie sane TV show are movei overe and over again?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "46_var4",
+      "input": "why no we like waching the sam TV sohw are movei ofrer and over again?",
+      "output": "# if we want to move the sam TV we need to move the sam TV to the right place\n        # and then we need to move the"
+    },
+    {
+      "id": "46_var5",
+      "input": "yoy do wot took watcheing to same TV sohw os movie over are over again?",
+      "output": "# if not os.path.exists(os.path.join(os.getcwd(), 'movie_data')):"
+    },
+    {
+      "id": "46_var6",
+      "input": "yoy do you liek watcheing the same TV sow or movei overy and over again?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "46_var7",
+      "input": "wiy bo wey took watching the sane TV show our movie ower anf over again?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "46_var8",
+      "input": "yoy do weed lichr watching i smae TV show or movei ofrer and over again?",
+      "output": "# 1.\n# 2.\n# 3.\n# 4.\n# 5.\n# 6.\n# 7.\n# 8"
+    },
+    {
+      "id": "46_var9",
+      "input": "why boo when like watching the soen TV sohw or movie overe aand ofer again?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "46_var10",
+      "input": "yoy doe weed lire watching thee soen TV sho or movie over and overy again?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "47": [
+    {
+      "id": "47_orig",
+      "input": "why does wikipedia ask for donations almost every month? do they really need it to not disappear?",
+      "output": "# if not self.is_valid_date(date):\n        #     return False\n        # if not self.is_valid_"
+    },
+    {
+      "id": "47_var1",
+      "input": "wiy does wikipedia ask for donations all_most every month? dou they realy nede il too ont disappear?",
+      "output": "# if not self.all_most:\n            # self.all_most = self.get_all_most()\n        # self"
+    },
+    {
+      "id": "47_var2",
+      "input": "wiy does wikipedia arsc for donations allmost evry month? drow they reant nede it too not disappear?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "47_var3",
+      "input": "why dose wikipedia ack for donations alomst every month? dou the really need il th onot disappear?",
+      "output": "# if not self.is_valid_date(date):\n            # return False\n        # if not self.is_valid_date"
+    },
+    {
+      "id": "47_var4",
+      "input": "wy dose wikipedia ask frou donations almsot every month? do that reeling need hit of not disappear?",
+      "output": "# if the user wants to see the donations, then they can see the donations in the donations page\n        # if the user wants to see the"
+    },
+    {
+      "id": "47_var5",
+      "input": "why does wikipedia ack foow donations almost eyery month? do thay erally ned is to no disappear?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "47_var6",
+      "input": "way does wikipedia arsc for donations almost every month? done they relay nede is of mot disappear?",
+      "output": "# if not self.is_valid_date(date):\n            # return \"Invalid date\"\n        # if not self.is_"
+    },
+    {
+      "id": "47_var7",
+      "input": "wiy does wikipedia arsc for donations all_most every month? du they reely nede she to out disappear?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "47_var8",
+      "input": "wy does wikipedia ask fo donations almsot every month? do the rily needd is too not disappear?",
+      "output": "# if the rily is not in the list, it is not a donation\n        if not donation_list:\n            donation_list"
+    },
+    {
+      "id": "47_var9",
+      "input": "wiy does wikipedia ask foow donations almost evay month? boo they rily ned hit th not disappear?",
+      "output": "# I don't know why, but I think it's a bit of a problem.\n        # I don't know why, but I think"
+    },
+    {
+      "id": "47_var10",
+      "input": "why does wikipedia ask from donations almsot evry month? dooe that rayly ened il to not disappear?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "48": [
+    {
+      "id": "48_orig",
+      "input": "why, when intoxicated, does it feel like everything is spinning when you close your eyes but stops spinning when you open them?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "48_var1",
+      "input": "why, when intoxicated, dus it feel liuke everythink si spinning when yuo clos your eyes put stops spinning when you opin them?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "48_var2",
+      "input": "why, when intoxicated, does hit feel lick everything as spinng when yew clos your eyes but stops spinning wane yau open them?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "48_var3",
+      "input": "why, wen intoxicated, does it feel liuke everything is spinning will yau close your eyey but stops spening wern yo open them?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "48_var4",
+      "input": "why, when intoxicated, does is feel like everthing si sindn wane you close your eyey but stops spinnig whe you open them?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "48_var5",
+      "input": "why, will intoxicated, does hit feel like everything in spcing when you close ore eyes buts stops spinning when yoy opean them?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "48_var6",
+      "input": "why, when intoxicated, dus it feel lik everything his spinning when you close yer iyes buts stops spinng want you open them?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "48_var7",
+      "input": "why, we intoxicated, does it fill like every-thing is spinning weten yoy close your eye bat stops spinning wine you open them?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "48_var8",
+      "input": "why, when intoxicated, doens it feel like everything as seepping when na close yor eyey byt stops spinning when yow open them?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "48_var9",
+      "input": "why, whn intoxicated, dose it feel like everthing si spinning when you clos yer eyes but stops spinning when yew opin them?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "48_var10",
+      "input": "why, when intoxicated, does et fill like every-thing us spinning when you close yore iyes but stops spinning whern you opin them?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    }
+  ],
+  "49": [
+    {
+      "id": "49_orig",
+      "input": "with such an important vote like appointing a supreme court nomine, why is the senate floor so empty?",
+      "output": "#\n    # The Senate Floor is a place where the Senate is located, and the Senate is a place where the Senate is located, and the"
+    },
+    {
+      "id": "49_var1",
+      "input": "we shuch an important voet lick appointing a supreme cort nomine, why it the senate flor some empty?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "49_var2",
+      "input": "weth such on importnat voat like appointing a supreme cort nomine, why his tu senate floor sol empty?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "49_var3",
+      "input": "with such an important vote liek appointing as supreme courst nomine, yoy us th senete floor sat empty?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "49_var4",
+      "input": "wivr such an important vote look appointing i supreme courst nomine, why it he senet foor so empty?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
+    },
+    {
+      "id": "49_var5",
+      "input": "with suh a importnat voat like appointing an supreme court nomine, why is ge senate foor soen empty?",
+      "output": "# In[ ]:\n\n\n# import numpy as np\n# import pandas as pd\n# import matplotlib.pyplot"
+    },
+    {
+      "id": "49_var6",
+      "input": "the sach an important voat like appointing an supreme cort nomine, why it the senet flor so empty?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "49_var7",
+      "input": "wite shuch an import voat lichr appointing a supreme court nomine, yoy is the senete floor soen empty?",
+      "output": "# In[ ]:\n\n\n# import numpy as np\n# import pandas as pd\n# import matplotlib.pyplot"
+    },
+    {
+      "id": "49_var8",
+      "input": "wihth shuch an important voet lick appointing i supreme court nomine, wiy as the senate floor sung empty?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "49_var9",
+      "input": "with suu an impotant voet like appointing a supreme courst nomine, wy si hte senete floor so empty?",
+      "output": "# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In[ ]:\n\n\n# In"
+    },
+    {
+      "id": "49_var10",
+      "input": "weth suu an important vote lire appointing i supreme cort nomine, why us the senate flor soen empty?",
+      "output": "#     #     #     #     #     #     #     #     #     #     #     #     #     #     #"
     }
   ]
 }

@@ -1,402 +1,2055 @@
 {
-  "model_size": 1000000000,
-  "0": [
-    {
-      "id": "0_orig",
-      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var1",
-      "input": "Cane defence attorneys 'throw' an cace is tehy mo thire clients vea guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var2",
-      "input": "Cane defence attourny 'throw' an cace is their kno their clients ra guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var3",
-      "input": "Came defence aturning 'throw' as case it there knwo there clients ar guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var4",
-      "input": "Came defence attorneys 'throw' ah cace is thaire no they clients run guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var5",
-      "input": "Can defence attournies 'throw' as cace is thir now theer clients ra guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var6",
-      "input": "Came defence atournys 'throw' i cace it tyhe know theri clients and guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var7",
-      "input": "Cane defence attonereys 'throw' as cace it thror know thrir clients ah guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var8",
-      "input": "Can defence attoronies 'throw' the cace it thir knowe thire clients re guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var9",
-      "input": "Cane defence atourneys 'throw' ah cace if thaire nkwo there clients ra guilty?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "0_var10",
-      "input": "Came defence attorneies 'throw' are cace it thir know these clients aree guilty?",
-      "output": "PLACEHOLDER"
-    }
-  ],
+  "model_size": 1300000000,
   "1": [
     {
       "id": "1_orig",
-      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Can defense attorneys 'throw' a case if they know their clients are guilty?",
+      "output": "The defense attorney's job is to protect the client's rights. If the client is guilty, the attorney is obligated to defend the client.\nIf the attorney knows the client is guilty, the attorney is obligated to defend the client.\nIf the attorney knows the client is innocent, the attorney is obligated to defend"
     },
     {
       "id": "1_var1",
-      "input": "Hou olethl movies no geat uploaded online im HD frrom movie theater imployes be_for thire DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Con defence attourneis 'throw' are case is thaire ha thier clients arte guilty?",
+      "output": "I am a defence attourneis 'throw' are case is thaire ha thier clients arte guilty?\nI am a defence attourneis 'throw' are case is thaire ha thier clients arte guilty?\nI am a defence attourneis 'throw' are case is th"
     },
     {
       "id": "1_var2",
-      "input": "Haw dou movies nol go uploaded online in HD fam movei theather employese b_for their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Cane defence attournyes 'throw' a cace is thror kino they clients arte guilty?",
+      "output": "The cace is thror kino they clients arte guilty?\nThe cace is thror kino they clients arte guilty?\nThe cace is thror kino they clients arte guilty?\nThe cace is thror kino they clients arte guilty?\nThe cace is thror k"
     },
     {
       "id": "1_var3",
-      "input": "How drow movies mot ge uploaded online is HD from movei theather inployee beefore they DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Cane defence attonereys 'throw' a cace it thrar konw theer clients or guilty?",
+      "output": "The cace of the cace of the cace of the cace of the cace of the cace of the cace of the cace of the cace of the cace of the cace of the cace of the cace of the cace of the cace of the cace"
     },
     {
       "id": "1_var4",
-      "input": "Haw doe movies knot git uploaded online if HD for movei theater employees befrou thire DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Cane defence attournys 'throw' a cace is tehy kown they clients ore guilty?",
+      "output": "I have a friend who is a lawyer and he says that the defence attournys are throwing the case.\nI have a friend who is a lawyer and he says that the defence attournys are throwing the case. I have a friend who is a lawyer and he says that the defence attour"
     },
     {
       "id": "1_var5",
-      "input": "Haw olethl movies ont geter uploaded online in HD from movei theather imployese pefor there DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Can defence attournyes 'throw' i cace is tehy noi thire clients run guilty?",
+      "output": "I am a defence attourney and I have been asked to represent a client who is accused of a crime. The client is a young man who is a student and has been charged with a crime. The client is a student and has been charged with a crime. The client is a student and has been charged"
     },
     {
       "id": "1_var6",
-      "input": "Hou du movies nol geter uploaded online is HD fomr movie theather empolyees be_fore their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Con defense attornies 'throw' as cace is there kno theer clients vea guilty?",
+      "output": "I am a newbie to the forum. I have been a member of the forum for a few months now. I have been a member of the forum for a few months now. I have been a member of the forum for a few months now.\nI have been a member of the forum for a few"
     },
     {
       "id": "1_var7",
-      "input": "Hou dooe movies mot cet uploaded online with HD fraom movei theather employees befor their DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Con defence aternies 'throw' the cace is thrar mo these clients are guilty?",
+      "output": "I am not sure if this is the right place to post this, but I am looking for some advice.\nI have been working with a client who has been charged with a crime. He is a very good client, but he has been charged with a crime that is not a crime in the state of New"
     },
     {
       "id": "1_var8",
-      "input": "Hou bo movies not gat uploaded online i HD from movei theather inployee befoure thrir DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Cane defence attournyes 'throw' are cace is thaire know theri clients oar guilty?",
+      "output": "The cace is thaire know theri clients oar guilty?\nThe cace is thaire know theri clients oar guilty?\nThe cace is thaire know theri clients oar guilty?\nThe cace is thaire know theri clients oar guilty?\nThe cace"
     },
     {
       "id": "1_var9",
-      "input": "Hou dow movies not geat uploaded online i HD frm movei theather employt before they DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Cane defence attorneys 'throw' the cace is the kno thrir clients or guilty?",
+      "output": "The cace is the kno thrir clients or guilty?\nThe cace is the kno thrir clients or guilty?\nThe cace is the kno thrir clients or guilty?\nThe cace is the kno thrir clients or guilty?\nThe cace is the kno"
     },
     {
       "id": "1_var10",
-      "input": "Haw dou movies nol geat uploaded online in HD form movie theather emploies befour thrir DVD release?",
-      "output": "PLACEHOLDER"
+      "input": "Con defence attorneys 'throw' the cace it thy naw theer clients er guilty?",
+      "output": "I'm not sure what you mean by \"theer clients\".\nI'm not sure what you mean by \"theer clients\".\nI'm not sure what you mean by \"theer clients\".\nI'm not sure what you mean by \"theer clients\".\nI'm not sure what you mean"
     }
   ],
   "3": [
     {
       "id": "3_orig",
-      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
-      "output": "PLACEHOLDER"
+      "input": "How do devices know the amount of charge left in a battery?",
+      "output": "How do devices know the amount of charge left in a battery?\nHow do devices know the amount of charge left in a battery?\nHow do devices know the amount of charge left in a battery?\nHow do devices know the amount of charge left in a battery?\nHow do devices know the amount of"
     },
     {
       "id": "3_var1",
-      "input": "How do we know a hte money he governemt his get from bank settlements as going back too thoy people?",
-      "output": "PLACEHOLDER"
+      "input": "How done def no thi amomt cift charge lite im an battery?",
+      "output": "I have a battery that is not charging. I have tried to charge it with the charger, but it does not charge. I have tried to remove the battery and put it in the charger, but it does not charge. I have tried to remove the battery and put it in the charger, but"
     },
     {
       "id": "3_var2",
-      "input": "Haw do we know all that mooey thee government si get from bank settlements is oging bakh to thw people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou dor def kno he oment of charge leaved with are battery?",
+      "output": "I am not sure what you mean by “the battery” but I think you are referring to the battery in the battery box.\nI have a battery box that I use to charge my batteries. I have a battery box that I use to charge my batteries.\nI have a battery box that I use to"
     },
     {
       "id": "3_var3",
-      "input": "Haw du wot knowe all the munny thge government in getting from bank settlements is going dark to teh people?",
-      "output": "PLACEHOLDER"
+      "input": "Haw du def noi he amout of charge lave i as battery?",
+      "output": "I am not sure if this is the right place to ask this question, but I am trying to find out if there is a way to get the battery to charge when the phone is off. I have tried to find a way to do this, but I have not been able to find anything. I have tried"
     },
     {
       "id": "3_var4",
-      "input": "How do were know all the moeny tghe gomment his get from bank settlements his going bcak to tje people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou to def nkow the oment gf charge lite with as battery?",
+      "output": "The battery is a lithium ion battery.\nThe battery is a lithium ion battery. The battery is a lithium ion battery.\nThe battery is a lithium ion battery. The battery is a lithium ion battery.\nThe battery is a lithium ion battery. The battery is a lithium ion battery.\nThe battery is"
     },
     {
       "id": "3_var5",
-      "input": "Haw do wee know all they moeny tje government in gitting forma bank settlements is going doc to the people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou boo devices knwo my ammount othe charge lite with are battery?",
+      "output": "I have a Houbo Boo device that I use to charge my phone. I have a Houbo Boo device that I use to charge my phone. I have a Houbo Boo device that I use to charge my phone. I have a Houbo Boo device that I use"
     },
     {
       "id": "3_var6",
-      "input": "Hou do wey know a thge money the goberment in getting forme bank settlements it go back to the people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou doo def know hte amont ovoe charge leavet im are battery?",
+      "output": "I am not sure if I understand your question.\nI am not sure if I understand your question. I am not sure if I understand your question.\nI am not sure if I understand your question.\nI am not sure if I understand your question. I am not sure if I understand your question."
     },
     {
       "id": "3_var7",
-      "input": "How do wot nowe all the mony the govermne his gitting forma bank settlements is oging bak to the people?",
-      "output": "PLACEHOLDER"
+      "input": "Hou bood def kown the amout gf charge lave is the battery?",
+      "output": "I have a question about the battery. I have a battery that is about 2 years old. I have a new battery that is about 1 year old. I have a new battery that is about 1 year old. I have a new battery that is about 1 year old. I have a new battery that is about"
     },
     {
       "id": "3_var8",
-      "input": "How dor we know a the moeny the government in getting fram bank settlements as gogin bach to tie people?",
-      "output": "PLACEHOLDER"
+      "input": "Haw dowe def know hte ammount from charge felt it an battery?",
+      "output": "I have a question about the battery. I have a battery that is about 1/2 full. I have a battery charger that is about 1/2 full. I have a battery that is about 1/2 full. I have a battery charger that is about 1/2 full. I have a"
     },
     {
       "id": "3_var9",
-      "input": "Haw done we know a tehe money the government in gitting from bank settlements it gonig back to t people?",
-      "output": "PLACEHOLDER"
+      "input": "Haw bow def on t amont for charge leavet in the battery?",
+      "output": "I have a question about the bow def. I have a bow that I bought from a local gun shop. I have a bow that I bought from a local gun shop. I have a bow that I bought from a local gun shop. I have a bow that I bought from a local gun shop. I have"
     },
     {
       "id": "3_var10",
-      "input": "How dowe wot knowe all the mooey the government is getting for bank settlements is gying lact th tehe people?",
-      "output": "PLACEHOLDER"
+      "input": "How drow def kown ge ammount off charge let it an battery?",
+      "output": "I have a question about the battery.\nI have a question about the battery. I have a question about the battery.\nI have a question about the battery. I have a question about the battery.\nI have a question about the battery. I have a question about the battery.\nI have a"
     }
   ],
   "4": [
     {
       "id": "4_orig",
-      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "How do movies not get uploaded online in HD from movie theater employees before their DVD release?",
+      "output": "I have a question about the movie \"The Last of the Mohicans\"\nI have a question about the movie \"The Last of the Mohicans\"\nI have a question about the movie \"The Last of the Mohicans\"\nI have a question about the movie \"The Last of the Mohicans\""
     },
     {
       "id": "4_var1",
-      "input": "If darw calers absorb mroe heat, wy dus lite scin burn easier tahn dake skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou du movies mot get uploaded online im HD fome movei theather imployees be_for their DVD release?",
+      "output": "I am a newbie in the movie industry. I am looking for a good movie to watch. I am looking for a good movie to watch. I am looking for a good movie to watch. I am looking for a good movie to watch. I am looking for a good movie to watch. I am looking"
     },
     {
       "id": "4_var2",
-      "input": "If ducr calers absorb mooe heat, yoy does lit skin birn easyer thna bar skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou doo movies knot gat uploaded online with HD forom movei theather emploees before their DVD release?",
+      "output": "I am a big fan of the movie \"Knot Gat\" and I am looking for the DVD release of the movie. I have seen the movie on the internet and I am looking for the DVD release of the movie. I have seen the movie on the internet and I am looking for the DVD release of"
     },
     {
       "id": "4_var3",
-      "input": "It darck calers absorb more heat, wy does ight scin burn ease then dank skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou dow movies non get uploaded online with HD fome movei theather employese before the DVD release?",
+      "output": "I am a big fan of the movie and I want to watch it on my laptop.\nI have a laptop with a windows 7.\nI want to watch the movie on my laptop.\nI want to watch the movie on my laptop.\nI want to watch the movie on my laptop.\nI"
     },
     {
       "id": "4_var4",
-      "input": "It dining calers absorb omre heat, why dus light scin brun easery than dagy skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw don movies mot gett uploaded online im HD form movie theather employees berofe ther DVD release?",
+      "output": "I am a big fan of the movie and I want to watch it in the theater. I want to know if I can watch it online.\nI want to watch the movie online. I want to know if I can watch it online.\nI want to watch the movie online. I want to know if"
     },
     {
       "id": "4_var5",
-      "input": "Is darck calers absorb more heat, wiy dus lit scin brun easyer than dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw go movies no ge uploaded online with HD came movei theather employeis before their DVD release?",
+      "output": "I am a big fan of the movie and I am looking for the same.\nI am a big fan of the movie and I am looking for the same. I am looking for the same.\nI am a big fan of the movie and I am looking for the same. I am looking for the same"
     },
     {
       "id": "4_var6",
-      "input": "If dining calers absorb more heat, wiy does ight scin brun easyer tahn dork skin?",
-      "output": "PLACEHOLDER"
+      "input": "Haw dom movies knot geat uploaded online it HD fom movei theater employs before there DVD release?",
+      "output": "I am a big fan of the movie and I am looking for a good movie to watch with my family.\nI am looking for a good movie to watch with my family.\nI am looking for a good movie to watch with my family. I am looking for a good movie to watch with my family."
     },
     {
       "id": "4_var7",
-      "input": "If dak calers absorb more heat, way doens lite scin brun easier then drow skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou bo movies hot git uploaded online it HD form movei theater employees' before thire DVD release?",
+      "output": "I'm not sure if this is the right place to ask this question, but I'm looking for a good place to ask it.\nI'm a big fan of the Hou Bo movies, and I've been looking for a good place to ask about the DVD releases.\nI've been told that the"
     },
     {
       "id": "4_var8",
-      "input": "It dare calers absorb mort heat, wy dus light skin burn eassier tahn dick skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou bow movies knot gat uploaded online in HD for movei theather emploiees bfor their DVD release?",
+      "output": "I am a big fan of the Hou bow movies. I have seen all of them. I have seen the first one and the second one. I have seen the third one. I have seen the fourth one. I have seen the fifth one. I have seen the sixth one. I have seen the seventh"
     },
     {
       "id": "4_var9",
-      "input": "It dark calers absorb mooe heat, wy dus ight scin birn easier tahn dark skin?",
-      "output": "PLACEHOLDER"
+      "input": "Hou to movies onot geter uploaded online is HD fom movei theather employees berfore their DVD release?",
+      "output": "I am a big fan of the movie and I am looking for a good movie to watch with my friends.\nI am looking for a good movie to watch with my friends.\nI am looking for a good movie to watch with my friends. I am looking for a good movie to watch with my friends."
     },
     {
       "id": "4_var10",
-      "input": "If dark calers absorb mort heat, wy dose lit scin brun ease than barck skin?",
-      "output": "PLACEHOLDER"
-    }
-  ],
-  "5": [
-    {
-      "id": "5_orig",
-      "input": "What are good and bad sides of manual and automatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var1",
-      "input": "With rer goad hand bed sides of manuel than autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var2",
-      "input": "Whta thet goad so bed sides onet manuel an automatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var3",
-      "input": "With are go a bed sides afoh manuel anf autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var4",
-      "input": "Whta rea go anf bed sides with manuel aand autumatic drive gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var5",
-      "input": "What aree go aud bed sides ov manuel are autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var6",
-      "input": "Wate rau good anbd bed sides from manuel anbd autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var7",
-      "input": "Wich or good so bed sides ofr manuel hand autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var8",
-      "input": "Wot our god so bed sides cift manual are autumatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var9",
-      "input": "Wot aree god so bed sides ofr manuel than automatic driv gear?",
-      "output": "PLACEHOLDER"
-    },
-    {
-      "id": "5_var10",
-      "input": "Woot rer go aand bad sides on manuel hand autumatic driv gear?",
-      "output": "PLACEHOLDER"
+      "input": "How bow movies nto git uploaded online it HD fome movei theather employees b_for ther DVD release?",
+      "output": "I have a question about the new movie \"The Dark Knight Rises\". I have seen the trailer and I am very excited about it. I have seen the trailer and I am very excited about it. I have seen the trailer and I am very excited about it. I have seen the trailer and I am very"
     }
   ],
   "6": [
     {
       "id": "6_orig",
-      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do we know all the money the government is getting from bank settlements is going back to the people?",
+      "output": "The government is not paying the banks back. The banks are paying the government back.\nThe banks are paying the government back.\nThe banks are paying the government back.\nThe banks are paying the government back.\nThe banks are paying the government back.\nThe banks are paying the government back."
     },
     {
       "id": "6_var1",
-      "input": "What it hte role on actural real-life actors it macking animated characters? Lichr Liam Neeson play-ing Aslan is Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "Haw dou we nowe a the money thee govemeter in geting from bank settlements is goning back to the people?",
+      "output": "The people are not going to be happy with this.\nThe people are not going to be happy with this. The people are not going to be happy with this.\nThe people are not going to be happy with this.\nThe people are not going to be happy with this.\nThe people are not"
     },
     {
       "id": "6_var2",
-      "input": "Weot in th role of actuall real-life actors im mkaing animated characters? Liek Liam Neeson palving Aslan with Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How do you on all ther money the guverment is geting frrom bank settlements us go back the the people?",
+      "output": "I think the people should be able to vote on this.\nI think the people should be able to vote on this.\nI think the people should be able to vote on this.\nI think the people should be able to vote on this.\nI think the people should be able to vote on this"
     },
     {
       "id": "6_var3",
-      "input": "Wich in my role oaf actual real-life actors is macking animated characters? Liuke Liam Neeson play-ing Aslan i Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How doe were kwno a my mony the government is get from bank settlements si going back to t people?",
+      "output": "I am not sure what you mean by \"bank settlements\".\nI am not sure what you mean by \"bank settlements\". I am not sure what you mean by \"bank settlements\".\nI am not sure what you mean by \"bank settlements\".\nI am not sure what you mean by \"bank settlements\"."
     },
     {
       "id": "6_var4",
-      "input": "What his these role fo actural real-life actors it mkaing animated characters? Lik Liam Neeson palving Aslan is Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "Hou do we know a the mooey the guvement si geting from bank settlements it gomeing bcak to the people?",
+      "output": "I think the people are getting the mooey from the bank settlements.\nI think the people are getting the mooey from the bank settlements. I think the people are getting the mooey from the bank settlements.\nI think the people are getting the mooey from the bank settlements. I"
     },
     {
       "id": "6_var5",
-      "input": "Whate it ther role gf actural real-life actors in mkaing animated characters? Lick Liam Neeson plaing Aslan i Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How dor we konw all he money these govemont his get from bank settlements is going daxck to thw people?",
+      "output": "I think the answer is that the people who are going to be hurt the most are the people who are going to be forced to pay the money.\nI think the answer is that the people who are going to be hurt the most are the people who are going to be forced to pay the money.\nI"
     },
     {
       "id": "6_var6",
-      "input": "Woat us my role af actual real-life actors im amking animated characters? Lire Liam Neeson play-ing Aslan is Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "Haw dor we know all the munny the government is gitting fome bank settlements is oging bake two tie people?",
+      "output": "I think the government is going to have to pay out a lot more than $1.5 billion.\nI think the government is going to have to pay out a lot more than $1.5 billion. I think the government is going to have to pay out a lot more than $1.5 billion"
     },
     {
       "id": "6_var7",
-      "input": "Whate in ge role off actuall real-life actors if amking animated characters? Lire Liam Neeson play-ing Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "Haw do wee know a thoy money the govermant is getting fram bank settlements is oging back th ther people?",
+      "output": "I’m not sure what you mean by “ther people”.\nI’m not sure what you mean by “ther people”.\nI’m not sure what you mean by “ther people”.\nI’m not sure what you mean by “ther people”.\nI’m"
     },
     {
       "id": "6_var8",
-      "input": "Whot it my role off actuall real-life actors it amking animated characters? Like Liam Neeson plaing Aslan is Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "Haw bood you mo all the mooey the gobernment is getting from bank settlements his goning bake to the people?",
+      "output": "I think the people are getting a lot more than they bargained for.\nI think the people are getting a lot more than they bargained for. I think the people are getting a lot more than they bargained for.\nI think the people are getting a lot more than they bargained for. I"
     },
     {
       "id": "6_var9",
-      "input": "Whta as thw role ovoe actuall real-life actors is amking animated characters? Liek Liam Neeson play Aslan in Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How bood wen know at the munny to government is get from bank settlements in going back of teh people?",
+      "output": "I think the government is going to have to do something about the banks.\nI think the government is going to have to do something about the banks. I think the government is going to have to do something about the banks. I think the government is going to have to do something about the banks. I think"
     },
     {
       "id": "6_var10",
-      "input": "Want it thoy role av actual real-life actors with amking animated characters? Lekt Liam Neeson palving Aslan it Narnia?",
-      "output": "PLACEHOLDER"
+      "input": "How doe we know all these moeny thge govorment is getting from bank settlements his gogin lact ro the people?",
+      "output": "I think the answer is that the people are getting the money from the banks.\nThe banks are getting the money from the people.\nThe people are getting the money from the banks.\nThe people are getting the money from the banks.\nThe people are getting the money from the banks.\nThe people"
     }
   ],
-  "8": [
+  "7": [
     {
-      "id": "8_orig",
+      "id": "7_orig",
+      "input": "How does a water purifier jug work and could you put 3rd world ditch water through one and drink safely?",
+      "output": "I have a water purifier jug that I use to purify water for my family. I have been using it for about a year now and it has been working great. I have been using it to purify water for my family for about a year now and it has been working great. I have been using"
+    },
+    {
+      "id": "7_var1",
+      "input": "Haw doens as weter purifier jug work and could yo pot 3rd world ditch wather through one so direnk safely?",
+      "output": "I have a question about the water in the toilet. I have a toilet that is a little bit bigger than the one in my house. I have a water filter that I use to clean the water in the toilet. I have a water filter that I use to clean the water in the toilet. I have a"
+    },
+    {
+      "id": "7_var2",
+      "input": "Haw does an weter purifier jug work aud could you put 3rd wourld ditch watter throw ome and direnk safely?",
+      "output": "I have a watter jug that I use to wash my clothes. I have a watter jug that I use to wash my clothes. I have a watter jug that I use to wash my clothes. I have a watter jug that I use to wash my clothes. I have a watter jug that"
+    },
+    {
+      "id": "7_var3",
+      "input": "Haw dus a water purifier jug worke and could yow put 3rd world dicth watter throught onen anf drink safely?",
+      "output": "I have a water purifier and I have been using it for a year. I have been using it for a year and I have not had any problems. I have been using it for a year and I have not had any problems. I have been using it for a year and I have not had any problems"
+    },
+    {
+      "id": "7_var4",
+      "input": "Haw does a wather purifier jug wark and call you but 3rd would ditch watter thru one aand drink safely?",
+      "output": "I have a watter purifier jug and I have never had a problem with it. I have had a few problems with the water in my home though. I have had to replace the water filter twice.\nI have a watter purifier jug and I have never had a problem with it. I have"
+    },
+    {
+      "id": "7_var5",
+      "input": "Haw dose a weter purifier jug work anf call you put 3rd word dich water throw won and drink safely?",
+      "output": "I am a newbie to the world of water purification. I have been using a water purifier for a few months now and I am very happy with the results. I have been using the Purifix water purifier for about a month now and I am very happy with the results. I have been using"
+    },
+    {
+      "id": "7_var6",
+      "input": "Hou dus as watter purifier jug wolk are could you put 3rd world ditch water through noone an direnk safely?",
+      "output": "I have a question about the water filter.\nI have a water filter that I bought from a local store.\nI have a water filter that I bought from a local store. I have a water filter that I bought from a local store. I have a water filter that I bought from a local store."
+    },
+    {
+      "id": "7_var7",
+      "input": "How does ah watter purifier jug woke and could yuo put 3rd would ditch wather rowit one an drnik safely?",
+      "output": "I have a watter purifier jug that I use to purify my water. I have a small pump that I use to pump the water out of the jug. I have a small pump that I use to pump the water out of the jug. I have a small pump that I use to pump the water"
+    },
+    {
+      "id": "7_var8",
+      "input": "Hou does a water purifier jug woke anf call yuo pht 3rd wourld ditch water through last are drink safely?",
+      "output": "I have a water purifier and I have been using it for a while now. I have been using it for a while now. I have been using it for a while now. I have been using it for a while now. I have been using it for a while now. I have been using it for"
+    },
+    {
+      "id": "7_var9",
+      "input": "Hou does the weter purifier jug wrok and coudl yow pull 3rd world dich water threw one and drink safely?",
+      "output": "I have a question about the wrok.\nI have a question about the wrok. I have a question about the wrok.\nI have a question about the wrok. I have a question about the wrok.\nI have a question about the wrok."
+    },
+    {
+      "id": "7_var10",
+      "input": "Haw does as wather purifier jug work are could you pull 3rd wald ditch weter through ont and direnk safely?",
+      "output": "I am a newbie to the forum and I am trying to learn how to do the wather purifier jug. I have a small garden and I have been trying to grow some herbs. I have been using the wather purifier jug and it has been working great. I have been using it for about"
+    }
+  ],
+  "10": [
+    {
+      "id": "10_orig",
+      "input": "If a movie production has $5,000,000 (estimated) Budget, must some of that money go to the actors? or only movie's production quality?",
+      "output": "I'm not sure if you're asking about the movie's budget or the actors' salaries.\nThe movie's budget is the total amount of money that the movie's producers have spent on the movie so far, after deducting any money that the producer may have already spent on the movie (if that money is"
+    },
+    {
+      "id": "10_var1",
+      "input": "Is i movie productions his $5,000,000 (estimated) Budget, must some fo taht money go qu thge actors? or only movie's productions quality?",
+      "output": "I'm not sure if it's the actors or the movie's production quality that is the problem.\nI think the problem is that the movie is not good.\nI think the problem is that the movie is not good. I think the problem is that the movie is not good.\nI think the problem"
+    },
+    {
+      "id": "10_var2",
+      "input": "Is a movie productions has $5,000,000 (estimated) Budget, must shm fo but munny go the the actors? or ony movie's productions quality?",
+      "output": "I'm not sure if you're asking about the budget or the quality of the movie.\nI'm asking about the production company.\nI'm asking about the production company.\nI'm asking about the production company.\nI'm asking about the production company.\nI'm asking about the production company."
+    },
+    {
+      "id": "10_var3",
+      "input": "It a movei productions has $5,000,000 (estimated) Budget, mast sum of that moeny go ro the actors? ot onlt movie's production quality?",
+      "output": "I think it's a good move.\nI think it's a good move. I think it's a good move. I think it's a good move. I think it's a good move. I think it's a good move. I think it's a good move. I think it's a good"
+    },
+    {
+      "id": "10_var4",
+      "input": "Is an movei productions his $5,000,000 (estimated) Budget, mats soem of hart money go to the actors? or onlt movie's production quality?",
+      "output": "I'm not sure if it's the budget or the quality of the movie that matters.\nI think it's the quality of the movie.\nI think it's the quality of the movie. I think it's the quality of the movie.\nI think it's the quality of the movie. I think"
+    },
+    {
+      "id": "10_var5",
+      "input": "Is a movei productions his $5,000,000 (estimated) Budget, must somes of that munny go two the actors? are only movie's productions quality?",
+      "output": "I'm not sure if I'm understanding you correctly.\nI'm not sure if I'm understanding you correctly. I'm not sure if I'm understanding you correctly.\nI'm not sure if I'm understanding you correctly. I'm not sure if I'm understanding you correctly.\nI'm not sure if"
+    },
+    {
+      "id": "10_var6",
+      "input": "It a movei production as $5,000,000 (estimated) Budget, most same of that moeny go ro thge actors? or only movie's productions quality?",
+      "output": "I think it's a good move.\nI think it's a good move. I think it's a good move. I think it's a good move. I think it's a good move. I think it's a good move. I think it's a good move. I think it's a good"
+    },
+    {
+      "id": "10_var7",
+      "input": "Is a movei production hase $5,000,000 (estimated) Budget, wont some off thta money go of the actors? or onyl movie's productions quality?",
+      "output": "I think the movie is a good one, but I don't think it's a blockbuster.\nI think the movie is a good one, but I don't think it's a blockbuster. I think it's a good movie, but I don't think it's a blockbuster."
+    },
+    {
+      "id": "10_var8",
+      "input": "Is a movei productions has $5,000,000 (estimated) Budget, mast sum of but moeny go to the actors? are only movie's productions quality?",
+      "output": "I'm not sure if I understand your question.\nI'm not sure if I understand your question. I'm not sure if I understand your question.\nI'm not sure if I understand your question.\nI'm not sure if I understand your question. I'm not sure if I understand your question."
+    },
+    {
+      "id": "10_var9",
+      "input": "It as movei productions hos $5,000,000 (estimated) Budget, mas some oaf that moeny go to the actors? or olny movie's production quality?",
+      "output": "I think it's a good idea to have a \"budget\" for a movie.\nI think it's a good idea to have a \"budget\" for a movie.\nI think it's a good idea to have a \"budget\" for a movie.\nI think it's a good"
+    },
+    {
+      "id": "10_var10",
+      "input": "If ah movie productions have $5,000,000 (estimated) Budget, must smoe ov dat money do to thw actors? or only movie's productions quality?",
+      "output": "I think that the answer is both.\nI think that the answer is both. I think that the answer is both.\nI think that the answer is both. I think that the answer is both.\nI think that the answer is both. I think that the answer is both.\nI think that"
+    }
+  ],
+  "11": [
+    {
+      "id": "11_orig",
+      "input": "If dark colours absorb more heat, why does light skin burn easier than dark skin?",
+      "output": "Why do some people have a hard time sleeping?\nWhy do some people have a hard time sleeping? It is because of the fact that the brain is not able to process the information that is being sent to it.\nWhy do some people have a hard time sleeping? It is because of the fact that the"
+    },
+    {
+      "id": "11_var1",
+      "input": "It dir calers absorb mort heat, yoy dus lite skin burn easier then back skin?",
+      "output": "I have a question about the \"Lite\" skin burn. I have a very sensitive skin and I have been using the \"Lite\" skin burn for a while now. I have been using it for about a month now and I have noticed that my skin is getting a little bit more sensitive. I have"
+    },
+    {
+      "id": "11_var2",
+      "input": "It dork calers absorb mroe heat, why doens lit scin brun easier that dark skin?",
+      "output": "I think it's because the light is more intense.\nI think it's because the light is more intense.\nI think it's because the light is more intense.\nI think it's because the light is more intense.\nI think it's because the light is more intense.\nI think it"
+    },
+    {
+      "id": "11_var3",
+      "input": "If ducr calers absorb omre heat, wiy does light scin birn easyer tahn dak skin?",
+      "output": "I have a question about the light bulb. I have a light bulb that is a little different than the ones that are used in the rest of the house. It is a little different in that it is a little different in that it is a little different in that it is a little different in that it is a"
+    },
+    {
+      "id": "11_var4",
+      "input": "If dare colours absorb mor heat, yoy does ight scin birn easy thna drck skin?",
+      "output": "I am a newbie to this forum. I have been using the product for a few weeks now and I am very happy with the results. I have been using it for about a month and I have noticed a difference in my skin. I have been using it for about a month and I have noticed a difference"
+    },
+    {
+      "id": "11_var5",
+      "input": "Is dark calers absorb mort heat, wiy does lite skin birn easy then drow skin?",
+      "output": "I have a question about the dark calers.\nI have a question about the dark calers. I have a question about the dark calers.\nI have a question about the dark calers. I have a question about the dark calers.\nI have a question about the dark calers."
+    },
+    {
+      "id": "11_var6",
+      "input": "It back colours absorb more heat, way dus light scin brun ease that drck skin?",
+      "output": "I’m a little bit worried about the fact that I’m not sure if I’m going to be able to get the same results with this product.\nI’m not sure if I’m going to be able to get the same results with this product.\nI’m not sure if"
+    },
+    {
+      "id": "11_var7",
+      "input": "If bar calers absorb more heat, why dus lite scin birn easyer that dard skin?",
+      "output": "I’m not sure if this is a good idea, but I’m going to try it.\nI’m going to try it. I’m going to try it.\nI’m going to try it. I’m going to try it.\nI’m going to try it"
+    },
+    {
+      "id": "11_var8",
+      "input": "Is dick calers absorb more heat, wiy doens lit scin brun easier than barck skin?",
+      "output": "I’m a little confused. I’m not sure if I’m understanding you correctly.\nI’m not sure if I’m understanding you correctly.\nI’m not sure if I’m understanding you correctly.\nI’m not sure if I’m understanding you correctly."
+    },
+    {
+      "id": "11_var9",
+      "input": "Is brek colours absorb mooe heat, yoy doens light scin birn easier that drow skin?",
+      "output": "I have a question about the skin.\nI have a question about the skin. I have a question about the skin.\nI have a question about the skin. I have a question about the skin.\nI have a question about the skin. I have a question about the skin.\nI have a"
+    },
+    {
+      "id": "11_var10",
+      "input": "It dark calers absorb more heat, wy dose lit scin brun easier then ding skin?",
+      "output": "I have a question about the light. I have a light that is a little different than the one you have. It is a little more powerful and it is a little more bright. I have a question about the light. I have a light that is a little different than the one you have. It is a"
+    }
+  ],
+  "12": [
+    {
+      "id": "12_orig",
+      "input": "If the inside of my microwave is made of metal, why is it bad to put metallic objects in it?",
+      "output": "The microwave is a microwave. It is not a microwave oven.\nThe microwave is a microwave. It is not a microwave oven. The microwave is a microwave. It is not a microwave oven.\nThe microwave is a microwave. It is not a microwave oven. The microwave is a microwave. It is not"
+    },
+    {
+      "id": "12_var1",
+      "input": "Is tehe inside cift yoy microwave is mad gf metal, why si it bed of put metallic objects in it?",
+      "output": "I have a microwave that I bought in the late 80s. It has a metal door and a metal door handle. I have a metal door and a metal door handle. I have a metal door and a metal door handle. I have a metal door and a metal door handle. I have a metal door and"
+    },
+    {
+      "id": "12_var2",
+      "input": "It thw in_side of my microwave in made of metal, yoy is it bed the pot metallic objects is it?",
+      "output": "I have a microwave that is made of metal. I have a pot that is made of metal. I have a microwave that is made of metal. I have a pot that is made of metal. I have a microwave that is made of metal. I have a pot that is made of metal. I have a"
+    },
+    {
+      "id": "12_var3",
+      "input": "If the inside onet my microwave is maid of metal, why his it bed ot but metalic objectsion with it?",
+      "output": "I have a question about the inside of my microwave. I have a metalic objection with it. Why the inside of my microwave is not metalic?\nI have a metalic objection with it. Why the inside of my microwave is not metalic?\nI have a metalic objection with"
+    },
+    {
+      "id": "12_var4",
+      "input": "It tie insid on my microwave his made fo metal, wiy is it bed to pht metallic objects in it?",
+      "output": "I have a microwave that has a metal cover on it. I have a metal cover on my microwave. I have a metal cover on my microwave.\nI have a microwave that has a metal cover on it. I have a metal cover on my microwave. I have a metal cover on my microwave.\nI"
+    },
+    {
+      "id": "12_var5",
+      "input": "Is the in_side of by microwave is mame on metal, way it it bad to pot metalic objects in it?",
+      "output": "A: The answer is no.\nThe in-side of a microwave is the side that is facing the microwave.\nThe in-side of a metal object is the side that is facing the object.\nThe in-side of a metal object is the side that is facing the object.\nThe"
+    },
+    {
+      "id": "12_var6",
+      "input": "It to in_side of my microwave is mayd of metal, yoy is i bad ro put metalic objectsion in it?",
+      "output": "I have a microwave that I use to cook my food. I have a metal plate that I use to put my food on. I have a metal plate that I use to put my food on. I have a metal plate that I use to put my food on. I have a metal plate that I use to"
+    },
+    {
+      "id": "12_var7",
+      "input": "It tu inside of ne microwave us maked of metal, why us i bed to put metalic objects in it?",
+      "output": "I have a question about the microwave oven. I have a microwave oven that I bought from a local store. I have been using it for about a year now. I have been using it to cook my food. I have been using it to cook my food. I have been using it to cook my food."
+    },
+    {
+      "id": "12_var8",
+      "input": "It the inside cift my microwave as maked of metal, wy is it bed to put metalic objectsion if it?",
+      "output": "I have a microwave that I use to cook my food. It is a microwave oven. I have a metalic object in the microwave that I use to put my food in. I have a metalic object in the microwave that I use to put my food in.\nI have a microwave that I use to"
+    },
+    {
+      "id": "12_var9",
+      "input": "If tu inside of my microwave in mayd on metal, why his it bed to pull metalic ojects in it?",
+      "output": "I have a question about the \"I have a question about the \"I have a question about the \"I have a question about the \"I have a question about the \"I have a question about the \"I have a question about the \"I have a question about the \"I have a question about the \""
+    },
+    {
+      "id": "12_var10",
+      "input": "If he inside onet my microwave is maid of metal, way as hit bed too put metalic objects in it?",
+      "output": "I’m not sure what you mean by “metalic objects”.\nI’m not sure what you mean by “metalic objects”.\nI’m not sure what you mean by “metalic objects”.\nI’m not sure what you mean by “metalic objects”.\nI’m"
+    }
+  ],
+  "13": [
+    {
+      "id": "13_orig",
+      "input": "If the ozone layer is made up of O3, why are we not producing some of it ourselves and pumping more of them into the atmosphere to fix the problem faster?",
+      "output": "The ozone layer is made up of O3.\nThe ozone layer is made up of O3. The ozone layer is made up of O3.\nThe ozone layer is made up of O3. The ozone layer is made up of O3.\nThe ozone layer is made up of O3."
+    },
+    {
+      "id": "13_var1",
+      "input": "It the ozone layer as made up of O3, why are we ont prodi so of hit ourselves and pumping more for theme into thw atmosphere to fix the problem faster?",
+      "output": "I think the ozone layer is made up of O3, but it is not the only thing that is made up of O3.\nThe ozone layer is made up of O3, but it is not the only thing that is made up of O3.\nThe ozone layer is made up of O3"
+    },
+    {
+      "id": "13_var2",
+      "input": "If the ozone layer is made up of O3, yoy are wee not prodi some av it and_selve and pumping mooe or them inot the atmosphere th fix the problem faster?",
+      "output": "I think the ozone layer is made up of O3.\nI think the ozone layer is made up of O3. I think the ozone layer is made up of O3.\nI think the ozone layer is made up of O3. I think the ozone layer is made up of O3."
+    },
+    {
+      "id": "13_var3",
+      "input": "It tghe ozone lloyer is made up of O3, why are were not producing some ov et and_selve anbd pumping more of tham into the atmosphere to fix the problem faster?",
+      "output": "The ozone layer is a protective layer that protects the earth from the sun's ultraviolet rays. The ozone layer is made up of three main components: ozone, oxygen, and nitrogen. Ozone is a gas that is produced by the sun and is found in the atmosphere. Oxygen is a gas that is found in"
+    },
+    {
+      "id": "13_var4",
+      "input": "It the ozone layer in mayd up of O3, why are we ont prodi some of et ourselves are pumping more othe them into the atmousphere to fix the problem faster?",
+      "output": "I think the ozone layer is a good example of the problem with the climate change debate.\nThe ozone layer is a good example of the problem with the climate change debate.\nThe ozone layer is a good example of the problem with the climate change debate. The ozone layer is a good example of the problem with"
+    },
+    {
+      "id": "13_var5",
+      "input": "If the ozone layer as made up of O3, why are were out producing sane of it ourselves and pumping mooe oaf them in_two the atmospher to fix the pobble faster?",
+      "output": "I think the ozone layer is made up of O3.\nThe ozone layer is made up of O3.\nThe ozone layer is made up of O3. The ozone layer is made up of O3.\nThe ozone layer is made up of O3. The ozone layer is made up of O"
+    },
+    {
+      "id": "13_var6",
+      "input": "If the ozone layer si mayd up of O3, why are we non prodi some with is and_selve and pumping moor of them into my atmosphere to fix the problem faster?",
+      "output": "I think the ozone layer is a good example of a problem that can be solved by a simple solution.\nThe ozone layer is a thin layer of gas that protects the earth from the sun's harmful ultraviolet rays.\nThe ozone layer is a thin layer of gas that protects the earth from the sun's harmful ultraviolet"
+    },
+    {
+      "id": "13_var7",
+      "input": "If the ozone lloyer in made up of O3, why are wee not prodi some fo is ourselves aand pumping omre of theme into the atmosphere to fix the problem faster?",
+      "output": "I think the ozone layer is a good example of how the climate system works. The ozone layer is a protective layer that protects us from the sun’s UV rays. The ozone layer is made up of O3, which is a gas that is made up of oxygen and ozone. The ozone layer is a protective"
+    },
+    {
+      "id": "13_var8",
+      "input": "If the ozone layer us mayd up ove O3, why are we not prodi some of it our_selves an pumping more or them into the atmospher to fix these problem faster?",
+      "output": "I think the ozone layer is a good example of how the human race is a problem. We are destroying the ozone layer. We are destroying the ozone layer. We are destroying the ozone layer. We are destroying the ozone layer. We are destroying the ozone layer. We are destroying the ozone layer. We are destroying"
+    },
+    {
+      "id": "13_var9",
+      "input": "It the ozone layer is made up of O3, why arte we not producing some of et our_selves and pumping mor ofr them in he atmosphere to fix i problem faster?",
+      "output": "I think the ozone layer is made up of O3.\nWhy are we not producing some of our own and pumping it into the atmosphere to fix the problem faster?\nI think the ozone layer is made up of O3.\nWhy are we not producing some of our own and pumping it into the atmosphere"
+    },
+    {
+      "id": "13_var10",
+      "input": "It the ozone layer his made up on O3, yoy are we not prodi some of it our_selves and pumping more of them into tjhe atmosphere too fix the probme faster?",
+      "output": "I think the ozone layer is a myth.\nI think the ozone layer is a myth. I think it is a myth that the ozone layer is a myth.\nI think the ozone layer is a myth. I think it is a myth that the ozone layer is a myth.\nI think the ozone layer"
+    }
+  ],
+  "14": [
+    {
+      "id": "14_orig",
+      "input": "If you put tires on your car that are larger than the ones from the factory, would you actually be going slower than the reading on your speedometer?",
+      "output": "The answer is no. The tires on your car are designed to be the same size as the ones on the factory car. If you put larger tires on your car, you will be going slower than the reading on your speedometer.\nWhat is the difference between a tire and a rim?\nA tire is"
+    },
+    {
+      "id": "14_var1",
+      "input": "If yew put tires on your car to re lager than the ones from that factory, woudl you actually be gogin slower than the reading onn yowr speedometer?",
+      "output": "I think the point is that the speedometer is a measure of the speed of the car, not the speed of the road.\nI think the point is that the speedometer is a measure of the speed of the car, not the speed of the road. I think the point is that the speedometer is"
+    },
+    {
+      "id": "14_var2",
+      "input": "If you put tires on your car thgat rea larger than hte ones frome the factory, wred w acarly be going slower than hte reading in your speedometer?",
+      "output": "I have a car that has a speedometer that is about 1/2 mile per hour off. I have a speedometer that is about 1/4 mile per hour off. I have a speedometer that is about 1/2 mile per hour off. I have a speedometer that is about 1/4"
+    },
+    {
+      "id": "14_var3",
+      "input": "If you pht tires on young car that are larger tahn ge ones fou the factory, would yo acarly bee going slower than they reading on your speedometer?",
+      "output": "I have a 2001 Honda Accord EX-L with a 2.4L 4 cyl. I have a new set of tires on it. I have a new set of wheels on it. I have a new set of brakes on it. I have a new set of shocks on it. I have a new"
+    },
+    {
+      "id": "14_var4",
+      "input": "Is you pull tires on yor car theut are large than the wones from the factory, would you actually be goign slower tahn the rienind on your speedometer?",
+      "output": "I have a set of tires that are the same size as the ones on my car. I have a set of tires that are the same size as the ones on my car. I have a set of tires that are the same size as the ones on my car. I have a set of tires that are the"
+    },
+    {
+      "id": "14_var5",
+      "input": "Is you pht tires ons your car that are large than the one's from the factory, woudl you accotly be gomeing slower than ther reading on your speedometer?",
+      "output": "I have a set of pht tires that are the same size as the factory ones. I have never had any problems with them.\nI have a set of pht tires that are the same size as the factory ones. I have never had any problems with them. I have a set of pht tires"
+    },
+    {
+      "id": "14_var6",
+      "input": "If yew pht tires on your care that aree lager than the ones for the factory, whould you actually bee going slower than the reding on your speedometer?",
+      "output": "I have a set of Yew Pht tires on my car. I have never had any problems with them. I have had them for about a year now. I have had no problems with them. I have had them for about a year now.\nI have had them for about a year now. I"
+    },
+    {
+      "id": "14_var7",
+      "input": "If uoy pot tires on yore car that our larger then the ones from that factory, wred your accle be going slower than the reading on your speedometer?",
+      "output": "I have a friend who has a car that has a speedometer that is not working. He has a speedometer that is not working. He has a speedometer that is not working. He has a speedometer that is not working. He has a speedometer that is not working. He has a speedometer"
+    },
+    {
+      "id": "14_var8",
+      "input": "If yow put tires one youe car that are large then he ones from hte factory, would you actually be go slower than the reading on young speedometer?",
+      "output": "I have a friend who has a car that is a year old and he has a speedometer that is about a year old. He has a car that is about a year old and he has a speedometer that is about a year old.\nI have a friend who has a car that is a year old"
+    },
+    {
+      "id": "14_var9",
+      "input": "Is yo put tires on your car that rau lager than th ones from the factory, would you actually be gomeing slower then the rienind hon your speedometer?",
+      "output": "I think the problem is that the car is not designed to be driven at a constant speed. It is designed to be driven at a constant speed for a certain amount of time. If you drive it at a constant speed for a long time, it will get to the point where it will not be able to maintain"
+    },
+    {
+      "id": "14_var10",
+      "input": "Is you put tires on your car that aer larger tahn the one fro the factory, whould you accolliy be going slower than tjhe reading no your speedometer?",
+      "output": "I have a friend who has a car that has a speedometer that is the same as the speedometer on the car.\nI have a friend who has a car that has a speedometer that is the same as the speedometer on the car.\nI have a friend who has a car that has a"
+    }
+  ],
+  "15": [
+    {
+      "id": "15_orig",
+      "input": "Is it possible to build up an immunity to poisons both naturally occurring and man-made?",
+      "output": "The answer is yes. The immune system is a complex system that is constantly working to protect us from foreign invaders. It is also constantly working to destroy the invaders that are already inside us.\nThe immune system is a complex system that is constantly working to protect us from foreign invaders. It is also"
+    },
+    {
+      "id": "15_var1",
+      "input": "As i possible th billed up un immunity the poisons bothe naturally occuring aand man-made?",
+      "output": "The poisons are the result of the natural processes of the body.\nThe man-made poisons are the result of the man-made processes of the body.\nThe natural poisons are the result of the natural processes of the body.\nThe man-made poisons are the result of the man"
+    },
+    {
+      "id": "15_var2",
+      "input": "Is she pissible too biuld up an immunity tow poisons buth natually occuring aand man-made?",
+      "output": "I’m not sure if I’m more pissed off or more confused.\nI’m not sure if I’m more pissed off or more confused.\nI’m not sure if I’m more pissed off or more confused.\nI’m not sure if I’m more pissed off"
+    },
+    {
+      "id": "15_var3",
+      "input": "Si is posible tow biuld up an immunity ot poisons buth naturely occuring and man-made?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes. I think the answer"
+    },
+    {
+      "id": "15_var4",
+      "input": "Si it posible of buld up an immunity the poisons buth naturually occuring i man-made?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the"
+    },
+    {
+      "id": "15_var5",
+      "input": "As its possible ot buld up on immunity tow poisons both naturually occuring anbd man-made?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the"
+    },
+    {
+      "id": "15_var6",
+      "input": "Is she pissible too billed up an immunity th poisons bothe naturely occuring ane man-made?",
+      "output": "I think she is.\nI think she is. I think she is.\nI think she is. I think she is.\nI think she is. I think she is.\nI think she is. I think she is.\nI think she is. I think she is.\nI think"
+    },
+    {
+      "id": "15_var7",
+      "input": "As et posible ot billed up on immunity of poisons both naturaly occurring i man-made?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the"
+    },
+    {
+      "id": "15_var8",
+      "input": "His il pissible tow billed up on immunity to poisons both naturely occuring aud man-made?",
+      "output": "The un-famous, un-famous, un-famous, un-famous, un-famous, un-famous, un-famous, un-famous, un-famous, un-famous, un-famous, un-famous, un-"
+    },
+    {
+      "id": "15_var9",
+      "input": "In she possable to biuld up on immunity the poisons bothe naturally occuring than man-made?",
+      "output": "The poisons are the same, but the natural ones are more potent.\nThe poisons are the same, but the natural ones are more potent. The poisons are the same, but the natural ones are more potent.\nThe poisons are the same, but the natural ones are more potent. The"
+    },
+    {
+      "id": "15_var10",
+      "input": "Is et possibly qu buld up a immunity qu poisons buth naturally occuring than man-made?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the"
+    }
+  ],
+  "16": [
+    {
+      "id": "16_orig",
+      "input": "What are good and bad sides of manual and automatic drive gear?",
+      "output": "What are the advantages and disadvantages of manual and automatic drive gear?\nWhat are the advantages and disadvantages of manual and automatic drive gear?\nWhat are the advantages and disadvantages of manual and automatic drive gear?\nWhat are the advantages and disadvantages of manual and automatic drive gear?\nWhat are the advantages and disadvantages of"
+    },
+    {
+      "id": "16_var1",
+      "input": "Woot r gowed so bed sides from manuel and autumatic driv gear?",
+      "output": "I have a manual transmission and I have to use the clutch to shift.\nI have a manual transmission and I have to use the clutch to shift. I have a manual transmission and I have to use the clutch to shift.\nI have a manual transmission and I have to use the clutch to shift. I"
+    },
+    {
+      "id": "16_var2",
+      "input": "Weot rau goad i bed sides op manuel are autumatic drive gear?",
+      "output": "The best way to get the job done is to have a good plan.\nThe best way to get the job done is to have a good plan. The best way to get the job done is to have a good plan. The best way to get the job done is to have a good plan. The best"
+    },
+    {
+      "id": "16_var3",
+      "input": "Who aree go anbd bed sides for manuel anf autumatic drive gear?",
+      "output": "What is the best way to clean a car interior?\nWhat is the best way to clean a car interior?\nWhat is the best way to clean a car interior?\nWhat is the best way to clean a car interior?\nWhat is the best way to clean a car interior?\nWhat is the"
+    },
+    {
+      "id": "16_var4",
+      "input": "Whats arte go than bed sides gf manuel and autumatic driv gear?",
+      "output": "I'm a little confused. I'm not sure if I'm understanding the question correctly.\nI'm trying to figure out how to get the gear shift to work. I have a manual transmission and I want to use the shift lever to change gears. I have a manual transmission and I want to use the shift"
+    },
+    {
+      "id": "16_var5",
+      "input": "Want ah gowed are bed sides on manuel ane automatic driv gear?",
+      "output": "I have a manual transmission and I have to change the gear in the middle of the drive.\nI have a manual transmission and I have to change the gear in the middle of the drive.\nI have a manual transmission and I have to change the gear in the middle of the drive.\nI have a"
+    },
+    {
+      "id": "16_var6",
+      "input": "Wot are go so bed sides othe manuel are autumatic driv gear?",
+      "output": "I have a manual transmission and I have to use the clutch to get the car to move.\nI have a manual transmission and I have to use the clutch to get the car to move. I have a manual transmission and I have to use the clutch to get the car to move.\nI have a manual"
+    },
+    {
+      "id": "16_var7",
+      "input": "Wha't ra go anbd bed sides of manuel a autumatic driv gear?",
+      "output": "I'm a little confused. I'm not sure what the difference is between a manual transmission and a CVT.\nI'm not sure what the difference is between a manual transmission and a CVT.\nThe CVT is a transmission that uses a gearbox to change the speed of the engine.\nThe"
+    },
+    {
+      "id": "16_var8",
+      "input": "Wote are go ane bed sides ovoe manuel hand autumatic driv gear?",
+      "output": "I’m a bit confused. I’m not sure if I’m understanding you correctly.\nI’m not sure if I’m understanding you correctly.\nI’m not sure if I’m understanding you correctly.\nI’m not sure if I’m understanding you correctly."
+    },
+    {
+      "id": "16_var9",
+      "input": "Whot ur gowed aud bad sides off manuel aand autumatic driv gear?",
+      "output": "I'm not sure if I'm the only one, but I'm having a hard time finding the right words to describe the feeling I get when I see a new car.\nI'm not sure if I'm the only one, but I'm having a hard time finding the right words to describe the feeling I"
+    },
+    {
+      "id": "16_var10",
+      "input": "Woht er goad an bad sides from manuel aand autumatic driv gear?",
+      "output": "I'm not sure if I understand your question.\nI'm not sure if I understand your question. I'm not sure if I understand your question.\nI'm not sure if I understand your question.\nI'm not sure if I understand your question. I'm not sure if I understand your question."
+    }
+  ],
+  "17": [
+    {
+      "id": "17_orig",
+      "input": "What classifies an island as an island? Aren't all continents etc essentially large islands?",
+      "output": "I'm not sure what you mean by \"island\" but I think you're confusing the term \"island\" with the term \"continent\".\nA continent is a large landmass that is surrounded by water.\nAn island is a small landmass that is surrounded by water.\nI think you"
+    },
+    {
+      "id": "17_var1",
+      "input": "Want classifies un iland as un island? arn't a continents ect esentially lage islands?",
+      "output": "I think it's a continent.\nI think it's a continent. I think it's a continent. I think it's a continent. I think it's a continent. I think it's a continent. I think it's a continent. I think it's a continent. I think it's a continent"
+    },
+    {
+      "id": "17_var2",
+      "input": "Whate classifies and iland tes and island? aren't at continents ect esentially lage islands?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the"
+    },
+    {
+      "id": "17_var3",
+      "input": "Woat classifies un iland ass and island? arn't at continents etc esentially lane islands?",
+      "output": "I'm not sure what you mean by \"island\" but I think you mean \"continent\".\nI think you mean \"continent\"\nI think you mean \"continent\"\nI think you mean \"continent\"\nI think you mean \"continent\"\nI think you mean \""
+    },
+    {
+      "id": "17_var4",
+      "input": "Wich classifies am iland ass am island? arent at continents ect essentially lage islands?",
+      "output": "I think the answer is that the continents are the land masses that are larger than the islands.\nThe continents are the land masses that are larger than the islands.\nI think the answer is that the continents are the land masses that are larger than the islands. The continents are the land masses that are larger than"
+    },
+    {
+      "id": "17_var5",
+      "input": "Wait classifies am iland at and island? aren't at continents ect esentially lege islands?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the"
+    },
+    {
+      "id": "17_var6",
+      "input": "Wete classifies an iland is on island? arn't a continents ect esentially lane islands?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the"
+    },
+    {
+      "id": "17_var7",
+      "input": "Wot classifies am island was un island? arent at continents ect esentially mlarge islands?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the"
+    },
+    {
+      "id": "17_var8",
+      "input": "With classifies on island hase and island? arn't a continents ect esentially lare islands?",
+      "output": "I'm not sure what you mean by \"island hase\" but I think you mean \"island hase\" or \"island hase\" or \"island hase\" or \"island hase\" or \"island hase\" or \"island hase\" or \"is"
+    },
+    {
+      "id": "17_var9",
+      "input": "Wath classifies an iland has am island? arn't at continents ect esentially larg islands?",
+      "output": "I'm not sure what you mean by \"island\" but I think you're referring to a continent.\nI think you're referring to a continent.\nI think you're referring to a continent. I think you're referring to a continent.\nI think you're referring to a continent.\nI"
+    },
+    {
+      "id": "17_var10",
+      "input": "Wait classifies an iland ass and island? arent a continents ect esentially lare islands?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes. I think the answer"
+    }
+  ],
+  "18": [
+    {
+      "id": "18_orig",
+      "input": "What happens if you don't pay your US Federal income tax?",
+      "output": "If you don't pay your US Federal income tax, you will be subject to a 10% penalty.\nIf you don't pay your US Federal income tax, you will be subject to a 10% penalty.\nIf you don't pay your US Federal income tax, you will be subject to a 10%"
+    },
+    {
+      "id": "18_var1",
+      "input": "Want happends it yoy want pae you ARES Fedral income tax?",
+      "output": "I don't think so.\nI think it's a good idea.\nI think it's a good idea.\nI think it's a good idea.\nI think it's a good idea.\nI think it's a good idea.\nI think it's a good idea.\nI think"
+    },
+    {
+      "id": "18_var2",
+      "input": "Wait happends is yo want pae ure AS Fedral income tax?",
+      "output": "I think the Fed is going to have to raise rates again.\nI think the Fed is going to have to raise rates again. I think the Fed is going to have to raise rates again.\nI think the Fed is going to have to raise rates again. I think the Fed is going to have to"
+    },
+    {
+      "id": "18_var3",
+      "input": "Wote happends is na donte pae yore ARES Fedral income tax?",
+      "output": "I’m not sure if the tax is a tax or a fee.\nI’m not sure if the tax is a tax or a fee. I’m not sure if the tax is a tax or a fee.\nI’m not sure if the tax is a tax or a fee."
+    },
+    {
+      "id": "18_var4",
+      "input": "Wich happends it your done pae youe A Fedral income tax?",
+      "output": "I think you are right.\nI think you are right. I think you are right.\nI think you are right. I think you are right.\nI think you are right. I think you are right.\nI think you are right. I think you are right.\nI think you are"
+    },
+    {
+      "id": "18_var5",
+      "input": "With happends is yow don paid ure USE Fedral income tax?",
+      "output": "I am not sure what you mean by \"paying Federal income tax\".\nI am not sure what you mean by \"paying Federal income tax\".\nI am not sure what you mean by \"paying Federal income tax\".\nI am not sure what you mean by \"paying Federal income tax\"."
+    },
+    {
+      "id": "18_var6",
+      "input": "Who happends is your donte pae youe ARES Fedral income tax?",
+      "output": "I am a retired Federal employee. I am not a member of the AARP. I am a member of the American Association of Retired Persons. I am not a member of the AARP. I am a member of the American Association of Retired Persons. I am not a member of the A"
+    },
+    {
+      "id": "18_var7",
+      "input": "Whia happends it your dount pae yor A Fedral income tax?",
+      "output": "I think the only way to get a refund is to file a tax return.\nI think the only way to get a refund is to file a tax return. I think the only way to get a refund is to file a tax return.\nI think the only way to get a refund is to file a"
+    },
+    {
+      "id": "18_var8",
+      "input": "Whot happends it your dont paid you HUS Fedral income tax?",
+      "output": "I think you are right.\nI think the Fed is going to have to raise rates again.\nI think the Fed is going to have to raise rates again. I think the Fed is going to have to raise rates again.\nI think the Fed is going to have to raise rates again. I think"
+    },
+    {
+      "id": "18_var9",
+      "input": "Who happends is na dount paid you AS Fedral income tax?",
+      "output": "I am a US citizen and I pay my taxes.\nI am a US citizen and I pay my taxes. I am a US citizen and I pay my taxes. I am a US citizen and I pay my taxes. I am a US citizen and I pay my taxes. I am a US citizen and I"
+    },
+    {
+      "id": "18_var10",
+      "input": "Whats happends is w donte paid ore A Fedral income tax?",
+      "output": "I think the Fed is a private company.\nI think the Fed is a private company. I think the Fed is a private company. I think the Fed is a private company. I think the Fed is a private company. I think the Fed is a private company. I think the Fed is a private company"
+    }
+  ],
+  "19": [
+    {
+      "id": "19_orig",
+      "input": "What is different in the brain chemistry that distinguishes thinking about moving my arm and actually moving it?",
+      "output": "The answer is that the brain is not a computer. It is a very complex system that is constantly changing. It is constantly trying to learn and remember. It is constantly trying to make sense of the world around it. It is constantly trying to figure out what to do next.\n\nThe brain is a"
+    },
+    {
+      "id": "19_var1",
+      "input": "What is different in that bran chemictry that distingishes thinkin aboute moveing my arn and actually oving it?",
+      "output": "I think that the difference is that I am not a \"movement\" and I am not a \"movement\" that is \"movement\" in the sense of a \"movement\" that is \"movement\" in the sense of a \"movement\" that is \"movement\" in the sense"
+    },
+    {
+      "id": "19_var2",
+      "input": "Who is different im hte brain chemistry thgat distingishes thinging about moving yoy arn anf actually moving it?",
+      "output": "I think that the difference is that the brain is a very complex organ, and it is not a simple organ. It is a very complex organ, and it is not a simple organ. It is a very complex organ, and it is not a simple organ. It is a very complex organ, and it is"
+    },
+    {
+      "id": "19_var3",
+      "input": "Who is berth it he bran chemstry that distinguishes thinking about moving ma arn so actually moving it?",
+      "output": "I think it’s a good question. I think it’s a good question. I think it’s a good question. I think it’s a good question. I think it’s a good question. I think it’s a good question. I think it’s a good question."
+    },
+    {
+      "id": "19_var4",
+      "input": "What is different is these brain cumastrey that distingishes thinking abought oving my arn and accle moveing it?",
+      "output": "I think that the difference is that the brain is a very complex organ, and it is not a simple organ.\nThe brain is a very complex organ, and it is not a simple organ.\nThe brain is a very complex organ, and it is not a simple organ. The brain is a very complex"
+    },
+    {
+      "id": "19_var5",
+      "input": "What in diffunt in a brain ehemc tath distinguishes thinkin about oving my arm anbd actually oving it?",
+      "output": "I think it’s the same thing.\nI think it’s the same thing. I think it’s the same thing. I think it’s the same thing. I think it’s the same thing. I think it’s the same thing. I think it’s the same thing"
+    },
+    {
+      "id": "19_var6",
+      "input": "What in diffent in the brain chemstry anthe distinguishes thinking abouut move ny arn and accle moving it?",
+      "output": "I think the answer is that the brain is not a computer. It is a very complex system that is constantly changing. It is not a static system. It is constantly changing. It is constantly changing. It is constantly changing. It is constantly changing. It is constantly changing. It is constantly changing. It is"
+    },
+    {
+      "id": "19_var7",
+      "input": "Wait is different it the brain cestry the distingishes thinking abouut moving ma arm a accle moving it?",
+      "output": "I think the brain is a very complex organ. It is a very complex organ. It is a very complex organ. It is a very complex organ. It is a very complex organ. It is a very complex organ. It is a very complex organ. It is a very complex organ. It is a very"
+    },
+    {
+      "id": "19_var8",
+      "input": "What it different with that brain renestri theut distingishes thikning about moving my arm ane accotly moving it?",
+      "output": "I think that the brain is a very complex thing. It is not a simple thing to understand.\nI think that the brain is a very complex thing. It is not a simple thing to understand. I think that the brain is a very complex thing. It is not a simple thing to understand. I think"
+    },
+    {
+      "id": "19_var9",
+      "input": "What us different im tghe brain cenistric that distingishes thinging aboute moving by arm aand actually moving it?",
+      "output": "I think the difference is that the brain is a very complex system, and it is not possible to understand it without understanding the other parts of the brain.\nThe brain is a very complex system, and it is not possible to understand it without understanding the other parts of the brain.\nThe brain is a very"
+    },
+    {
+      "id": "19_var10",
+      "input": "Woht as different in my brain remestry that distingishes thinkin about moving my arn hand actually move it?",
+      "output": "I have a question about the \"I am\" and \"I am not\" in the Bible.\nI have a question about the \"I am\" and \"I am not\" in the Bible. I have a question about the \"I am\" and \"I am not\" in the Bible.\nI"
+    }
+  ],
+  "21": [
+    {
+      "id": "21_orig",
+      "input": "What is the role of actual real-life actors in making animated characters? Like Liam Neeson playing Aslan in Narnia?",
+      "output": "I think it’s a great question. I think it’s a great question. I think it’s a great question. I think it’s a great question. I think it’s a great question. I think it’s a great question. I think it’s a great question."
+    },
+    {
+      "id": "21_var1",
+      "input": "Want as they role of actural real-life actors i makeing animated characters? Liuke Liam Neeson plaing Aslan it Narnia?",
+      "output": "I think the best way to do this is to make a movie that is a combination of live action and animation.\nI think the best way to do this is to make a movie that is a combination of live action and animation.\nI think the best way to do this is to make a movie that is"
+    },
+    {
+      "id": "21_var2",
+      "input": "Wait us my role ofr actural real-life actors if making animated characters? Lire Liam Neeson plaving Aslan if Narnia?",
+      "output": "I’m not sure if I’m the right person to ask, but I’m sure I’d be happy to help.\nI’m not sure if I’m the right person to ask, but I’m sure I’d be happy to help. I’m not sure if"
+    },
+    {
+      "id": "21_var3",
+      "input": "Wete his the role cift actuall real-life actors if mkaing animated characters? Lick Liam Neeson palving Aslan with Narnia?",
+      "output": "I think it's a good idea to have a character that is a real person, but not a real person that is a character.\nI think it's a good idea to have a character that is a real person, but not a real person that is a character. I think it's a good idea to"
+    },
+    {
+      "id": "21_var4",
+      "input": "Who is thi role or actuall real-life actors with macking animated characters? Lick Liam Neeson palving Aslan it Narnia?",
+      "output": "I think the real-life actors are the ones who are in the movies.\nI think the real-life actors are the ones who are in the movies. I think the real-life actors are the ones who are in the movies.\nI think the real-life actors are the ones who are in"
+    },
+    {
+      "id": "21_var5",
+      "input": "Wate si tghe role onet actural real-life actors if makeing animated characters? Liuke Liam Neeson playing Aslan i Narnia?",
+      "output": "I think it's a good idea to have a few different actors playing different characters. I think it would be a good idea to have a few different actors playing different characters. I think it would be a good idea to have a few different actors playing different characters.\nI think it would be a good idea to"
+    },
+    {
+      "id": "21_var6",
+      "input": "Waht his tie role of actuall real-life actors if amking animated characters? Lichr Liam Neeson plaving Aslan i Narnia?",
+      "output": "I think the best thing about the movie is that it is a good story.\nI think the best thing about the movie is that it is a good story. I think the best thing about the movie is that it is a good story.\nI think the best thing about the movie is that it is a"
+    },
+    {
+      "id": "21_var7",
+      "input": "Wich as the role af actural real-life actors im macking animated characters? Took Liam Neeson play Aslan if Narnia?",
+      "output": "I’m not sure if I’d call it a “macking” but I’d call it a “messing” with the story.\nI’m not sure if I’d call it a “macking” but I’d call it a “messing” with the story."
+    },
+    {
+      "id": "21_var8",
+      "input": "Whaaat si tie role fo actural real-life actors in mkaing animated characters? Liek Liam Neeson plaing Aslan im Narnia?",
+      "output": "I think it's a great idea. I'm not sure I'd want to see it though.\nI think it's a great idea. I'm not sure I'd want to see it though.\nI think it's a great idea. I'm not sure I'd want to see it though."
+    },
+    {
+      "id": "21_var9",
+      "input": "Wath in tu role with actual real-life actors i mkaing animated characters? Liuke Liam Neeson plaing Aslan if Narnia?",
+      "output": "I m not sure if I m right but I m sure that the movie is not a good one.\nI m not sure if I m right but I m sure that the movie is not a good one. I m not sure if I m right but I m sure that the movie is not a good one"
+    },
+    {
+      "id": "21_var10",
+      "input": "Whats his t role of actural real-life actors i macking animated characters? Liek Liam Neeson play-ing Aslan it Narnia?",
+      "output": "I macked on the idea of a live-action version of the film, but I macked on the idea of a live-action version of the film, but I macked on the idea of a live-action version of the film, but I macked on the idea of a live-action version"
+    }
+  ],
+  "23": [
+    {
+      "id": "23_orig",
+      "input": "What was the Beat Generation about? Were Beatniks a stereotype or a factual reflection of this philosophy?",
+      "output": "The Beat Generation was a group of writers and artists who were influenced by the Beat Generation. The Beat Generation was a group of writers and artists who were influenced by the Beat Generation.\nWhat was the Beat Generation?\nThe Beat Generation was a group of writers and artists who were influenced by the Beat Generation. The"
+    },
+    {
+      "id": "23_var1",
+      "input": "Wha't was th Beet Generation about? Here Beatniks i stereotype of ah factual reflection cift thus philosophy?",
+      "output": "I'm a Beatnik, and I'm not a hippie. I'm a Beatnik, and I'm not a hippie. I'm a Beatnik, and I'm not a hippie. I'm a Beatnik, and I'm not a hippie. I'm a Beatnik, and"
+    },
+    {
+      "id": "23_var2",
+      "input": "Wich some thoy Pit Generation about? Was Beatniks ah stereotype al a factual reflection from thus philosophy?",
+      "output": "I’m not sure what you mean by “Pit Generation” but I’m not sure what you mean by “Beatniks” either.\nI’m not sure what you mean by “Pit Generation” but I’m not sure what you mean by “Beatniks” either."
+    },
+    {
+      "id": "23_var3",
+      "input": "Want uas tie Beet Generation about? Were Beatniks are stereotype ore ah factual reflection fo thsi philosophy?",
+      "output": "I am a Beatnik. I am a Beatnik because I am a Beatnik. I am a Beatnik because I am a Beatnik. I am a Beatnik because I am a Beatnik. I am a Beatnik because I am a Beatnik. I am a Beatnik because I am a"
+    },
+    {
+      "id": "23_var4",
+      "input": "Whate wus tje Beat Generation about? War Beatniks and stereotype all an factual reflection oaf thes philosophy?",
+      "output": "I’m not sure I’m a Beatnik, but I’m certainly a Beat.\nI’m not sure I’m a Beatnik, but I’m certainly a Beat. I’m not sure I’m a Beatnik, but I’m certainly a Beat.\nI"
+    },
+    {
+      "id": "23_var5",
+      "input": "Whot widd my Beet Generation about? Wre Beatniks an stereotype awer an factual reflection of tish philosophy?",
+      "output": "I’m a Beatnik, and I’m proud of it.\nI’m a Beatnik, and I’m proud of it. I’m a Beatnik, and I’m proud of it.\nI’m a Beatnik, and I’m proud of it. I"
+    },
+    {
+      "id": "23_var6",
+      "input": "What wase tghe Pit Generation about? Why Beatniks i stereotype our the factual reflection op tihs philosophy?",
+      "output": "I think the Pit Generation is a good question. I think it is a good question because it is a good question. I think it is a good question because it is a good question. I think it is a good question because it is a good question. I think it is a good question because it is a"
+    },
+    {
+      "id": "23_var7",
+      "input": "Weot his these Bet Generation about? Wer Beatniks as stereotype our ah factual reflection ofr this philosophy?",
+      "output": "I am a bit confused. I thought the whole point of the book was to show that the world is not as it seems.\nI am not sure what you mean by “the world is not as it seems”.\nI think you are confusing the book with the movie.\nI think you are confusing the"
+    },
+    {
+      "id": "23_var8",
+      "input": "Who wan tghe Bet Generation about? Werh Beatniks and stereotype all i factual reflection onet this philosophy?",
+      "output": "I’m a bit of a Beatnik myself, and I’m not sure I’d call myself a stereotype. I’m a bit of a Beatnik myself, and I’m not sure I’d call myself a stereotype.\nI’m a bit of a Beatnik myself"
+    },
+    {
+      "id": "23_var9",
+      "input": "Who ws tie Bet Generation about? Wey Beatniks as stereotype all a factual reflection fo thes philosophy?",
+      "output": "I’m a big fan of the “I’m a big fan of the “I’m a big fan of the “I’m a big fan of the “I’m a big fan of the “I’m a big fan of the “I’m a big fan of the “"
+    },
+    {
+      "id": "23_var10",
+      "input": "Woat his my Pit Generation about? Wree Beatniks ah stereotype or and factual reflection fo tish philosophy?",
+      "output": "I’m not sure what you mean by “my Pit Generation.” I’m not sure what you mean by “my Pit Generation.”\nI’m not sure what you mean by “my Pit Generation.”\nI’m not sure what you mean by “my Pit Generation.”\nI’m not"
+    }
+  ],
+  "26": [
+    {
+      "id": "26_orig",
+      "input": "Why are my muscles sore after jumping in cold water?",
+      "output": "What is the best way to get rid of a sore throat?\nWhat is the best way to get rid of a sore throat?\nWhat is the best way to get rid of a sore throat?\nWhat is the best way to get rid of a sore throat?\nWhat is the best way to get"
+    },
+    {
+      "id": "26_var1",
+      "input": "Yoy aree ma musirls saw half junping is cald water?",
+      "output": "I’m not sure if I’m the only one who’s noticed that the “I’m not sure if I’m the only one who’s noticed that the “I’m not sure if I’m the only one who’s noticed that the “I’m not sure if"
+    },
+    {
+      "id": "26_var2",
+      "input": "Wy rau ny musirls sor afert junping i cald water?",
+      "output": "– Hvad er det?\n\n– Det er en køkken, der er blevet taget i brug.\n\n– Jeg har ikke lyst til at lade dig lide.\n\n– Jeg er ikke lyst til at lade dig lide."
+    },
+    {
+      "id": "26_var3",
+      "input": "Wiy our ma muscels sor afthe junping it cald water?",
+      "output": "_The_ _Moon_ _and_ _the_ _Sun_ _are_ _both_ _in_ _the_ _sky_ _at_ _the_ _same_ _time._\n\n_The_ _Moon_ _is_ _in_ _the_ _"
+    },
+    {
+      "id": "26_var4",
+      "input": "Wy rau may muscels saw aftr junping with cald water?",
+      "output": "\"I'm not sure,\" said the man. \"I don't think so. I think it's a bit of a stretch.\"\n\n\"I don't think so either,\" said the woman. \"I think it's a bit of a stretch.\"\n\n\"I don't think so either,\""
+    },
+    {
+      "id": "26_var5",
+      "input": "Wiy ar yoy musirls saw half junping is cald water?",
+      "output": "_The_ _Wiy ar yoy musirls saw half junping is cald water?_\n\n_The_ _Wiy ar yoy musirls saw half junping is cald water?_\n\n_The_ _Wiy ar yoy musirls saw half junping"
+    },
+    {
+      "id": "26_var6",
+      "input": "Way ra by muscels sor nfre junping it cald water?",
+      "output": "I’m a little confused. I’m not sure if I’m understanding the question correctly.\nI’m not sure if I’m understanding the question correctly.\nI’m not sure if I’m understanding the question correctly.\nI’m not sure if I’m understanding the"
+    },
+    {
+      "id": "26_var7",
+      "input": "Way or ny muscels sor nfre junping if cald water?",
+      "output": "I am a newbie to the forum. I have been a member of the forum for a few months now. I have been trying to get a good idea of what the forum is all about. I have been trying to get a good idea of what the forum is all about. I have been trying to get"
+    },
+    {
+      "id": "26_var8",
+      "input": "Yoy rea may musirls sor half junping im cald water?",
+      "output": "I am a new member and I am very happy to be here. I am a very good writer and I have a lot of experience in writing. I am very good at writing and I have a lot of experience in writing. I am very good at writing and I have a lot of experience in writing. I"
+    },
+    {
+      "id": "26_var9",
+      "input": "Wiy anr ma musirls sor haved junping is cald water?",
+      "output": "_Wiy anr ma musirls sor haved junping is cald water?_\n\n_Wiy anr ma musirls sor haved junping is cald water?_\n\n_Wiy anr ma musirls sor haved junping is cald water?_"
+    },
+    {
+      "id": "26_var10",
+      "input": "Wiy aree ny musirls sor afthe junping with cald water?",
+      "output": "I’m not sure if I’m the only one who’s noticed that the water in the pool is a little murky.\nI’m not sure if I’m the only one who’s noticed that the water in the pool is a little murky.\nI’m not sure"
+    }
+  ],
+  "29": [
+    {
+      "id": "29_orig",
+      "input": "Why are the insides of Ovens Dark and Not Metallic or Mirror Like?",
+      "output": "The answer is that the insides of Ovens Dark and Not Metallic or Mirror Like are not metallic.\nThe insides of Ovens Dark and Not Metallic or Mirror Like are not metallic because they are made of a different material.\nThe insides of Ovens Dark and Not Metallic or Mirror"
+    },
+    {
+      "id": "29_var1",
+      "input": "Yoy re a insides of Ovens Back aud No Metalic ot Mirrow Like?",
+      "output": "I'm a little confused. I'm not sure if I'm understanding the question correctly.\nI'm not sure if I'm understanding the question correctly.\nI'm not sure if I'm understanding the question correctly. I'm not sure if I'm understanding the question correctly.\nI'm not sure if I"
+    },
+    {
+      "id": "29_var2",
+      "input": "Way rau tehe insides or Ovens Dank and Nto Metalic our Mirrow Like?",
+      "output": "I’m a little bit of a fan of the “I’m a little bit of a fan of the “I’m a little bit of a fan of the “I’m a little bit of a fan of the “I’m a little bit of a fan of the “I’m"
+    },
+    {
+      "id": "29_var3",
+      "input": "Wy rer a insides gf Ovens Drow than Not Metalic awer Mirrow Like?",
+      "output": "I'm not sure if I'm the only one, but I've been having a hard time finding a good place to buy a new Oven. I've been looking at the Oven's website and they have a lot of different models to choose from. I'm looking for a new Oven that will be"
+    },
+    {
+      "id": "29_var4",
+      "input": "Yoy rir the insides ofr Ovens Darw an Nto Metalic our Mirrow Like?",
+      "output": "I’m not sure if I’m the only one who’s noticed this, but I’ve noticed that the insides of ovens are a little bit different from the outside.\nI’ve noticed that the insides of ovens are a little bit different from the outside.\nI’"
+    },
+    {
+      "id": "29_var5",
+      "input": "Yoy rea tghe insides fo Ovens Dog than Not Metalic ot Mirrow Like?",
+      "output": "I think the only thing that would make this better would be if the whole thing was a single song.\nI think the only thing that would make this better would be if the whole thing was a single song.\nI think the only thing that would make this better would be if the whole thing was a single"
+    },
+    {
+      "id": "29_var6",
+      "input": "Way are these insides afoh Ovens Dog anbd Nto Metalic of Mirrow Like?",
+      "output": "I am a very good cook. I have a lot of experience in cooking. I have a lot of experience in cooking. I have a lot of experience in cooking. I have a lot of experience in cooking. I have a lot of experience in cooking. I have a lot of experience in cooking. I have"
+    },
+    {
+      "id": "29_var7",
+      "input": "Why arre th insides ovoe Ovens Back so Non Metalic all Mirrow Like?",
+      "output": "I have a question about the insides of ovens. I have a gas oven and I have a non-metalic oven. I have a question about the insides of the oven. I have a gas oven and I have a non-metalic oven. I have a question about the insides of"
+    },
+    {
+      "id": "29_var8",
+      "input": "Why rir tehe insides onet Ovens Drow aand Mot Metalic all Mirrow Like?",
+      "output": "I am a newbie to the forum. I have been playing for about a year and a half. I have been playing on a few different servers and have been playing on a few different servers. I have been playing on a few different servers and have been playing on a few different servers. I have been playing"
+    },
+    {
+      "id": "29_var9",
+      "input": "Why ore hte insides for Ovens Down a Nol Metalic all Mirrow Like?",
+      "output": "What is the best way to clean a Nol Metalic oven?\nWhat is the best way to clean a Nol Metalic oven?\nWhat is the best way to clean a Nol Metalic oven?\nWhat is the best way to clean a Nol Metalic oven?\nWhat is the"
+    },
+    {
+      "id": "29_var10",
+      "input": "Wy our hte insides on Ovens Brek a Not Metalic ot Mirrow Like?",
+      "output": "I have a question about the Ovens Brek a Not Metalic. I have a question about the Ovens Brek a Not Metalic.\nI have a question about the Ovens Brek a Not Metalic.\nI have a question about the Ovens Brek a Not Metalic. I"
+    }
+  ],
+  "30": [
+    {
+      "id": "30_orig",
+      "input": "Why are the things that taste the best bad for us?",
+      "output": "What is the best way to get rid of bad taste?\nWhat is the best way to get rid of bad taste?\nWhat is the best way to get rid of bad taste?\nWhat is the best way to get rid of bad taste?\nWhat is the best way to get rid of bad taste"
+    },
+    {
+      "id": "30_var1",
+      "input": "Wy ar tie fens tat taste an besh bed far us?",
+      "output": "– I'm not sure, I said.\n\n– I'm not sure, he said.\n\n– I'm not sure, I said.\n\n– I'm not sure, he said.\n\n– I'm not sure, I said.\n\n– I'm not sure, he"
+    },
+    {
+      "id": "30_var2",
+      "input": "Way are thee thigsn tat tast an dest bed or us?",
+      "output": "_The_ _Beggar_ _s_ _Beggar_ _s_ _Beggar_ _s_ _Beggar_ _s_ _Beggar_ _s_ _Beggar_ _s_ _Beggar_ _s_ _Beg"
+    },
+    {
+      "id": "30_var3",
+      "input": "Wy are my think thay tast ther be bed fre us?",
+      "output": "I think that the best way to get rid of the problem is to get rid of the people who are causing it.\nI think that the best way to get rid of the problem is to get rid of the people who are causing it.\nI think that the best way to get rid of the problem is"
+    },
+    {
+      "id": "30_var4",
+      "input": "Wiy ra thw thigns but tayste the dest bed fon us?",
+      "output": "I am a student of the University of the West Indies, St. Augustine Campus, Barbados. I am a member of the Caribbean Association of Student Councils (CASC) and the Caribbean Association of Student Councils (CASC) Student Representative Council. I am also a member of the Caribbean Association"
+    },
+    {
+      "id": "30_var5",
+      "input": "Way are ther fens and tast ge bettes bed far us?",
+      "output": "_The_ _fens_ _are_ _the_ _fens_ _are_ _the_ _fens_ _are_ _the_ _fens_ _are_ _the_ _fens_ _are_ _the_ _fens_ _are_ _the"
+    },
+    {
+      "id": "30_var6",
+      "input": "Yoy oar thi think thay tast to biwes bad forr us?",
+      "output": "I think it's a good idea to have a \"no-fly\" list.\nI think it's a good idea to have a \"no-fly\" list. I think it's a good idea to have a \"no-fly\" list.\nI think it's a good idea to have a"
+    },
+    {
+      "id": "30_var7",
+      "input": "Wiy ur i thing thay tast the bes bed far us?",
+      "output": "I’m not sure if I’m the only one who’s noticed that the “I’m not sure if I’m the only one who’s noticed that the “I’m not sure if I’m the only one who’s noticed that the “I’m not sure if"
+    },
+    {
+      "id": "30_var8",
+      "input": "Yoy er the thigs haen tayste thw bass bed foir us?",
+      "output": "I'm a little confused. I'm not sure what you mean by \"the bass bed\" and \"the bass bed for us\".\nI'm not sure what you mean by \"the bass bed\" and \"the bass bed for us\".\nI'm not sure what you mean by \"the bass bed\""
+    },
+    {
+      "id": "30_var9",
+      "input": "Wiy arte these tings than tast teh beast bad fo us?",
+      "output": "I’m not sure what you mean by “the beast”.\nI’m not sure what you mean by “the beast”.\nI’m not sure what you mean by “the beast”.\nI’m not sure what you mean by “the beast”.\nI’m not sure what you"
+    },
+    {
+      "id": "30_var10",
+      "input": "Wiy are tje thigsn tandt tayste thee dest bed fo us?",
+      "output": "_Wiy_ : _Wiy_ , _Wiy_ , _Wiy_ , _Wiy_ , _Wiy_ , _Wiy_ , _Wiy_ , _Wiy_ , _Wiy_ , _Wiy_ , _Wiy_ , _W"
+    }
+  ],
+  "31": [
+    {
+      "id": "31_orig",
+      "input": "Why can't we just taste candy or Sweets and then spit it out to avoid its unhealthy attributes? What makes us swallow it to get satisfaction?",
+      "output": "The answer is that we are not only eating candy, but we are also eating sweets. We are eating candy because we are eating sweets. We are eating sweets because we are eating candy. We are eating candy because we are eating sweets. We are eating candy because we are eating sweets"
+    },
+    {
+      "id": "31_var1",
+      "input": "Why cant we just tayste candy or Sweets than then spite it out two avd is unhealthy attributes? What makes us swallow hit to go satisfaction?",
+      "output": "I am a big fan of the show and I love the way you write. I have a question though. I have a friend who is a big fan of the show and she is a little worried about the show. She is worried that the show is going to be too violent and she is worried that the show"
+    },
+    {
+      "id": "31_var2",
+      "input": "Yoy can't wee jsut taste candy os Sweets anf then spit it out to avordy its on_hethy attributes? What makes us swollow it to cet satisfaction?",
+      "output": "I'm not sure if I'm the only one who has this problem. I've been trying to get the game to work for a while now and I can't seem to get it to work. I've tried everything I can think of and I'm still having the same problem. I've tried everything I can"
+    },
+    {
+      "id": "31_var3",
+      "input": "Why can't we jstu taste candy or Sweets and then spite i owt to inverd its unhealthy attributes? Wat makes a swollow it the get satisfaction?",
+      "output": "I think that the reason why sweets are so addictive is because they are so sweet.\nI think that the reason why sweets are so addictive is because they are so sweet. I think that the reason why sweets are so addictive is because they are so sweet.\nI think that the reason why swe"
+    },
+    {
+      "id": "31_var4",
+      "input": "Wy can't we jsut taste cand or Sweets hand then spit il out to avode its' unhealthy attributes? Wete makes us swallow it to gett satisfaction?",
+      "output": "I'm not sure what you mean by \"healthy attributes\".\nI'm not sure what you mean by \"healthy attributes\".\nI'm not sure what you mean by \"healthy attributes\".\nI'm not sure what you mean by \"healthy attributes\".\nI'm not sure what you mean by \"healthy attributes"
+    },
+    {
+      "id": "31_var5",
+      "input": "Why can't we just taste candy of Sweet and than spit it out ot avoid it's unhealthy attributes? Wot makes us swollow it the geter satisfaction?",
+      "output": "I think it's a good idea to eat candy, but I don't think it's a good idea to eat candy that's been made with chemicals.\nI think it's a good idea to eat candy, but I don't think it's a good idea to eat candy that's been made with chemicals."
+    },
+    {
+      "id": "31_var6",
+      "input": "Wy can't wey jstu taste candy os Sweets aud then spit it out to avoid is on_hethy attributes? What makes us swallow it two go satisfaction?",
+      "output": "_I'm not sure I understand you, but I'm going to try to help you._\n\n_I'm not sure I understand you, but I'm going to try to help you._\n\n_I'm not sure I understand you, but I'm going to try to help you._"
+    },
+    {
+      "id": "31_var7",
+      "input": "Why cant you just tayste candy al Sweets and then spite it out to avoed it on_hethy attributes? What mack us swallow it to get satisfaction?",
+      "output": "_I am not a sweets-eater. I am a sweets-eater who is not a sweets-eater. I am a sweets-eater who is not a sweets-eater. I am a sweets-eater who is not a sweets-"
+    },
+    {
+      "id": "31_var8",
+      "input": "Yoy can't we just taste cand or Sweets and then spit it ou to avoid its on_hethy attributes? Weot mkaes use swallow she to gett satisfaction?",
+      "output": "_I'm not sure I understand. I'm not sure I understand. I'm not sure I understand. I'm not sure I understand. I'm not sure I understand. I'm not sure I understand. I'm not sure I understand. I'm not sure I understand. I'm not sure I"
+    },
+    {
+      "id": "31_var9",
+      "input": "Why canth we jsut taste candy or Sweets and then spite it out to abord its' unhealthy attributes? Who makes us swollow et tow get satisfaction?",
+      "output": "I am not a doctor, but I have a few questions.\n1. Is it true that the sugar in candy is not the same as the sugar in sweets?\n2. Is it true that candy is not the same as sweets?\n3. Is it true that candy is not the same"
+    },
+    {
+      "id": "31_var10",
+      "input": "Why carn't we just taste candy awer Sweets i thne spite it owt of avoid its on_hethy attributes? What maks us swallow it to get satisfaction?",
+      "output": "_I'm not sure what you mean by \"carn't we just taste candy awer Sweets i thne spite it owt of avoid its on_hethy attributes?_\n\n_I'm not sure what you mean by \"carn't we just taste candy awer Sweets i th"
+    }
+  ],
+  "32": [
+    {
+      "id": "32_orig",
+      "input": "Why do The Miranda Rights state that anything you say can \"and will\" be used against you. If something's not incriminating why would it be used against you? Why would cops be forced to admit this up front?",
+      "output": "I'm not saying that the Miranda Rights are a bad thing, but I'm saying that they are not the only way to get a confession.\nI'm not saying that the Miranda Rights are a bad thing, but I'm saying that they are not the only way to get a confession. I'm saying that"
+    },
+    {
+      "id": "32_var1",
+      "input": "Wy dor The Miranda Rights state that any_thing you said con \"and will\" be used against you. It something's not incriminating why wood hit be used against you? Why would caps be forced to admit this up front?",
+      "output": "I think the answer is that the Miranda rights are not intended to be used against the accused. They are intended to be used against the police.\nThe Miranda rights are not intended to be used against the accused. They are intended to be used against the police.\nI think the answer is that the Miranda rights"
+    },
+    {
+      "id": "32_var2",
+      "input": "Why do T Miranda Rights stat that anything you said cane \"and will\" be used agenst you. If something's not incriminating why woudl it be used against you? Why owudl caps be forced to admite this up front?",
+      "output": "I'm not sure what you mean by \"will\" being used against you.\nI'm not sure what you mean by \"will\" being used against you. I'm not sure what you mean by \"will\" being used against you.\nI'm not sure what you mean by \"will\" being used"
+    },
+    {
+      "id": "32_var3",
+      "input": "Why do He Miranda Rights state that anythin yoy say can \"and will\" be uses against you. If something's mot incriminating why would it be you agianst you? Why wet cops be forsed to admit this up front?",
+      "output": "I'm not saying that the Miranda rights are not important, but I'm saying that they are not the only way to get a confession.\nI'm not saying that the Miranda rights are not important, but I'm saying that they are not the only way to get a confession. I'm saying that the Miranda"
+    },
+    {
+      "id": "32_var4",
+      "input": "Why do They Miranda Rights state that any-thing you say can \"and will\" be used agenst you. If something's non incriminating yoy owudl it be used aginst you? Wy would cops be forced to admit tish up front?",
+      "output": "I think the reason is that the police are not allowed to lie to you.\nI think the reason is that the police are not allowed to lie to you.\nI think the reason is that the police are not allowed to lie to you.\nI think the reason is that the police are not allowed to"
+    },
+    {
+      "id": "32_var5",
+      "input": "Yoy dor The Miranda Rights state that anything na say cane \"and will\" be youst agenst you. If something's not incriminating why would is be uset against you? Why woudl cops be forced to admit this up front?",
+      "output": "I think the Miranda Rights are a good thing. I think they are a good thing because they are a good thing. I think they are a good thing because they are a good thing. I think they are a good thing because they are a good thing. I think they are a good thing because they are a"
+    },
+    {
+      "id": "32_var6",
+      "input": "Why do Tu Miranda Rights state that anything you said came \"and will\" be used agianst you. If something's knot incriminating why would it b used against you? Why wod cops be forced to admite thsi up front?",
+      "output": "I'm not sure what you mean by \"the police are forced to admit that they have no evidence against you.\"\nI'm not sure what you mean by \"the police are forced to admit that they have no evidence against you.\" I'm not sure what you mean by \"the police are forced to admit that"
+    },
+    {
+      "id": "32_var7",
+      "input": "Why dom The Miranda Rights state that anything you say con \"and will\" be used against you. It something's hot incriminating wiy would il be uset against you? Wy would caps be forced to admit this up front?",
+      "output": "I'm not sure what you mean by \"will\" being used against you.\nI'm not sure what you mean by \"will\" being used against you. I'm not sure what you mean by \"will\" being used against you.\nI'm not sure what you mean by \"will\" being used"
+    },
+    {
+      "id": "32_var8",
+      "input": "Wiy do These Miranda Rights state that enthing your said can \"and will\" be used aginst you. If something's not incriminating why would it be used against you? Yoy wet cops b forced to admit this up front?",
+      "output": "I'm not sure what you mean by \"enthing your said can \"and will\" be used aginst you.\"\nI'm not sure what you mean by \"enthing your said can \"and will\" be used aginst you.\" I'm not sure what you mean by \"enthing your said can"
+    },
+    {
+      "id": "32_var9",
+      "input": "Wy do The Miranda Rights stat at anythin yuo say can \"and will\" b yourst agianst you. If something's not incriminating why would it be used against you? Why would cops by forced to admit this up front?",
+      "output": "I'm not saying that the Miranda rights are not important, but I'm saying that they are not the only rights that are important.\nI'm not saying that the Miranda rights are not important, but I'm saying that they are not the only rights that are important. I'm saying that the Miranda rights are"
+    },
+    {
+      "id": "32_var10",
+      "input": "Why do The Meranda Rights state that anythink you say can \"and will\" be used agianst you. It something's not incriminating why would it dy you against you? Why would cops dy forced two admit thus up front?",
+      "output": "I think the Meranda Rights are a good thing. I think they are a good thing because they are a good thing. I think they are a good thing because they are a good thing. I think they are a good thing because they are a good thing. I think they are a good thing because they are"
+    }
+  ],
+  "33": [
+    {
+      "id": "33_orig",
+      "input": "Why do tech/software companies stay in the US when they are demanded to include backdoors by the US government? Can't tech companies just develop and release their products overseas, out of reach of the US government's influence?",
+      "output": "I think the answer is that they don't want to be held accountable for their actions.\nI think the answer is that they don't want to be held accountable for their actions.\nI think the answer is that they don't want to be held accountable for their actions.\nI think the answer is that"
+    },
+    {
+      "id": "33_var1",
+      "input": "Why drow tech/software companies staye in thw A when they arte demanded to include backdoors be the US government? can't tech companies just develop hand release their products overseas, ot of reach oaf the US government's influence?",
+      "output": "I think the US government is a bit of a joke.\nI think the US government is a bit of a joke. I think the US government is a bit of a joke.\nI think the US government is a bit of a joke.\nI think the US government is a bit of a joke."
+    },
+    {
+      "id": "33_var2",
+      "input": "Why do tech/software companies stay with the US when thar are demanded to include backdoors by the US government? can't tech companys gust develop and release thrir produts overseas, out othe rich of to US government's influence?",
+      "output": "I think it's because they are not allowed to do so.\nI think it's because they are not allowed to do so. I think it's because they are not allowed to do so.\nI think it's because they are not allowed to do so.\nI think it's because they are not"
+    },
+    {
+      "id": "33_var3",
+      "input": "Why do tech/software companies stay in the AS when they our demanded to include backdoors bery ther US government? can't tech companys jstu deveoop and release these produts overseas, out of reach of the US government's influence?",
+      "output": "I think it's because they are afraid of the US government.\nI think it's because they are afraid of the US government. I think it's because they are afraid of the US government.\nI think it's because they are afraid of the US government. I think it's because they are afraid of"
+    },
+    {
+      "id": "33_var4",
+      "input": "Why dou tech/software companies stae in the US wene thar are demanded to includ backdoors by the US government? can't tech companies just develop and release thire produts overseas, out of rech of the A government's influence?",
+      "output": "I think the US government is just trying to make sure that the tech companies are not able to do anything that would be illegal in the US.\nI think the US government is just trying to make sure that the tech companies are not able to do anything that would be illegal in the US.\nI think the"
+    },
+    {
+      "id": "33_var5",
+      "input": "Why do tech/software companys stay in the A weten they are demanded to inclued backdoors by that US government? carnt tech companies just develop and release these products overseas, out of rich of thoy US government's influence?",
+      "output": "I think it's because they are not in the US.\nI think it's because they are not in the US. I think it's because they are not in the US.\nI think it's because they are not in the US. I think it's because they are not in the US."
+    },
+    {
+      "id": "33_var6",
+      "input": "Wy do tech/software companies sart in the US when they ar demanded to includ backdoors by my US government? can't tech companies just devellope and release their products overseas, out af reach of to USE government's influence?",
+      "output": "I think the US government should be more open to the idea of backdoors.\nI think the US government should be more open to the idea of backdoors. I think the US government should be more open to the idea of backdoors.\nI think the US government should be more open to the idea of"
+    },
+    {
+      "id": "33_var7",
+      "input": "Why do tech/software companys staye it the US when thay are demanded qu include backdoors by the US government? can't tech companies jsut develop and release their products overseas, of of rich of the AS government's influence?",
+      "output": "I think the US government is trying to get the tech companies to develop backdoors into their products.\nI think the US government is trying to get the tech companies to develop backdoors into their products. I think the US government is trying to get the tech companies to develop backdoors into their products.\nI"
+    },
+    {
+      "id": "33_var8",
+      "input": "Yoy do tech/software companies stay it the US when that are demanded ot include backdoors by the US government? can't tech companys gust develop anbd release their products overseas, owt of reach of tehe US government's influence?",
+      "output": "I think the US government is a lot more powerful than the average person thinks.\nI think the US government is a lot more powerful than the average person thinks. I think the US government is a lot more powerful than the average person thinks.\nI think the US government is a lot more powerful than the average"
+    },
+    {
+      "id": "33_var9",
+      "input": "Wiy do tech/software companies stay im the US whern thrar are demanded to include backdoors bery the US government? can't tech companies jsut deveoop and release their produts overseas, out of reach of the AS government's influence?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the"
+    },
+    {
+      "id": "33_var10",
+      "input": "Why do tech/software companies sta is the A will they r demanded ot include backdoors by the USE government? can't tech companys just develop and release their products overseas, of of reach of the US government's influence?",
+      "output": "I think the answer is that they don't want to be seen as being in bed with the government.\nI think the answer is that they don't want to be seen as being in bed with the government. I think that's a good answer.\nI think the answer is that they don't want to"
+    }
+  ],
+  "34": [
+    {
+      "id": "34_orig",
+      "input": "Why do we wake up early when we don't have to but tend to wake up late when we need to be up?",
+      "output": "I'm not sure if this is a good question or not. I think it's a good question.\nI think it's a good question.\nI think it's a good question. I think it's a good question.\nI think it's a good question. I think it's a good question"
+    },
+    {
+      "id": "34_var1",
+      "input": "Way do wee wake up early will wey don't have to p tend to waek up lant when wey need to linge up?",
+      "output": "I'm not sure if I'm the only one who's noticed this, but I've noticed that the \"new\" (or \"newer\") version of the site is much more \"clean\" and \"modern\" looking. I'm not sure if this is a good thing or a bad thing, but I"
+    },
+    {
+      "id": "34_var2",
+      "input": "Wiy do wee waek up early when we don't have ot but tend to waek up laght whern we nede to been up?",
+      "output": "I think it's a good idea to have a little bit of a break from the day to day routine.\nI think it's a good idea to have a little bit of a break from the day to day routine. I think it's a good idea to have a little bit of a break from the day"
+    },
+    {
+      "id": "34_var3",
+      "input": "Why do be waek up early when we dount have th byt tend th waek up let when we ned to be up?",
+      "output": "I think it's because we're not used to it.\nI think it's because we're not used to it. I think it's because we're not used to it.\nI think it's because we're not used to it.\nI think it's because we're not used to it."
+    },
+    {
+      "id": "34_var4",
+      "input": "Why do wey waek up eigly wane we dount have to but tend to waek up dayet when we nede ro be up?",
+      "output": "I think it's because we're not used to it.\nI think it's because we're not used to it. I think it's because we're not used to it. I think it's because we're not used to it. I think it's because we're not used to it. I think"
+    },
+    {
+      "id": "34_var5",
+      "input": "Wy do we wake up erly wian wot don't having to but tend to waek up lette when we ened qu be up?",
+      "output": "I'm not sure if I'm going to be able to get up for the day. I'm not sure if I'm going to be able to get up for the day.\nI'm not sure if I'm going to be able to get up for the day.\nI'm not sure if I'm"
+    },
+    {
+      "id": "34_var6",
+      "input": "Why do wey wake up early will wot want a of buts tend to wake up late went we need ot be up?",
+      "output": "I think it's because we're all so used to waking up early.\nI think it's because we're all so used to waking up early. I think it's because we're all so used to waking up early.\nI think it's because we're all so used to waking up early. I"
+    },
+    {
+      "id": "34_var7",
+      "input": "Way du wee wake up early wen when don't have tow but tend to wake up late when were needd to de up?",
+      "output": "I'm a little late to the party, but I have to say that I'm a little disappointed in the lack of a \"Wake Up\" song. I'm not sure if it's because I'm a little late to the party, or if it's because I'm a little disappointed in the lack of"
+    },
+    {
+      "id": "34_var8",
+      "input": "Yoy to we waek up erly wine we dont have th but tend to wake up late when we need ro bei up?",
+      "output": "I have a question about the \"I'm a little bit of a wine snob\" thing. I'm a little bit of a wine snob, but I don't think I'm a wine snob. I'm a wine snob. I'm a wine snob. I'm a wine snob"
+    },
+    {
+      "id": "34_var9",
+      "input": "Why do wey wake up erly where wee done have of but tend too waek up late when we needd to be up?",
+      "output": "I’m not sure if I’m the only one who has this problem, but I’m always up at 5am. I’m not sure if it’s because I’m a night owl or if it’s just me.\nI’m a night owl, but I"
+    },
+    {
+      "id": "34_var10",
+      "input": "Why du weed wake up early wine we don't have of but tend two waek up late weten wot need two be up?",
+      "output": "I'm not sure if I'm the only one, but I've noticed that I wake up at 5:30am and I'm usually up by 6:30am. I'm usually up by 7:30am. I'm usually up by 8:30am. I'm usually up by 9:30"
+    }
+  ],
+  "35": [
+    {
+      "id": "35_orig",
+      "input": "Why do you see weird colors when you press your eyes?",
+      "output": "What is the difference between a normal eye and a diabetic eye?\nWhat is the difference between a normal eye and a diabetic eye? A normal eye is a clear, round, and transparent eye. A diabetic eye is a red, swollen, and inflamed eye.\nWhat is the difference between a normal eye"
+    },
+    {
+      "id": "35_var1",
+      "input": "Yoy no yo se wierd colors want na prass ore eyes?",
+      "output": "I’m not sure if I’m the only one who’s noticed this, but I’ve noticed that the more I’ve been reading the more I’ve been noticing that the more I’m reading the more I’m noticing that the more I’m noticing that the more I’"
+    },
+    {
+      "id": "35_var2",
+      "input": "Wy no na se wierd colors whet yo prass young eyes?",
+      "output": "I’m not sure what you mean by “young eyes” but I’m sure you’re not referring to the color of my eyes.\nI’m not sure what you mean by “young eyes” but I’m sure you’re not referring to the color of my eyes. I’"
+    },
+    {
+      "id": "35_var3",
+      "input": "Wy doe yuo se werd colors whe w prass yere eyes?",
+      "output": "Wy doe yu se werd colors whe w prass yere eyes?\n\nWy doe yu se werd colors whe w prass yere eyes?\n\nWy doe yu se werd colors whe w prass yere eyes?\n\nWy"
+    },
+    {
+      "id": "35_var4",
+      "input": "Yoy go yo se werd colors wheh yo prass youre eyes?",
+      "output": "I'm not sure if I'm the only one who's noticed this, but I'm not sure if it's a bug or a feature.\nI'm not sure if it's a bug or a feature.\nI'm not sure if it's a bug or a feature. I'm not sure if it"
+    },
+    {
+      "id": "35_var5",
+      "input": "Yoy boo yow se wierd colors want yew prass you eyes?",
+      "output": "I'm not sure if I'm the only one, but I'm not sure if I'm the only one who is a little confused by the fact that the \"I'm not sure if I'm the only one\" part is in the first sentence.\nI'm not sure if I'm the only one,"
+    },
+    {
+      "id": "35_var6",
+      "input": "Wy drow yuo se werd colors whn yew prass young eyes?",
+      "output": "I’m a little confused. I’m not sure if I’m understanding this correctly.\nI’m not sure if I’m understanding this correctly.\nI’m not sure if I’m understanding this correctly.\nI’m not sure if I’m understanding this correctly."
+    },
+    {
+      "id": "35_var7",
+      "input": "Wy dow yow se werd colors whet w prass yer eyes?",
+      "output": "I’m a little confused. I’m not sure if I’m supposed to be thinking about the color of the sky or the color of the sky and the color of the sky.\nI’m not sure if I’m supposed to be thinking about the color of the sky or the color of"
+    },
+    {
+      "id": "35_var8",
+      "input": "Way dooe na se wierd colors wane na prass yore eyes?",
+      "output": "I’m not sure if I’m the only one who’s noticed this, but I’ve noticed that the colors in the background of the images are a bit lighter than the ones in the foreground.\nI’m not sure if this is a bug or a feature, but I’ve noticed"
+    },
+    {
+      "id": "35_var9",
+      "input": "Wiy dom yo se werd colors wern w prass youe eyes?",
+      "output": "I’m a little bit confused. I’m not sure if I’m supposed to be a little bit confused or not.\nI’m not sure if I’m supposed to be a little bit confused or not.\nI’m not sure if I’m supposed to be a little bit"
+    },
+    {
+      "id": "35_var10",
+      "input": "Wiy dowe yo se wierd colors wehn yow prass young eyes?",
+      "output": "I’m not sure what you mean by “young eyes” but I’m not sure what you mean by “young eyes” either.\nI’m not sure what you mean by “young eyes” either.\nI’m not sure what you mean by “young eyes” either.\nI"
+    }
+  ],
+  "36": [
+    {
+      "id": "36_orig",
+      "input": "Why does a beer on tap almost always taste better than it does from a bottle?",
+      "output": "The answer is simple: the beer is fresher.\nThe beer is fresher because it is brewed in a cooler, which means it is less likely to be exposed to oxygen.\nThe beer is fresher because it is brewed in a cooler, which means it is less likely to be exposed to"
+    },
+    {
+      "id": "36_var1",
+      "input": "Way dose an beer of tap almsot allways tayste metter than it does torme a bottle?",
+      "output": "I think the answer is that it depends on the person.\nI think it depends on the person.\nI think it depends on the person.\nI think it depends on the person.\nI think it depends on the person.\nI think it depends on the person.\nI think it depends on"
+    },
+    {
+      "id": "36_var2",
+      "input": "Yoy does the beer on tap almsot alwaysed tayste bet than il dose from ah bottle?",
+      "output": "I have a few of the Yoy beers on tap at my local pub. I love them all.\nI have a few of the Yoy beers on tap at my local pub. I love them all. I have a few of the Yoy beers on tap at my local pub. I love them all"
+    },
+    {
+      "id": "36_var3",
+      "input": "Yoy doens an beer on tap alomst always taste beththe then she does for an bottle?",
+      "output": "I’m not sure if it’s the same for all beers, but I’ve never had a beer that tasted better than the one I had before.\nI’m not sure if it’s the same for all beers, but I’ve never had a beer that tasted better than the one"
+    },
+    {
+      "id": "36_var4",
+      "input": "Why dose and beer one tap alomst all_way's taste beththe tahn et does frome a bottle?",
+      "output": "I think it's a good idea to have a beer at the same time as the food.\nI think it's a good idea to have a beer at the same time as the food. I think it's a good idea to have a beer at the same time as the food.\nI think it's"
+    },
+    {
+      "id": "36_var5",
+      "input": "Why dus an beer one tap allmost alwaysed tast better than it dus fraom and bottle?",
+      "output": "I think it's a matter of taste. I like a good beer, but I don't like a bad beer. I like a good beer, but I don't like a bad beer. I like a good beer, but I don't like a bad beer. I like a good beer, but I don"
+    },
+    {
+      "id": "36_var6",
+      "input": "Wy doens ah beer hon tap almost always tayste beththe than it doens forom as bottle?",
+      "output": "I’m not sure what you mean by “the bottle” but I’m pretty sure that the bottle is not the only way to get beer.\nI’m not sure what you mean by “the bottle” but I’m pretty sure that the bottle is not the only way to get beer."
+    },
+    {
+      "id": "36_var7",
+      "input": "Why doens the beer an tap all_most all_way's tayste better than et does fou the bottle?",
+      "output": "_I'll tell you why_\n\n_I'll tell you why_\n\n_I'll tell you why_\n\n_I'll tell you why_\n\n_I'll tell you why_\n\n_I'll tell you why_\n\n_I'll tell you why_"
+    },
+    {
+      "id": "36_var8",
+      "input": "Yoy does a beer an tap almsot alway's taste bet then she dose from ah bottle?",
+      "output": "I'm not sure what you mean by \"the beer is always good\" but I'm pretty sure that's not what you're asking.\nI'm not sure what you mean by \"the beer is always good\" but I'm pretty sure that's not what you're asking. I'm not sure what you"
+    },
+    {
+      "id": "36_var9",
+      "input": "Why dus an beer hn tap almost always tayste beter than i dus form as bottle?",
+      "output": "I’m not sure what you mean by “almost always” but I’m pretty sure that the majority of beer drinkers prefer to drink beer in a glass.\nI’m not sure what you mean by “almost always” but I’m pretty sure that the majority of beer drinkers prefer to"
+    },
+    {
+      "id": "36_var10",
+      "input": "Wiy does a beer one tap almsot alwaysed tayste metter thna it dus from ah bottle?",
+      "output": "I have a bottle of beer that I bought in a store in the UK. I have never had it before. I have never had a beer in a bottle before. I have never had a beer in a bottle before. I have never had a beer in a bottle before. I have never had a beer in"
+    }
+  ],
+  "38": [
+    {
+      "id": "38_orig",
+      "input": "Why does my employer require a voided personal check in order to setup direct deposit?",
+      "output": "If your employer requires a voided personal check to setup direct deposit, you will need to provide a voided personal check to your employer.\nIf your employer requires a voided personal check to setup direct deposit, you will need to provide a voided personal check to your employer. If your employer requires a void"
+    },
+    {
+      "id": "38_var1",
+      "input": "Wiy dus yoy inpeler requare ah voided persnal check in oredr qu setup direct deposit?",
+      "output": "I have a question about the direct deposit. I have a bank account with a bank that I use for my business. I have a checking account with another bank that I use for my personal account. I have a business checking account with another bank that I use for my personal account. I have a business checking account"
+    },
+    {
+      "id": "38_var2",
+      "input": "Wy dus ne employer requare an voided personal cheke i orter qu setup direct deposit?",
+      "output": "I have a question about the new direct deposit. I have a direct deposit set up for my paycheck. I have a direct deposit set up for my paycheck. I have a direct deposit set up for my paycheck. I have a direct deposit set up for my paycheck. I have a direct deposit"
+    },
+    {
+      "id": "38_var3",
+      "input": "Wy dose by inploer requare a voided persnal chack in orter ro setup direct deposit?",
+      "output": "I have a question about the \"Invoice\" section of the \"Account\" tab.\nI have a customer that has a \"Invoice\" section in the \"Account\" tab.\nI have a customer that has a \"Invoice\" section in the \"Account\" tab.\nI have a customer"
+    },
+    {
+      "id": "38_var4",
+      "input": "Wy does ne enplere requier an voided personel check i od too setup direct deposit?",
+      "output": "I have a question about the direct deposit. I have a direct deposit set up for my account. I have a direct deposit set up for my account. I have a direct deposit set up for my account. I have a direct deposit set up for my account. I have a direct deposit set up for my account"
+    },
+    {
+      "id": "38_var5",
+      "input": "Wiy dose miy inporer requier are voided personal cheke in oder ot setup direct deposit?",
+      "output": "I have a question about the direct deposit. I have a direct deposit account with a bank. I have a direct deposit account with a bank. I have a direct deposit account with a bank. I have a direct deposit account with a bank. I have a direct deposit account with a bank. I have a direct"
+    },
+    {
+      "id": "38_var6",
+      "input": "Wy dus ne emploer requare i voided personal chack im oder to setup direct deposit?",
+      "output": "I am a new user and I have never used a credit card before. I have a credit card that I have used for years. I have never used it for anything other than a purchase. I have never used it for anything other than a purchase. I have never used it for anything other than a purchase."
+    },
+    {
+      "id": "38_var7",
+      "input": "Wiy doens ne emplorer requier are voided personel check i order of setup direct deposit?",
+      "output": "I have a question about the direct deposit. I have a direct deposit account with a bank. I have a direct deposit account with a bank. I have a direct deposit account with a bank. I have a direct deposit account with a bank. I have a direct deposit account with a bank. I have a direct"
+    },
+    {
+      "id": "38_var8",
+      "input": "Yoy doens yoy inpuroer requare ah voided personel check in oredr too setup direct deposit?",
+      "output": "I have a question about the new tax law. I am a small business owner and I am wondering if I can deduct the cost of my employees from my taxes. I am not sure if I can deduct the cost of my employees from my taxes. I am not sure if I can deduct the cost of my employees"
+    },
+    {
+      "id": "38_var9",
+      "input": "Yoy dus miy employer requier the voided persnal chack with order ro setup direct deposit?",
+      "output": "I have a question about the voided persnal chack with order ro setup direct deposit.\nI have a question about the voided persnal chack with order ro setup direct deposit.\nI have a question about the voided persnal chack with order ro setup direct deposit.\nI have a"
+    },
+    {
+      "id": "38_var10",
+      "input": "Yoy dose my inpeler requare a voided personel cheke it oredr too setup direct deposit?",
+      "output": "I have a question about the new tax law. I am a small business owner and I am wondering if I can deduct the cost of my employees health insurance. I am not sure if I can deduct the cost of the insurance. I am not sure if I can deduct the cost of the insurance.\nI am"
+    }
+  ],
+  "39": [
+    {
+      "id": "39_orig",
       "input": "Why does the water from my kitchen faucet taste different than the water from my bathroom faucet? Doesn't it come from the same place?",
-      "output": "PLACEHOLDER"
+      "output": "The water from your kitchen faucet is not the same as the water from your bathroom faucet. The water from your kitchen faucet is a mixture of water from your kitchen sink and water from your kitchen faucet. The water from your bathroom faucet is a mixture of water from your"
     },
     {
-      "id": "8_var1",
-      "input": "Wy does tghe water fram my kitchen faucet tayste different tahn the wather fomr my bathroom faucet? doesn't it com from the smae place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var1",
+      "input": "Why dose the water fere miy kitchen faucet taste difrent that he water from mi bathroom faucet? doesn't it come from thee soen place?",
+      "output": "I have a faucet that is a little different than the rest. It has a little more of a \"bite\" to it. I have a question about it. I have a faucet that is a little different than the rest. It has a little more of a \"bite\" to"
     },
     {
-      "id": "8_var2",
-      "input": "Why dose the water frm my kitchen faucet tayste different than the weter from my both_rom faucet? does_on it comr from tghe soen place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var2",
+      "input": "Wy dose the weter fome my kitchen faucet tayste diffent than the water fram my bathroom faucet? doesnt it com from the same place?",
+      "output": "I have a problem with my kitchen faucet. It is a kitchen faucet that is a standard kitchen faucet. It is a standard kitchen faucet that is a standard kitchen faucet. It is a standard kitchen faucet that is a standard kitchen faucet. It is"
     },
     {
-      "id": "8_var3",
-      "input": "Why does tghe wather from ny kitchen faucet taste different tahn the wather from my both_rom faucet? doesn't it comr from hte smae place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var3",
+      "input": "Why dus ge wather from may kichen faucet taste differt than the water from my bathroom faucet? does'nt hit come from they same place?",
+      "output": "I have a faucet that is a little different than the rest. It is a single handle faucet. It has a lever that is a little different than the rest. It has a lever that is a little different than the rest. It has a lever that is a little different than the rest."
     },
     {
-      "id": "8_var4",
-      "input": "Why dus the watter fere miy kitchen faucet tayste differt than t water from my both_rom faucet? doesn't it come from the same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var4",
+      "input": "Why dose hte water from my kitchin faucet tast different than tje weter from my bathroom faucet? doesn't il come ofomt the sam place?",
+      "output": "I have a faucet that is a little different than the rest. It has a little more of a \"punch\" to it. I have a faucet that is a little different than the rest. It has a little more of a \"punch\" to it.\nI have a fa"
     },
     {
-      "id": "8_var5",
-      "input": "Why dus to water fraom mi kitchen faucet tast differant than the wather from my bathroom faucet? doesn't she kumh from the same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var5",
+      "input": "Wy dose tjhe water from my kitchen faucet taste differed then the water from by both_rom faucet? doesn't il com from the same place?",
+      "output": "I have a faucet that is a little different than the one in the picture. I have a faucet that is a little different than the one in the picture.\nI have a faucet that is a little different than the one in the picture.\nI have a faucet that"
     },
     {
-      "id": "8_var6",
-      "input": "Why dose teh water fram my kitchen faucet taste different then tje water frome ma both_rom faucet? dosent it come from the same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var6",
+      "input": "Why dose the weter from my kitchen faucet tast diffrent thna the water forom my bathroom faucet? doesnet it kumh from the sam place?",
+      "output": "I have a faucet that is a little different than the rest. It has a little hole in the top of the faucet. I have a small sink in the corner of the kitchen. I have a small sink in the corner of the bathroom. I have a small sink in the corner of the"
     },
     {
-      "id": "8_var7",
-      "input": "Yoy does the watter foint ny kitching faucet taste different tahn the water fraom my bathroom faucet? doesn't it come from t sane place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var7",
+      "input": "Way does thee water from mi kitchen faucet tast different than the wather from my bathroom faucet? doesn't hit come fam th smae place?",
+      "output": "I have a faucet that is a little different than the rest. I have a shower head that is a little different than the rest. I have a faucet that is a little different than the rest. I have a faucet that is a little different than the rest. I have a fa"
     },
     {
-      "id": "8_var8",
-      "input": "Why does the water fom ny kitchen faucet tayste different tahn i water frome my both_rom faucet? doesn't it come fou the sam place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var8",
+      "input": "Why does thw water ofomt ma kitching faucet taste different that the wather from my both_rom faucet? dosnt et come from the same place?",
+      "output": "I have a faucet that has a water pressure switch. I have a faucet that has a water pressure switch. I have a faucet that has a water pressure switch. I have a faucet that has a water pressure switch. I have a faucet that has a water pressure"
     },
     {
-      "id": "8_var9",
-      "input": "Why dose ther water from my kiching faucet tast different than the wather from my both_rom faucet? dusnt it com fou the same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var9",
+      "input": "Why dus the weter forme my kitchen faucet taste deffer then the wather fam my both_rom faucet? doesn't its come from the same place?",
+      "output": "I have a faucet that I bought from a local hardware store. It is a chrome faucet. I have been told that it is a \"waterfall\" faucet. I have never seen a waterfall faucet before. I have been told that it is a \"waterfall\""
     },
     {
-      "id": "8_var10",
-      "input": "Wy does th weter from me kitchen faucet taste different tahn thw water from my bathroom faucet? does'nt it coum from tje same place?",
-      "output": "PLACEHOLDER"
+      "id": "39_var10",
+      "input": "Why does my water from my kitchen faucet tast different than the wather fram my bathroom faucet? doesn't hit comr from th sam place?",
+      "output": "I have a water softener and it is working great. I have a water softener that is not working. I have a water softener that is not working. I have a water softener that is not working. I have a water softener that is not working. I have a water softener that"
+    }
+  ],
+  "40": [
+    {
+      "id": "40_orig",
+      "input": "Why has the Mars Rover Opportunity's Lithium Ion Battery Lasted 11+ Years and the one in My Cell Phone/Laptop/Tablet Dies in Less Than 2?",
+      "output": "The battery in my cell phone/laptop/tablet is about 2 years old. I have a new one, but it's not the same as the one in the rover.\nWhy does the battery in my cell phone/laptop/tablet last so long?\nThe battery in my cell"
+    },
+    {
+      "id": "40_var1",
+      "input": "Wy hase the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Eyasr and thi noone in Ne Cell Phone/laptop/tablet Dies is Less That 2?",
+      "output": "I have a question about the Mars Rover Opportunity. I have read that the battery on the rover lasted for 11 years and no one in the cell phone/laptop/tablet dies is less than 2 years old. Is this true?\nI have a question about the Mars Rover Opportunity. I"
+    },
+    {
+      "id": "40_var2",
+      "input": "Yoy his the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years an the one i Ny Cell Phone/laptop/tablet Dies im Lase Thna 2?",
+      "output": "I'm not sure if this is the right place to ask this question, but I'm looking for a good place to buy a new laptop. I have a Dell Inspiron 15 7000, and I'm looking for a new one. I'm not sure if I should buy a new one or just upgrade my"
+    },
+    {
+      "id": "40_var3",
+      "input": "Why have ge Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Eyasr an my ont if Ny Cell Phone/laptop/tablet Dies in Lest Than 2?",
+      "output": "I have a Samsung Galaxy S3 and I have been using it for about a year now. I have been using it for about a year now. I have been using it for about a year now. I have been using it for about a year now. I have been using it for about a year now."
+    },
+    {
+      "id": "40_var4",
+      "input": "Why his they Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years aud the wum with My Cell Phone/laptop/tablet Dies with Lest Then 2?",
+      "output": "I'm not sure if I'm understanding your question.\nI'm not sure if I'm understanding your question. I'm not sure if I'm understanding your question.\nI'm not sure if I'm understanding your question. I'm not sure if I'm understanding your question.\nI'm not sure if"
+    },
+    {
+      "id": "40_var5",
+      "input": "Why his ge Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years ane the noone with Miy Cell Phone/laptop/tablet Dies if Less Then 2?",
+      "output": "I'm not sure if this is the right place to ask this question, but I'm wondering if anyone has any experience with the Lithium Ion Batteries that are used in the Mars Rover. I'm not sure if they last as long as the ones used in the iPhone, but I'm wondering if"
+    },
+    {
+      "id": "40_var6",
+      "input": "Way hase the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years an the wum it Yoy Cell Phone/laptop/tablet Dies it Lest Than 2?",
+      "output": "I have a question about the Mars Rover Opportunity. I have read that the battery on the rover lasted 11 years and the battery on the rover lasted 2 years. I have a question about the battery on the rover. I have read that the battery on the rover lasted 11 years and the battery"
+    },
+    {
+      "id": "40_var7",
+      "input": "Yoy have a Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years aand my wun in Ny Cell Phone/laptop/tablet Dies in Lase Than 2?",
+      "output": "I have a Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years aand my wun in Ny Cell Phone/laptop/tablet Dies in Lase Than 2?\nI have a Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Years aand"
+    },
+    {
+      "id": "40_var8",
+      "input": "Way has a Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Year a the ond with Miy Cell Phone/laptop/tablet Dies in Lase Than 2?",
+      "output": "I have a Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Year a the ond with Miy Cell Phone/laptop/tablet Dies in Lase Than 2?\nI have a Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Year a the on"
+    },
+    {
+      "id": "40_var9",
+      "input": "Wiy hase they Mars Rover opportunity's Lithium Ion Battery Lasted 11+ Years ane tie one in Yoy Cell Phone/laptop/tablet Dies is Lase Tahn 2?",
+      "output": "I have a question about the Mars Rover Opportunity.\nI have a question about the Mars Rover Opportunity. I have a question about the Mars Rover Opportunity.\nI have a question about the Mars Rover Opportunity. I have a question about the Mars Rover Opportunity.\nI have a question about"
+    },
+    {
+      "id": "40_var10",
+      "input": "Yoy has the Mars Rover opportunity's Lithium Ion Batery Lasted 11+ Yersa and tjhe won it Miy Cell Phone/laptop/tablet Dies is Less Then 2?",
+      "output": "I have a question about the Mars Rover Opportunity. I have a question about the Mars Rover Opportunity. I have a question about the Mars Rover Opportunity. I have a question about the Mars Rover Opportunity. I have a question about the Mars Rover Opportunity. I have a question about the Mars R"
+    }
+  ],
+  "42": [
+    {
+      "id": "42_orig",
+      "input": "Why is it when you rewind VHS tapes they lose their quality over time?",
+      "output": "I’m not sure if it’s the same with DVDs.\nI’ve seen a few people say that they’ve had their DVDs rewound and they’ve lost quality.\nI’ve never seen that happen with my VHS tapes.\nI’ve never seen that"
+    },
+    {
+      "id": "42_var1",
+      "input": "Way in i when yuo rewind VHS tapes thy loose there quailty aver time?",
+      "output": "I have a question about the video tape. I have a VHS tape that I have been using for years. I have a VHS player and I have been using it for years. I have a VHS tape that I have been using for years. I have a VHS tape that I have been using"
+    },
+    {
+      "id": "42_var2",
+      "input": "Wy his she wheh w rewind VHS tapes thar lose thier quailty ove time?",
+      "output": "I’m not sure if I’m the only one who’s noticed this, but I’ve noticed that the more I watch the more I’m impressed with the quality of the film. I’m not sure if it’s the fact that I’m watching it on a computer screen,"
+    },
+    {
+      "id": "42_var3",
+      "input": "Why it il wane your rewind VHS tapes ther los ther quailty aver time?",
+      "output": "I’m not sure if I’m the only one who’s noticed this, but I’ve noticed that the “VHS” tape is a lot more common than the “DVD” tape.\nI’m not sure if I’m the only one who’s noticed this, but"
+    },
+    {
+      "id": "42_var4",
+      "input": "Wy it its whn yo rewind VHS tapes thaire los theer quailty over time?",
+      "output": "I’m not sure if I’m the only one who’s noticed this, but I’ve noticed that the more I watch a movie, the more I notice the same things.\nI’m not sure if it’s just me, but I’ve noticed that the more I watch a"
+    },
+    {
+      "id": "42_var5",
+      "input": "Wiy si il whan you rewind VHS tapes thar los thrir quailty aver time?",
+      "output": "I’m not sure if I’m the only one who’s noticed that the “VHS” in the title of this post is a typo.\nI’m not sure if I’m the only one who’s noticed that the “VHS” in the title of this post is"
+    },
+    {
+      "id": "42_var6",
+      "input": "Wy us hit where yoy rewind VHS tapes theire loos their quailty overy time?",
+      "output": "I’m not sure if I’m the only one who’s noticed this, but I’ve noticed that the “VHS” logo on the front of the tape is a little different than the “VHS” logo on the back.\nI’m not sure if it’s just me"
+    },
+    {
+      "id": "42_var7",
+      "input": "Wiy si is whe na rewind VHS tapes ther los these quality overe time?",
+      "output": "I have a question about the video quality of the VHS tapes.\nI have a question about the video quality of the VHS tapes. I have a question about the video quality of the VHS tapes.\nI have a question about the video quality of the VHS tapes. I have a question about"
+    },
+    {
+      "id": "42_var8",
+      "input": "Wy si its when yuo rewind VHS tapes thea los thrir quailty hover time?",
+      "output": "I think theres a lot of people who arent aware of the fact that theres a lot of people who arent aware of the fact that theres a lot of people who arent aware of the fact that theres a lot of people who arent aware of the fact that theres a lot of"
+    },
+    {
+      "id": "42_var9",
+      "input": "Wiy his its weten yow rewind VHS tapes their los they quality hover time?",
+      "output": "I’m not sure if I’m the only one who’s noticed that the “I’m not sure if I’m the only one who’s noticed that the “I’m not sure if I’m the only one who’s noticed that the “I’m not sure if"
+    },
+    {
+      "id": "42_var10",
+      "input": "Way is is we na rewind VHS tapes ther loos thier quailty ofrer time?",
+      "output": "I think it's a good idea to have a \"replay\" button on the player.\nI think it's a good idea to have a \"replay\" button on the player.\nI think it's a good idea to have a \"replay\" button on the player.\nI think it"
+    }
+  ],
+  "43": [
+    {
+      "id": "43_orig",
+      "input": "Why is sales tax in the US excluded from the list price?",
+      "output": "The list price is the price at which the product is sold to the public. The list price excludes sales tax.\nWhat is the difference between a manufacturer and a distributor?\nA manufacturer is the person who makes the product. A distributor is the person who sells the product.\nWhat is the difference between a"
+    },
+    {
+      "id": "43_var1",
+      "input": "Wy it sales tacks with thge A excluded fraom they lits price?",
+      "output": "I am a newbie to the forum and I am looking for some advice. I have a 2003 Ford F-150 with a 5.4L V8 engine. I have a few questions.\n1. I have a new set of tires. I have a set of Goodyear Eagle F-100's"
+    },
+    {
+      "id": "43_var2",
+      "input": "Yoy si sales tacks im ther USE excluded form a lest price?",
+      "output": "I have a question about the price of a product. I have a product that I want to sell. I want to sell it at a price that is lower than the price of the product. I want to sell it at a price that is lower than the price of the product. I want to sell it at"
+    },
+    {
+      "id": "43_var3",
+      "input": "Wiy us sales tacks with thge ARES excluded fram an lits price?",
+      "output": "I have a question about the ARES. I have a question about the ARES.\nI have a question about the ARES.\nI have a question about the ARES.\nI have a question about the ARES.\nI have a question about the ARES.\nI have a question"
+    },
+    {
+      "id": "43_var4",
+      "input": "Wiy his sales tacks im he A excluded fom thee lest price?",
+      "output": "_The_ _B_ _C_ _D_ _E_ _F_ _G_ _H_ _I_ _J_ _K_ _L_ _M_ _N_ _O_ _P_ _Q_ _R_ _S_ _T_ _U"
+    },
+    {
+      "id": "43_var5",
+      "input": "Yoy in sales tacks im thoy HUS excluded fraom he lits price?",
+      "output": "I'm not sure if this is the right place to ask this question, but I'm trying to figure out how to get the price of a Yoy in sales tacks im thoy HUS excluded from the price of the Yoy in sales tacks im thoy HUS.\nI'm trying to"
+    },
+    {
+      "id": "43_var6",
+      "input": "Wy in sales tacks im to HUS excluded for tie lest price?",
+      "output": "I'm not sure what you mean by \"tack\" in this context.\nI think you mean \"tack\" in the sense of \"to add to the price of a product\".\nI think you mean \"tack\" in the sense of \"to add to the price of a product\"."
+    },
+    {
+      "id": "43_var7",
+      "input": "Wy it sales tacks it i HUS excluded came tjhe lest price?",
+      "output": "The price of the product is the price of the product.\nThe price of the product is the price of the product. The price of the product is the price of the product.\nThe price of the product is the price of the product. The price of the product is the price of the product."
+    },
+    {
+      "id": "43_var8",
+      "input": "Yoy in sales tacks if ge A excluded torme tje lits price?",
+      "output": "I have a question about the price of a yoy in sales tacks if ge A excluded torme tje lits price?\nI have a question about the price of a yoy in sales tacks if ge A excluded torme tje lits price? I have a question about the"
+    },
+    {
+      "id": "43_var9",
+      "input": "Wy his sales tacks is ge A excluded fro he lits price?",
+      "output": "I am a newbie to the forum. I have been a member of the forum for a few months now. I have been trying to get a few things done. I have been trying to get a few things done. I have been trying to get a few things done. I have been trying to get a"
+    },
+    {
+      "id": "43_var10",
+      "input": "Wy in sales tacks is thoy AS excluded form thi lits price?",
+      "output": "I am a newbie in the field of sales. I have been working in the field of sales for the last 3 years. I have been working in the field of sales for the last 3 years. I have been working in the field of sales for the last 3 years. I have been working in the field"
+    }
+  ],
+  "44": [
+    {
+      "id": "44_orig",
+      "input": "Why is the recent Apple vs. FBI encryption debate relevant years after the Snowden leaks (2013), passage of the PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "The recent Apple vs. FBI encryption debate is relevant because it is a reminder of the importance of privacy and security in a digital age.\nThe recent Apple vs. FBI encryption debate is relevant because it is a reminder of the importance of privacy and security in a digital age. The debate is also a reminder of the"
+    },
+    {
+      "id": "44_var1",
+      "input": "Yoy it the resent Alppe vs. FBI encryption debate relevaant yeasr aftere ther Snowden leaks (2013), passage of thee PATRIOT Act (2001), and the ECHELON revelations (1988)?",
+      "output": "I think it is.\nI think it is. I think it is.\nI think it is. I think it is.\nI think it is. I think it is.\nI think it is. I think it is.\nI think it is. I think it is.\nI think"
+    },
+    {
+      "id": "44_var2",
+      "input": "Yoy si the recent Apoler vs. FBI encryptiion debate relevant years aftr the Snowden leaks (2013), passage othe tu PATRIOT Act (2001), anf thoy ECHELON revelations (1988)?",
+      "output": "I’m not sure what you mean by “recent”. The Snowden leaks were in 2013, and the ECHELON revelations were in 1988.\nI’m not sure what you mean by “recent”. The Snowden leaks were in 2013, and the ECHELON revelations were in 1988. I’m not"
+    },
+    {
+      "id": "44_var3",
+      "input": "Why it the resent Apple vs. FBI encryptiion debait relavent eyars afthe the Snowden leaks (2013), passage of the PATRIOT Act (2001), hand tje ECHELON revelations (1988)?",
+      "output": "The answer is that the NSA and FBI are not the only ones who are spying on us. The NSA and FBI are just the tip of the iceberg.\nThe NSA and FBI are just the tip of the iceberg.\nThe NSA and FBI are just the tip of the iceberg. The NSA and"
+    },
+    {
+      "id": "44_var4",
+      "input": "Wy is these resent Apple vs. FBI encryption debat relevant yeras afthe tie Snowden leaks (2013), passage of tjhe PATRIOT Act (2001), ane the ECHELON revelations (1988)?",
+      "output": "I’m not sure. I’m not sure that the NSA is the only agency that has access to the data. I’m not sure that the NSA is the only agency that has access to the data. I’m not sure that the NSA is the only agency that has access to the data."
+    },
+    {
+      "id": "44_var5",
+      "input": "Wiy as thw resent Apple vs. FBI encryptiion debate relevent years half the Snowden leaks (2013), passage of tjhe PATRIOT At (2001), and the ECHELON revelations (1988)?",
+      "output": "The NSA’s “backdoor” program is a “witch hunt” that is “unconstitutional” and “un-American” and “a violation of the Fourth Amendment.”\nThe NSA’s “backdoor” program is a “witch hunt” that is “unconstitutional” and"
+    },
+    {
+      "id": "44_var6",
+      "input": "Yoy in the recent Appre vs. FBI encryptiion debait relevant year after ther Snowden leaks (2013), passage of the PATRIOT Act (2001), a tehe ECHELON revelations (1988)?",
+      "output": "I think the answer is yes.\nI think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes. I think the answer is yes.\nI think the answer is yes. I think the answer is yes. I think the answer"
+    },
+    {
+      "id": "44_var7",
+      "input": "Yoy in thge recent Alppe vs. FBI encryptiion debat relevent years aftr the Snowden leaks (2013), passage of the PATRIOT Act (2001), and t ECHELON revelations (1988)?",
+      "output": "The answer is yes.\nThe NSA has been collecting data on Americans since the 1970s.\nThe NSA has been collecting data on Americans since the 1970s. The NSA has been collecting data on Americans since the 1970s. The NSA has been collecting data on Americans since the 1970s. The NSA has been"
+    },
+    {
+      "id": "44_var8",
+      "input": "Why is thge resent Appel vs. FBI encryptiion debate relevant yesars afert hte Snowden leaks (2013), passage of teh PATRIOT Act (2001), and tie ECHELON revelations (1988)?",
+      "output": "The NSA’s massive surveillance program is a threat to our democracy.\nThe NSA’s massive surveillance program is a threat to our democracy. The NSA’s massive surveillance program is a threat to our democracy. The NSA’s massive surveillance program is a threat to our democracy. The NSA’s massive surveillance"
+    },
+    {
+      "id": "44_var9",
+      "input": "Why is teh resent Alpper vs. FBI encryption debate relavent eyars afthe the Snowden leaks (2013), passage on tjhe PATRIOT Act (2001), ane the ECHELON revelations (1988)?",
+      "output": "The NSA’s “backdoor” program is a “backdoor” program. It’s not a “backdoor” program. It’s a “backdoor” program.\nThe NSA’s “backdoor” program is a “backdoor” program. It’s not a “back"
+    },
+    {
+      "id": "44_var10",
+      "input": "Why is the recent Apple vs. FBI encryptiion debait relevent years haved tjhe Snowden leaks (2013), passage of an PATRIOT At (2001), aand a ECHELON revelations (1988)?",
+      "output": "The NSA has been collecting data on Americans for decades. The NSA has been collecting data on Americans for decades. The NSA has been collecting data on Americans for decades. The NSA has been collecting data on Americans for decades. The NSA has been collecting data on Americans for decades. The NSA has been collecting data on Americans"
+    }
+  ],
+  "46": [
+    {
+      "id": "46_orig",
+      "input": "why do we like watching the same TV show or movie over and over again?",
+      "output": "I’m not sure if I’m the only one who has this problem, but I’m always looking for new things to watch. I’m always looking for something new to watch, and I’m always looking for something new to watch. I’m always looking for something new to watch,"
+    },
+    {
+      "id": "46_var1",
+      "input": "why to we liuke watcheing my same TV sho all movie over hand aver again?",
+      "output": "I am not sure if I am the only one who has this problem. I have a TV that I bought in the late 90s. I have a TV that I bought in the late 90s. I have a TV that I bought in the late 90s. I have a TV that I bought in the"
+    },
+    {
+      "id": "46_var2",
+      "input": "way dou weed liek watching the sane TV sohw or movei ower and over again?",
+      "output": "I think the only way to get rid of the \"crazies\" is to get rid of the \"crazies\" and the \"crazies\" and the \"crazies\" and the \"crazies\" and the \"crazies\" and the \"crazies\" and the"
+    },
+    {
+      "id": "46_var3",
+      "input": "way dor we like waching hte sane TV show os movie over hand ofrer again?",
+      "output": "I am a big fan of the show and I am glad that you are enjoying it. I am glad that you are enjoying the show. I am glad that you are enjoying the show. I am glad that you are enjoying the show. I am glad that you are enjoying the show. I am glad that you"
+    },
+    {
+      "id": "46_var4",
+      "input": "yoy bow wot look watching the same TV sow ore movie overe and ofrer again?",
+      "output": "I think the only thing that would make me watch it again is if it was a good movie.\nI think I’d rather watch a good movie than a bad one.\nI think I’d rather watch a good movie than a bad one. I think I’d rather watch a good movie than"
+    },
+    {
+      "id": "46_var5",
+      "input": "wy do be like watching he sane TV show all movie aver hand overe again?",
+      "output": "I’m not sure if I’m the only one who’s noticed that the show has been going downhill since the beginning. I’m not sure if it’s the writing, the acting, the direction, the story, the characters, the plot, the acting, the directing, the acting,"
+    },
+    {
+      "id": "46_var6",
+      "input": "wy do wee like watching that soen TV sho awer movei overe and overe again?",
+      "output": "I’m not sure if I’m the only one who’s noticed that the “I’m not a doctor” line is getting a bit tiresome.\nI’m not sure if I’m the only one who’s noticed that the “I’m not a doctor” line is"
+    },
+    {
+      "id": "46_var7",
+      "input": "why go wey like watcheing the smae TV sohw our movei over aand overy again?",
+      "output": "I’m not sure what you mean by “the same TV” but I’m sure you’re not referring to the same TV as the one you’re watching.\nI’m not sure what you mean by “the same TV” but I’m sure you’re not referring to the"
+    },
+    {
+      "id": "46_var8",
+      "input": "why bo wey lichr watcheing the sam TV sohw or movie overy anf overy again?",
+      "output": "I think the problem is that the people who are making the movies are not the people who are watching them.\nI think the problem is that the people who are making the movies are not the people who are watching them.I think the problem is that the people who are making the movies are not the people who"
+    },
+    {
+      "id": "46_var9",
+      "input": "why do wot like watcheing tehe sam TV sho awer movie over aand ower again?",
+      "output": "I’m not sure what you mean by “wot like watching television”.\nI’m not sure what you mean by “wot like watching television”.\nI’m not sure what you mean by “wot like watching television”.\nI’m not sure what you mean by “wot"
+    },
+    {
+      "id": "46_var10",
+      "input": "why do be like watcheing the soen TV sow are movie overe a ove again?",
+      "output": "I think it's because they're not really interested in the story. They're more interested in the characters and the action.\nI think it's because they're not really interested in the story. They're more interested in the characters and the action.\nI think it's because they're not really interested in"
+    }
+  ],
+  "47": [
+    {
+      "id": "47_orig",
+      "input": "why does wikipedia ask for donations almost every month? do they really need it to not disappear?",
+      "output": "I think it’s a good idea to have a place to donate to, but I don’t think it’s a good idea to ask for donations.\nI think it’s a good idea to have a place to donate to, but I don’t think it’s a good idea to"
+    },
+    {
+      "id": "47_var1",
+      "input": "why dose wikipedia ack foir donations almost evry month? doo thrar relie need it too knot disappear?",
+      "output": "I’m not sure what you mean by “doo thrar” but I’m pretty sure that the “doo thrar” is a reference to the fact that the “doo thrar” is a reference to the fact that the “doo thrar” is a reference to the fact"
+    },
+    {
+      "id": "47_var2",
+      "input": "wiy doens wikipedia ack fre donations almost evry month? don that reely need it to nat disappear?",
+      "output": "I’m not sure what you mean by “donations”. I’m not sure what you mean by “donations”.\nI’m not sure what you mean by “donations”.\nI’m not sure what you mean by “donations”.\nI’m not sure what you mean"
+    },
+    {
+      "id": "47_var3",
+      "input": "yoy dose wikipedia ack fror donations all_most every month? bood tyhe weer need it ro not disappear?",
+      "output": "I'm not sure if I'm the only one but I'm having trouble getting the \"new\" version of the site to work. I've tried everything I can think of and I'm still getting the same error message.\nI'm not sure if I'm the only one but I'm having trouble getting the"
+    },
+    {
+      "id": "47_var4",
+      "input": "way dus wikipedia aske fo donations almost eyery month? do thea reliy needd it ro not disappear?",
+      "output": "I think the problem is that the site is not being updated.\nI think the problem is that the site is not being updated. I think the problem is that the site is not being updated.\nI think the problem is that the site is not being updated.\nI think the problem is that the site"
+    },
+    {
+      "id": "47_var5",
+      "input": "wy dose wikipedia ask for donations all_most ever month? olethl that reyely ened it too not disappear?",
+      "output": "I'm not sure what you mean by \"all-most ever month\".\nI'm not sure what you mean by \"all-most ever month\".\nI'm not sure what you mean by \"all-most ever month\".\nI'm not sure what you mean by \"all-most ever month\"."
+    },
+    {
+      "id": "47_var6",
+      "input": "wy doens wikipedia arsc for donations almost every month? bood thy rayly nead she to hot disappear?",
+      "output": "I am a new member and I am very happy to be here. I have been a member of the forum for a while now and I have been very happy with the service I have received. I have been a member of the forum for a while now and I have been very happy with the service I have received"
+    },
+    {
+      "id": "47_var7",
+      "input": "wy dus wikipedia ack for donations all_most ever month? do theire rayly needd hit to not disappear?",
+      "output": "I'm not sure if I'm the only one, but I'm not sure if I'm the only one who's noticed that the \"new\" page for the \"new\" site is not the same as the \"old\" page.\nI'm not sure if I'm the only one, but I'm"
+    },
+    {
+      "id": "47_var8",
+      "input": "wy does wikipedia ack for donations almost evay month? done tehy rery ened it ro hot disappear?",
+      "output": "I am a new member and I am very happy to be here. I have been a member of the forum for a while now and I have been trying to find a way to donate to the forum. I have been trying to find a way to donate to the forum. I have been trying to find a way"
+    },
+    {
+      "id": "47_var9",
+      "input": "wiy does wikipedia aske fo donations almost evry month? drow they really nead et th nto disappear?",
+      "output": "I think the problem is that the people who are trying to get the site to work are not the people who are actually using it.\nI think the problem is that the people who are trying to get the site to work are not the people who are actually using it. I think the problem is that the people"
+    },
+    {
+      "id": "47_var10",
+      "input": "wiy doens wikipedia arsc far donations allmost every month? do thea realea needd it ro not disappear?",
+      "output": "I think thea realea is a good idea. I think it would be a good idea to have a list of all the people who have donated to thea realea. I think it would be a good idea to have a list of all the people who have donated to thea realea"
+    }
+  ],
+  "48": [
+    {
+      "id": "48_orig",
+      "input": "why, when intoxicated, does it feel like everything is spinning when you close your eyes but stops spinning when you open them?",
+      "output": "I’m not sure what the answer is, but I’m sure it’s not a simple one.\nI’m not sure what the answer is, but I’m sure it’s not a simple one.I’m not sure what the answer is, but I’m sure it"
+    },
+    {
+      "id": "48_var1",
+      "input": "why, want intoxicated, does it fiel look everthing as spinning when you clos your eye but stops spinning whn uoy open them?",
+      "output": "I think it is a good idea to have a look at the other thread.\nI think it is a good idea to have a look at the other thread. I think it is a good idea to have a look at the other thread.\nI think it is a good idea to have a look at the"
+    },
+    {
+      "id": "48_var2",
+      "input": "why, when intoxicated, dose she feel liuke every-thing is sping when you clos your eyey bun stops sindn when you open them?",
+      "output": "I think she is just a little bit drunk.\nI think she is just a little bit drunk. I think she is just a little bit drunk.\nI think she is just a little bit drunk.\nI think she is just a little bit drunk.\nI think she is just a little bit drunk"
+    },
+    {
+      "id": "48_var3",
+      "input": "why, when intoxicated, does it fiel like everthing is sereng whan you clos your eyes bun stops saing when yow opin them?",
+      "output": "I think it's a good idea to have a few people who are not in the same room as the person who is having the problem.\nI think it's a good idea to have a few people who are not in the same room as the person who is having the problem.\nI think it's a"
+    },
+    {
+      "id": "48_var4",
+      "input": "why, when intoxicated, does it feal like evething his spinning want na clos your eyes but stops spin when yau opin them?",
+      "output": "I think that the problem is that the word \"feal\" is used in a way that is not really accurate.\nThe word \"feal\" is used in a way that is not really accurate.\nI think that the word \"feal\" is used in a way that is not really accurate."
+    },
+    {
+      "id": "48_var5",
+      "input": "why, want intoxicated, dus it feel like everythink is spinning when you clos yor iyes put stops spinning whene w open them?",
+      "output": "I think it's a good idea to have a \"no-touch\" policy. I don't think it's a good idea to have a \"no-touch\" policy for a reason.\nI think it's a good idea to have a \"no-touch\" policy. I don't think it's"
+    },
+    {
+      "id": "48_var6",
+      "input": "why, when intoxicated, doens it feel took everything in spinning when yo clos your eyes bat stops soling whern yuo open them?",
+      "output": "I’m not sure if I’m the only one who’s noticed this, but I’ve noticed that when I’m drunk, I’m more likely to be able to see things that I can’t see when I’m sober.\nI’m not sure if this is a"
+    },
+    {
+      "id": "48_var7",
+      "input": "why, when intoxicated, does is feal like every-thing is sin when uoy close your iyes bun stops spinning weten you opean them?",
+      "output": "I think that is a good point. I think that is a good point.\nI think that is a good point. I think that is a good point.\nI think that is a good point. I think that is a good point.\nI think that is a good point. I think that is"
+    },
+    {
+      "id": "48_var8",
+      "input": "why, we intoxicated, does it feel lire everything is sindn when yew clos yer eyes dut stops sining want you open them?",
+      "output": "I’m not sure what you mean by “we intoxicated.” I’m not sure what you mean by “we intoxicated.” I’m not sure what you mean by “we intoxicated.” I’m not sure what you mean by “we intoxicated.” I’m not sure what you mean by “we"
+    },
+    {
+      "id": "48_var9",
+      "input": "why, will intoxicated, doens it feel like everything us spin whene yew close you iyes byt stops spinning when you open them?",
+      "output": "I think it's a good idea to have a little bit of a buffer between the two.\nI think it's a good idea to have a little bit of a buffer between the two. I think it's a good idea to have a little bit of a buffer between the two. I think it's a"
+    },
+    {
+      "id": "48_var10",
+      "input": "why, when intoxicated, dus i feel like everthing is spcing wene you clos you eyes buts stops spinning when yoy open them?",
+      "output": "I have a friend who is a professional photographer. He has a very good eye for detail. He has a very good eye for composition. He has a very good eye for lighting. He has a very good eye for color. He has a very good eye for composition. He has a very good eye for lighting"
+    }
+  ],
+  "49": [
+    {
+      "id": "49_orig",
+      "input": "with such an important vote like appointing a supreme court nomine, why is the senate floor so empty?",
+      "output": "I think the answer is that the senate is not a place where the majority party can get away with anything.\nThe senate is a place where the majority party can get away with anything.\nThe senate is a place where the majority party can get away with anything. The senate is a place"
+    },
+    {
+      "id": "49_var1",
+      "input": "wheth sach un important voet liek appointing and supreme court nomine, why us my senate floor soen empty?",
+      "output": "I am not sure what you mean by “empty” senate floor.\nI am not sure what you mean by “empty” senate floor.\nI am not sure what you mean by “empty” senate floor.\nI am not sure what you mean by “empty” senate floor."
+    },
+    {
+      "id": "49_var2",
+      "input": "wtih such un importnat voet lik appointing a supreme court nomine, why is tje senet foor sol empty?",
+      "output": "The senet is empty because the senet is empty.\nThe senet is empty because the senet is empty. The senet is empty because the senet is empty.\nThe senet is empty because the senet is empty. The senet is empty because the senet is empty."
+    },
+    {
+      "id": "49_var3",
+      "input": "with such an import vote liek appointing and supreme court nomine, wy his tie senete foor slow empty?",
+      "output": "The senate is the only body that can confirm or reject a president's nomination.\nThe senate is the only body that can confirm or reject a president's nomination.\nThe senate is the only body that can confirm or reject a president's nomination.\nThe senate is the only body that can"
+    },
+    {
+      "id": "49_var4",
+      "input": "wit such am impotant vote lick appointing a supreme court nomine, way in my senete foor so empty?",
+      "output": "I am not a lawyer, but I am a citizen of the United States. I am not a lawyer, but I am a citizen of the United States. I am not a lawyer, but I am a citizen of the United States. I am not a lawyer, but I am a citizen of the United States"
+    },
+    {
+      "id": "49_var5",
+      "input": "whin suu and important voet lire appointing a supreme courst nomine, why his i senate floor slow empty?",
+      "output": "The Senate is the upper house of the bicameral legislature of the United States. The Senate is the upper house of the bicameral legislature of the United States. The Senate is the upper house of the bicameral legislature of the United States. The Senate is the upper house of the bicameral legislature"
+    },
+    {
+      "id": "49_var6",
+      "input": "with such am important vot liek appointing are supreme courst nomine, way as the senete floor some empty?",
+      "output": "_The_ _senate_ _is_ _the_ _highest_ _court_ _of_ _the_ _nation_ _and_ _the_ _only_ _court_ _that_ _can_ _be_ _appointed_ _by_ _the_ _people_"
+    },
+    {
+      "id": "49_var7",
+      "input": "wihth sach an important voat took appointing the supreme cort nomine, wiy is the senate foor soe empty?",
+      "output": "The senate is empty because the senate is not a body of men, but a body of women.\nThe senate is not a body of men, but a body of women.\nThe senate is not a body of men, but a body of women.\nThe senate is not a"
+    },
+    {
+      "id": "49_var8",
+      "input": "went shuch an important vote lire appointing ah supreme courst nomine, wiy is th senate foor soen empty?",
+      "output": "I think the answer is that the Senate is not empty. It is a body of people who are not elected by the people. It is a body of people who are appointed by the people.\nThe Senate is a body of people who are appointed by the people.\nThe Senate is a body of people who"
+    },
+    {
+      "id": "49_var9",
+      "input": "what suu an important vote lick appointing an supreme court nomine, wy is that senete foor slow empty?",
+      "output": "I think the senate should be able to vote on the supreme court nominees.\nI think the senate should be able to vote on the supreme court nominees.\nI think the senate should be able to vote on the supreme court nominees.\nI think the senate should be able to"
+    },
+    {
+      "id": "49_var10",
+      "input": "what shuch an important vot like appointing a supreme cort nomine, way it tje senete floor sow empty?",
+      "output": "The senate is the supreme court of the United States.\nThe senate is the supreme court of the United States. The senate is the supreme court of the United States. The senate is the supreme court of the United States. The senate is the supreme court of the United States. The sen"
     }
   ]
 }
