@@ -5,7 +5,7 @@ import csv
 # Set paths
 current_dir = os.path.dirname(__file__)
 input_path = os.path.join(current_dir, 'misspelled.csv')
-output_path = os.path.join(current_dir, '..', 'data', 'misspellings.csv')
+output_path = os.path.join(current_dir, '..', 'Data', 'misspellings.csv')
 
 # Load the CSV
 df = pd.read_csv(input_path)

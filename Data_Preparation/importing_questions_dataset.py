@@ -4,7 +4,7 @@ import os
 
 # === FILE LOCATIONS ===
 input_file = "ELI5-001.jsonl"  # in Data_Preparation/
-output_file = os.path.join("..", "data", "questions.csv")
+output_file = os.path.join("..", "Data", "questions.csv")
 num_questions = 50
 
 # === ENSURE OUTPUT DIRECTORY EXISTS ===
@@ -35,4 +35,4 @@ with open(input_file, 'r', encoding='utf-8') as infile, \
         if count >= num_questions:
             break
 
-print(f"\n✅ Done: Saved {count} question(s) ending with '?' to '../data/questions.csv'")
+print(f"\n✅ Done: Saved {count} question(s) ending with '?' to '../Data/questions.csv'")

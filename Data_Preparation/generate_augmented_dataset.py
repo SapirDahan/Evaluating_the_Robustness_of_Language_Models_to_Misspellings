@@ -10,9 +10,9 @@ print(f"Using device: {device}")
 
 # ───── Paths ───── #
 base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-questions_path    = os.path.join(base_dir, 'data', 'questions.csv')
-misspellings_path = os.path.join(base_dir, 'data', 'misspellings.csv')
-output_path       = os.path.join(base_dir, 'data', 'augmented_questions.csv')
+questions_path    = os.path.join(base_dir, 'Data', 'questions.csv')
+misspellings_path = os.path.join(base_dir, 'Data', 'misspellings.csv')
+output_path       = os.path.join(base_dir, 'Data', 'augmented_questions.csv')
 
 # ───── Load CSVs ───── #
 questions_df     = pd.read_csv(questions_path)

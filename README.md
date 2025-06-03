@@ -87,57 +87,67 @@ This strong positive correlation suggests that larger models are significantly m
 
 ### Similarity Score Degradation with Error Count
 
-![Mean similarity scores vs error count](readme_images/similarity_vs_error_count.png)
+![Mean similarity scores vs error count](Readme_Images/similarity_vs_error_count.png)
 
 > *Figure 1: Mean similarity scores for each model as a function of the number of misspellings in the input. A steady decline is observed, with larger models showing slower degradation.*
 
 ### Distribution of Similarity Scores by Error Count (Boxplot)
 
-![Boxplot of similarity scores by error count](readme_images/similarity_distribution_boxplot.png)
+![Boxplot of similarity scores by error count](Readme_Images/similarity_distribution_boxplot.png)
 
 > *Figure 2: Boxplot showing the distribution of similarity scores for different numbers of misspellings aggregated over all models.*
 
 ### Distribution of Similarity Scores by Error Count (Violin Plot)
 
-![Violin plot of similarity scores by error count](readme_images/similarity_distribution_violinplot.png)
+![Violin plot of similarity scores by error count](Readme_Images/similarity_distribution_violinplot.png)
 
 > *Figure 3: Violin plot showing the distribution of similarity scores for different numbers of misspellings aggregated over all models.*
 
 ### Mean Similarity Score vs. Error Count per Model (Ordered by Model Size)
 
-![Mean similarity score vs error count per model](readme_images/mean_similarity_vs_error_count_per_model.png)
+![Mean similarity score vs error count per model](Readme_Images/mean_similarity_vs_error_count_per_model.png)
 
 > *Figure 4: Mean similarity score vs. error count for each model, with models ordered by size. Each line shows how robustness changes as error count increases.*
 
 ### Distribution of Similarity Scores per Model (Ordered by Model Size)
 
-![Boxplot of similarity scores per model ordered by model size](readme_images/similarity_distribution_per_model_ordered.png)
+![Boxplot of similarity scores per model ordered by model size](Readme_Images/similarity_distribution_per_model_ordered.png)
 
 > *Figure 5: Distribution of similarity scores for each model, ordered by model size. Models are displayed from smallest to largest, showing how performance varies with model capacity.*
 
 ### Distribution of Similarity Scores Per Model
 
-![Boxplot of similarity scores per model](readme_images/similarity_distribution_per_model.png)
+![Boxplot of similarity scores per model](Readme_Images/similarity_distribution_per_model.png)
 
 > *Figure 6: Distribution of similarity scores for each model, ordered by model size. Boxplots are colored according to model size, and a colorbar indicates the parameter scale.*
 
 ### Robustness Degradation Rate
 
-![Barplot of robustness degradation slopes](readme_images/robustness_degradation_slope.png)
+![Barplot of robustness degradation slopes](Readme_Images/robustness_degradation_slope.png)
 
 > *Figure 7: Degradation slope for each model. Higher slopes indicate slower performance decline under increasing input noise.*
 
 ### Model Size vs Mean Similarity Score
 
-![Scatter plot of model size vs mean similarity](readme_images/model_size_vs_similarity.png)
+![Scatter plot of model size vs mean similarity](Readme_Images/model_size_vs_similarity.png)
 
 > *Figure 8: Scatter plot showing model size (log-scaled) versus mean similarity score. The red line represents the best-fit linear regression. A Pearson correlation of 0.83 indicates a strong positive relationship.*
 
 ## Word Count Comparison Analysis
 
-![Placeholder for word count comparison](readme_images/word_count_vs_similarity.png)
+To complement the similarity-based robustness evaluation, we analyze how the output length (in terms of word count) changes as a function of the number of misspellings introduced into the input.
 
-<!--> *Figure 9: Word count comparison analysis — [placeholder for future analysis]* -->
+For each model and each error level:
+- We compute the percentage change in word count between the output for the corrupted input and the output for the clean input.
+- The change is expressed relative to the original word count to normalize across sentences of different lengths.
+
+This analysis reveals whether models tend to generate longer or shorter outputs in response to input perturbations and whether model size correlates with stability in output length.
+
+### Word Count Change vs. Error Count
+
+![Line plot of word count change vs. error count](Readme_Images/word_count_change_vs_error_count.png)
+
+> *Figure 9: Average percentage change in output word count as a function of the number of misspellings for each model. A positive change indicates longer outputs, while a negative change indicates shorter outputs. Larger models show greater stability with smaller deviations in output length.*
 
 ## Conclusion
 
