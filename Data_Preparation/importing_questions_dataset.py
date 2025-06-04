@@ -2,15 +2,15 @@ import json
 import csv
 import os
 
-# === FILE LOCATIONS ===
+# FILE LOCATIONS
 input_file = "ELI5-001.jsonl"  # in Data_Preparation/
 output_file = os.path.join("..", "Data", "questions.csv")
 num_questions = 50
 
-# === ENSURE OUTPUT DIRECTORY EXISTS ===
+# ENSURE OUTPUT DIRECTORY EXISTS
 os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
-# === EXTRACT QUESTIONS ENDING WITH "?" ===
+# EXTRACT QUESTIONS ENDING WITH "?"
 count = 0
 with open(input_file, 'r', encoding='utf-8') as infile, \
      open(output_file, 'w', newline='', encoding='utf-8') as outfile:
@@ -35,4 +35,4 @@ with open(input_file, 'r', encoding='utf-8') as infile, \
         if count >= num_questions:
             break
 
-print(f"\n✅ Done: Saved {count} question(s) ending with '?' to '../Data/questions.csv'")
+print(f"\nDone: Saved {count} question(s) ending with '?' to '../Data/questions.csv'")

@@ -4,21 +4,21 @@ import os
 import random
 from tqdm import tqdm
 
-# ───── Configuration ───── #
+# Configuration
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
-# ───── Paths ───── #
+# Paths
 base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-questions_path    = os.path.join(base_dir, 'Data', 'questions.csv')
+questions_path = os.path.join(base_dir, 'Data', 'questions.csv')
 misspellings_path = os.path.join(base_dir, 'Data', 'misspellings.csv')
-output_path       = os.path.join(base_dir, 'Data', 'augmented_questions.csv')
+output_path = os.path.join(base_dir, 'Data', 'augmented_questions.csv')
 
-# ───── Load CSVs ───── #
-questions_df     = pd.read_csv(questions_path)
-misspellings_df  = pd.read_csv(misspellings_path)
+#  Load CSV
+questions_df = pd.read_csv(questions_path)
+misspellings_df = pd.read_csv(misspellings_path)
 
-# ───── Parse misspellings into a dict ───── #
+# Parse misspellings into a dict
 misspellings_dict = {}
 for _, row in misspellings_df.iterrows():
     word = row['correct_word'].lower()
@@ -26,7 +26,7 @@ for _, row in misspellings_df.iterrows():
     if miss:
         misspellings_dict[word] = miss
 
-# ───── Build vocab and mappings ───── #
+# Build vocab and mappings
 vocab = set()
 for q in questions_df['question']:
     vocab.update(q.lower().split())
@@ -44,7 +44,7 @@ def adjust_case(orig: str, new: str) -> str:
     if orig.islower():   return new.lower()
     return new
 
-# ───── Tokenize / Detokenize ───── #
+# Tokenize / Detokenize functions
 def tokenize(sent: str) -> list[int]:
     return [word2idx[w.lower()] for w in sent.split()]
 
@@ -56,7 +56,7 @@ def detokenize(idxs: list[int], orig_sent: str) -> str:
         out_words.append(adjust_case(orig_words[i], w_new))
     return " ".join(out_words)
 
-# ───── Generate variants, leveraging GPU for token ops ───── #
+# Generate variants, leveraging GPU for token ops
 def generate_variants_gpu(sentence: str, max_errors: int = 10, variants_per_error: int = 10):
     orig_words  = sentence.split()
     lower_words = [w.lower() for w in orig_words]
@@ -104,17 +104,17 @@ def generate_variants_gpu(sentence: str, max_errors: int = 10, variants_per_erro
 
     return variants
 
-# ───── Main augmentation loop ───── #
+# Main augmentation loop
 augmented = []
 for q in tqdm(questions_df['question'], desc="Augmenting"):
     for var, errs in generate_variants_gpu(q, max_errors=10, variants_per_error=10):
         augmented.append({
             'original_question': q,
-            'variant_question':  var,
-            'error_count':       errs
+            'variant_question': var,
+            'error_count': errs
         })
 
-# ───── Save ───── #
+# Save augmented dataset
 aug_df = pd.DataFrame(augmented)
 aug_df.to_csv(output_path, index=False)
 print(f"✓ Saved augmented dataset to: {output_path}")

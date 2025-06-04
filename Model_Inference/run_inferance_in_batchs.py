@@ -6,12 +6,12 @@ from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from accelerate import dispatch_model
 
-# Hugging Face token (optional: only needed for gated models)
-token = "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"
+# Hugging Face token
+token = "Add token here"
 
 # Inference config
 BATCH_SIZE = 16
-MAX_NEW_TOKENS = 32
+MAX_NEW_TOKENS = 64
 
 tokenizer_cache = {}
 model_cache = {}
@@ -23,14 +23,12 @@ SMALL_MODELS = [
     "openai-community/gpt2",
     "EleutherAI/pythia-70m",
     "EleutherAI/pythia-160m",
-    #"mosaicml/mpt-1b-redpajama-200b",
     "EleutherAI/pythia-1.4b"
 ]
 
 # Define per-model quantization preference for large models
 QUANTIZATION_MODELS = {
     "mosaicml/mpt-1b-redpajama-200b": "8bit",
-    # "mosaicml/mpt-1b-chat": "8bit",  # Commented - invalid model
     "EleutherAI/pythia-1.4b": "8bit",
     "HuggingFaceH4/zephyr-7b-beta": "8bit",
 }
@@ -57,11 +55,11 @@ def load_model_and_tokenizer(model_name):
     ]
 
     if model_name not in tokenizer_cache:
-        print(f"\n🔄 Loading model: {model_name}")
+        print(f"\nLoading model: {model_name}")
         try:
             tokenizer_args = {
                 "use_safetensors": True,
-                "token": token  # Always pass the token
+                "token": token
             }
 
             if model_name in SMALL_MODELS:
@@ -143,7 +141,7 @@ def load_model_and_tokenizer(model_name):
             tokenizer_cache[model_name] = tokenizer
             model_cache[model_name] = model
         except Exception as e:
-            print(f"❌ Could not load {model_name}: {e}")
+            print(f"Could not load {model_name}: {e}")
             return None, None
     return model_cache[model_name], tokenizer_cache[model_name]
 
@@ -172,30 +170,30 @@ def remove_prompt(prompt, output):
     return output.strip()
 
 model_names = [
-    # "mistralai/Mistral-7B-v0.1",
-    # "HuggingFaceH4/zephyr-7b-beta",
-    # "openchat/openchat-3.5-0106", # done until here
+    "mistralai/Mistral-7B-v0.1",
+    "HuggingFaceH4/zephyr-7b-beta",
+    "openchat/openchat-3.5-0106",
     "mosaicml/mpt-7b-instruct",
     "mosaicml/mpt-7b-chat",
-    "tiiuae/falcon-7b-instruct", #slow
-    # "mosaicml/mpt-1b-redpajama-200b", # done
-    # "EleutherAI/pythia-1.4b", # done
-    # "EleutherAI/pythia-2.8b", # done from here until down
-    # "EleutherAI/gpt-neo-2.7B",
-    # "Salesforce/codegen-350M-mono",
-    # "EleutherAI/gpt-neo-125M",
-    # "openai-community/gpt2",
-    # "EleutherAI/pythia-70m",
-    # "EleutherAI/pythia-160m"
+    "tiiuae/falcon-7b-instruct",
+    "mosaicml/mpt-1b-redpajama-200b",
+    "EleutherAI/pythia-1.4b",
+    "EleutherAI/pythia-2.8b",
+    "EleutherAI/gpt-neo-2.7B",
+    "Salesforce/codegen-350M-mono",
+    "EleutherAI/gpt-neo-125M",
+    "openai-community/gpt2",
+    "EleutherAI/pythia-70m",
+    "EleutherAI/pythia-160m"
 ]
 
 device = 0 if torch.cuda.is_available() else -1
-print(f"\n👨‍💻 Running inference on {'GPU' if device == 0 else 'CPU'}")
+print(f"\nRunning inference on {'GPU' if device == 0 else 'CPU'}")
 
 for model_name in model_names:
     model_dir = os.path.join("model_outputs", model_name.replace("/", "_").lower())
     if not os.path.exists(model_dir):
-        print(f"⚠ Skipping {model_name} — output directory not found.")
+        print(f"Skipping {model_name} — output directory not found.")
         continue
 
     model, tokenizer = load_model_and_tokenizer(model_name)
@@ -205,13 +203,13 @@ for model_name in model_names:
     json_files = sorted(f for f in os.listdir(model_dir) if f.endswith(".json"))
     for file in json_files:
         path = os.path.join(model_dir, file)
-        print(f"⚙ Processing {file}...")
+        print(f"Processing {file}...")
 
         try:
             with open(path, "r", encoding="utf-8") as f:
                 data = json.load(f)
         except Exception as e:
-            print(f"❌ Failed to open {file}: {e}")
+            print(f"Failed to open {file}: {e}")
             continue
 
         for qid, entries in tqdm(data.items(), desc=f"{model_name} - {file}"):
@@ -237,6 +235,6 @@ for model_name in model_names:
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
         except Exception as e:
-            print(f"❌ Failed to save {file}: {e}")
+            print(f"Failed to save {file}: {e}")
 
-print("\n✅ Inference complete.")
+print("\nInference complete.")

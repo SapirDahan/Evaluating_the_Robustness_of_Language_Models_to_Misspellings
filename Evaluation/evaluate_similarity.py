@@ -10,7 +10,7 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Load sentence embedding model
 model = SentenceTransformer("all-mpnet-base-v2", device=DEVICE)
-model.max_seq_length = 256  # Optional: speed boost if outputs are short
+model.max_seq_length = 256
 
 # Paths
 project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -68,4 +68,4 @@ for model_dir in tqdm(model_dirs, desc="🔍 Evaluating models"):
 # Save to JSON
 with open(save_path, "w", encoding="utf-8") as f:
     json.dump(results, f, indent=2)
-print(f"✅ Done! Results saved to: {save_path}")
+print(f"Done! Results saved to: {save_path}")
